@@ -1,5 +1,5 @@
 
-## the following papers are recommended to our graduate students if you are interested in statistical genetics.
+## The following papers are recommended to our graduate students if you are interested in statistical genetics.
 
 + The Wellcome Trust Case Control Consortium. Genome-wide association study of 14,000 cases of seven common diseases and 3,000 shared controls. Nature 2007; 447(7145): 661-678.
 + Balding DJ. A tutorial on statistical methods for population association studies. Nature Reviews. Genetics 2006; 7(10): 781-791.
