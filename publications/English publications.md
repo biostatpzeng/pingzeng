@@ -4,7 +4,7 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou (2017). iMAP for pleiotropic association mapping.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Shuiping Huang (2017). Cis-SNPs Set Testing and PrediXcan Analysis for Gene Expression Data using Linear Mixed Model. **Scientific Reports** (in press). [Software](https://github.com/biostatpzeng/LRT) [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017SR.pdf).
++ [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Shuiping Huang (2017). Cis-SNPs Set Testing and PrediXcan Analysis for Gene Expression Data using Linear Mixed Model. **Scientific Reports** (in press). [Software](https://github.com/biostatpzeng/LRT), [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017SR.pdf).
 
 > #### 2017
 + [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2017). Non-parametric genetic prediction of complex traits with latent Dirichlet process regression models. **Nature Communications**, 8(1): 456, [Doi: 10.1038/s41467-017-00470-2](https://www.nature.com/articles/s41467-017-00470-2?WT.feed_name=subjects_genetics).  [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017NC.pdf), [Software](https://github.com/biostatpzeng/DPR) 
