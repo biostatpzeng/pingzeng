@@ -1,5 +1,5 @@
 
-> ## 2018
+> ## Under Review
 + Xingjie Hao, [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2017). SMART for annotation identification.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou (2017). iMAP for pleiotropic association mapping.
