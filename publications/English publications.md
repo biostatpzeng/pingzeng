@@ -1,9 +1,10 @@
 
 > ## Under Review
-+ Xingjie Hao, [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2017). SMART for annotation identification.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou (2017). iMAP for pleiotropic association mapping.
 
+> ## 2016
++ Xingjie Hao, [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2017). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies.  **PLoS Genetics** (in press), [PDF](https://www.biorxiv.org/content/early/2018/01/04/242990).
 
 > ## 2017
 + [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Shuiping Huang (2017). Cis-SNPs Set Testing and PrediXcan Analysis for Gene Expression Data using Linear Mixed Model. **Scientific Reports**, 7(1): 15237. [Doi: 10.1038/s41598-017-15055-8](https://www.nature.com/articles/s41598-017-15055-8). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017SR.pdf), [Software](https://github.com/biostatpzeng/LRT).
