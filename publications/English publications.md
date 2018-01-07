@@ -1,27 +1,27 @@
 
 > ## Under Review
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou (2017). iMAP for pleiotropic association mapping.
++ [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou (2017). Pleiotropic mapping and annotation selection in genome-wide association studies with penalized gaussian mixture models.
 
 > ## 2018
-+ Xingjie Hao, [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2018). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies.  **PLoS Genetics** (in press), [PDF](https://www.biorxiv.org/content/early/2018/01/04/242990).
++ Xingjie Hao, [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2018). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies. **PLoS Genetics** (in press), [PDF](https://www.biorxiv.org/content/early/2018/01/04/242990).
 
 > ## 2017
 + [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Shuiping Huang (2017). Cis-SNPs Set Testing and PrediXcan Analysis for Gene Expression Data using Linear Mixed Model. **Scientific Reports**, 7(1): 15237. [Doi: 10.1038/s41598-017-15055-8](https://www.nature.com/articles/s41598-017-15055-8). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017SR.pdf), [Software](https://github.com/biostatpzeng/LRT).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2017). Non-parametric genetic prediction of complex traits with latent Dirichlet process regression models. **Nature Communications**, 8(1): 456. [Doi: 10.1038/s41467-017-00470-2](https://www.nature.com/articles/s41467-017-00470-2?WT.feed_name=subjects_genetics).  [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017NC.pdf), [Software](https://github.com/biostatpzeng/DPR) 
++ [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2017). Non-parametric genetic prediction of complex traits with latent Dirichlet process regression models. **Nature Communications**, 8(1): 456. [Doi: 10.1038/s41467-017-00470-2](https://www.nature.com/articles/s41467-017-00470-2?WT.feed_name=subjects_genetics). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017NC.pdf), [Software](https://github.com/biostatpzeng/DPR) 
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Xiang Zhou and Shuiping Huang (2017). Prediction of gene expression with cis-SNPs using mixed models and regularization methods. **BMC Genomics**, 18(1): 368. [Doi: 10.1186/s12864-017-3759-6](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3759-6).  [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017BMCGEMICS.pdf), [Software](https://github.com/genetics-statistics/GEMMA) 
++ [**Ping Zeng**](https://github.com/biostatpzeng), Xiang Zhou and Shuiping Huang (2017). Prediction of gene expression with cis-SNPs using mixed models and regularization methods. **BMC Genomics**, 18(1): 368. [Doi: 10.1186/s12864-017-3759-6](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-017-3759-6). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017BMCGEMICS.pdf), [Software](https://github.com/genetics-statistics/GEMMA) 
 
 + Lorin Crawford, [**Ping Zeng**](https://github.com/biostatpzeng), Sayan Mukherjee and Xiang Zhou (2017). Detecting epistasis with the marginal epistasis test in genetic mapping studies of quantitative traits. **PLoS Genetics**, 13(7): e1006869. [Doi: 10.1371/journal.pgen.1006869](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006869). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2017PLOSGENETICS.pdf), [Software](https://github.com/lorinanthony/MAPIT)
     
 > ## 2015
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Chen Qian, Liwei Zhang, Ruyang Zhang, Jianwei Gou, Jin Liu, Liya Liu and Feng Chen (2015). Statistical analysis for Genome-Wide Association Study. **Journal of Biomedical Research**, 29(4): 285-297. [Doi: 10.7555/JBR.29.20140007](http://www.jbr-pub.org/ch/reader/view_abstract.aspx?file_no=JBR150403&flag=1).  [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015JBR.pdf)
++ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Chen Qian, Liwei Zhang, Ruyang Zhang, Jianwei Gou, Jin Liu, Liya Liu and Feng Chen (2015). Statistical analysis for Genome-Wide Association Study. **Journal of Biomedical Research**, 29(4): 285-297. [Doi: 10.7555/JBR.29.20140007](http://www.jbr-pub.org/ch/reader/view_abstract.aspx?file_no=JBR150403&flag=1). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015JBR.pdf)
     
-+ [**Ping Zeng**](https://github.com/biostatpzeng) and Ting Wang (2015). Bootstrap restricted likelihood ratio test for the detection of rare variants. **Current Genomics**, 16(3): 194-202. [Doi: 10.2174/1389202916666150304234203](http://www.eurekaselect.com/129127).  [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015CGs.pdf)
++ [**Ping Zeng**](https://github.com/biostatpzeng) and Ting Wang (2015). Bootstrap restricted likelihood ratio test for the detection of rare variants. **Current Genomics**, 16(3): 194-202. [Doi: 10.2174/1389202916666150304234203](http://www.eurekaselect.com/129127). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015CGs.pdf)
 
 > ## 2014
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Hongliang Li, Ting Wang and Feng Chen (2014). Permutation-based variance component test in generalized linear mixed model with application to multilocus genetic association study. **BMC Medical Research Methodology**, 15(37). [Doi: 10.1186/s12874-015-0030-1](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-015-0030-1).  [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015BMCMM.pdf)
++ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Hongliang Li, Ting Wang and Feng Chen (2014). Permutation-based variance component test in generalized linear mixed model with application to multilocus genetic association study. **BMC Medical Research Methodology**, 15(37). [Doi: 10.1186/s12874-015-0030-1](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-015-0030-1). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015BMCMM.pdf)
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Jin Liu, Liya Liu, Liwei Zhang, Ting Wang, Shuiping Huang and Feng Chen (2014). Likelihood ratio tests in rare variant detection for continuous phenotypes. **Annals of Human Genetics**, 78(5): 320-332. [Doi: 10.1111/ahg.12071](http://onlinelibrary.wiley.com/doi/10.1111/ahg.12071/full). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2014AHG.pdf), [Software](https://github.com/biostatpzeng/LRT)
 
