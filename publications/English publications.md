@@ -1,7 +1,7 @@
 
 > ## Under Review
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou (2018). Pleiotropic mapping and annotation selection in genome-wide association studies with penalized gaussian mixture models. [PDF](https://www.biorxiv.org/content/early/2018/01/31/256461), [Software](https://github.com/biostatpzeng/iMAP).
++ [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou (2018). Pleiotropic Mapping and Annotation Selection in Genome-wide Association Studies with Penalized Gaussian Mixture Models. [PDF](https://www.biorxiv.org/content/early/2018/01/31/256461), [Software](https://github.com/biostatpzeng/iMAP).
 
 > ## 2018
 + Xingjie Hao, [**Ping Zeng**](https://github.com/biostatpzeng), Shujun Zhang and Xiang Zhou (2018). Identifying and exploiting trait-relevant tissues with multiple functional annotations in genome-wide association studies. **PLoS Genetics**, 14(1): e1007186. [PDF](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007186), [Software](http://www.xzlab.org/software.html).
