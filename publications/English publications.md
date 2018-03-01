@@ -20,8 +20,9 @@
     
 + [**Ping Zeng**](https://github.com/biostatpzeng) and Ting Wang (2015). Bootstrap restricted likelihood ratio test for the detection of rare variants. **Current Genomics**, 16(3): 194-202. [Doi: 10.2174/1389202916666150304234203](http://www.eurekaselect.com/129127). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015CGs.pdf)
 
++ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Hongliang Li, Ting Wang and Feng Chen (2015). Permutation-based variance component test in generalized linear mixed model with application to multilocus genetic association study. **BMC Medical Research Methodology**, 15(37). [Doi: 10.1186/s12874-015-0030-1](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-015-0030-1). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015BMCMM.pdf)
+
 > ## 2014
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Hongliang Li, Ting Wang and Feng Chen (2014). Permutation-based variance component test in generalized linear mixed model with application to multilocus genetic association study. **BMC Medical Research Methodology**, 15(37). [Doi: 10.1186/s12874-015-0030-1](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-015-0030-1). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015BMCMM.pdf)
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Jin Liu, Liya Liu, Liwei Zhang, Ting Wang, Shuiping Huang and Feng Chen (2014). Likelihood ratio tests in rare variant detection for continuous phenotypes. **Annals of Human Genetics**, 78(5): 320-332. [Doi: 10.1111/ahg.12071](http://onlinelibrary.wiley.com/doi/10.1111/ahg.12071/full). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2014AHG.pdf), [Software](https://github.com/biostatpzeng/LRT)
 
