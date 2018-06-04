@@ -17,7 +17,7 @@
 > ## 2015
 + [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Chen Qian, Liwei Zhang, Ruyang Zhang, Jianwei Gou, Jin Liu, Liya Liu and Feng Chen# (2015). Statistical analysis for Genome-Wide Association Study. **Journal of Biomedical Research**, 29(4): 285-297. [Doi: 10.7555/JBR.29.20140007](http://www.jbr-pub.org/ch/reader/view_abstract.aspx?file_no=JBR150403&flag=1). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015JBR.pdf)
     
-+ [**Ping Zeng**]#(https://github.com/biostatpzeng) and Ting Wang (2015). Bootstrap restricted likelihood ratio test for the detection of rare variants. **Current Genomics**, 16(3): 194-202. [Doi: 10.2174/1389202916666150304234203](http://www.eurekaselect.com/129127). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015CGs.pdf)
++ [**Ping Zeng**#](https://github.com/biostatpzeng) and Ting Wang (2015). Bootstrap restricted likelihood ratio test for the detection of rare variants. **Current Genomics**, 16(3): 194-202. [Doi: 10.2174/1389202916666150304234203](http://www.eurekaselect.com/129127). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015CGs.pdf)
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Hongliang Li, Ting Wang and Feng Chen# (2015). Permutation-based variance component test in generalized linear mixed model with application to multilocus genetic association study. **BMC Medical Research Methodology**, 15(37). [Doi: 10.1186/s12874-015-0030-1](https://bmcmedresmethodol.biomedcentral.com/articles/10.1186/s12874-015-0030-1). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2015BMCMM.pdf)
 
