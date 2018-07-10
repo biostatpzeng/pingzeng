@@ -1,5 +1,5 @@
 
-  [**# Corresponding Author**]
+  **# Corresponding Author**
 > ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis
 
