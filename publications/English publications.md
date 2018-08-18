@@ -1,6 +1,6 @@
 
   ****# Corresponding Author****
-> ## 2018 Under Review
+> ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis.
