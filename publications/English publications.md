@@ -11,6 +11,8 @@
 
 + Xinghao Yu, [**Ping Zeng**](https://github.com/biostatpzeng) and Shuiping Huang#</sup> (2018). JMAP for prediction using TCGA.
 
++ [**Ping Zeng**](https://github.com/biostatpzeng) (2018). Linear and Probit mixed prediction modeling.
+
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Birth weight and adult disease.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> (2018). Energy and ALS.
