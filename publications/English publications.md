@@ -5,15 +5,19 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng) (2018). simultaneously testing for genetically predcited gene expression levels.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng) (2018). Testing for genetically predcited gene expression levels.
++ Linyu Huang, [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Shuiping Huang#</sup> (2018). Alcohol drinking and ALS.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng) (2018). JMAP for prediction using TCGA.
++ Mingqi Wang, [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Shuiping Huang#</sup> (2018). Testing for genetically predcited gene expression levels.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou<sup>#</sup> (2018). Birth weight and adult disease.
++ Xinghao Yu, [**Ping Zeng**](https://github.com/biostatpzeng) and Shuiping Huang#</sup> (2018). JMAP for prediction using TCGA.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng) (2018). Energy and ALS.
++ [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Birth weight and adult disease.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng) (2018). BMI and ALS.
++ [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> (2018). Energy and ALS.
+
++ [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> (2018). BMI and ALS.
+
++ [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> (2018). Rare SNPs for predicting gene expression.
 
 > ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis.
