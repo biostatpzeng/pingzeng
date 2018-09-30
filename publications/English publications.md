@@ -1,6 +1,6 @@
 
   ****# Corresponding Author****
-> ## Under Review
+> ## Under Preparation
 + [**Ping Zeng**](https://github.com/biostatpzeng) (2018). Selecting genetically predcited gene expression levels.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng) (2018). simultaneously testing for genetically predcited gene expression levels.
@@ -15,6 +15,7 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng) (2018). BMI and ALS.
 
+> ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis.
