@@ -18,7 +18,7 @@
 > ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis.
++ [**Ping Zeng**]#</sup>(https://github.com/biostatpzeng) and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis.
 
 > ## 2018
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou<sup>#</sup> (2018). Pleiotropic Mapping and Annotation Selection in Genome-wide Association Studies with Penalized Gaussian Mixture Models. **Bioinformatics**, 34(16): 2797-2807. [Doi: 10.1093/bioinformatics/bty204](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext). [PDF](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext), [Software](https://github.com/biostatpzeng/iMAP).
