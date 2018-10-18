@@ -2,6 +2,8 @@
   ****# Corresponding Author****
   
 > ## Under Review
++ Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Shuiping Huang<sup>#</sup> (2018). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information.
+
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis.
