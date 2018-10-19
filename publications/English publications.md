@@ -2,6 +2,8 @@
   ****# Corresponding Author****
   
 > ## Under Review
++ [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods.
+
 + Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Shuiping Huang<sup>#</sup> (2018). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis.
