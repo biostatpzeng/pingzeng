@@ -8,7 +8,7 @@
 
 + Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2018). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. biorxiv: (https://www.biorxiv.org/content/early/2018/10/19/447573).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. [biorxiv link] (https://www.biorxiv.org/content/early/2018/10/19/447573).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis. 
 
