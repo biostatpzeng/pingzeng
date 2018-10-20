@@ -6,11 +6,11 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu, Lishun Xiao, Jianqiang Xu, Shuiping Huang and Haibo Xu<sup>#</sup> (2018). Assessment of the association between BMI and ALS using meta-analysis and Mendelian Randomization methods.
 
-+ Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2018). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information. [**biorxiv**](https://www.biorxiv.org/content/early/2018/10/19/447706). [Software](https://github.com/biostatpzeng/JMAP)
++ Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2018). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447706). [Software](https://github.com/biostatpzeng/JMAP)
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis. [**biorxiv**](https://www.biorxiv.org/content/early/2018/10/19/447581).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447581).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. [**biorxiv**](https://www.biorxiv.org/content/early/2018/10/19/447573).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447573).
 
 > ## 2018
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou<sup>#</sup> (2018). Pleiotropic Mapping and Annotation Selection in Genome-wide Association Studies with Penalized Gaussian Mixture Models. **Bioinformatics**, 34(16): 2797-2807. [Doi: 10.1093/bioinformatics/bty204](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext). [PDF](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext), [Software](https://github.com/biostatpzeng/iMAP).
