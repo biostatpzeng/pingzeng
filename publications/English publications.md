@@ -4,7 +4,7 @@
 > ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu, Lishun Xiao, Jianqiang Xu, Shuiping Huang and Haibo Xu<sup>#</sup> (2018). Assessment of the association between BMI and ALS using meta-analysis and Mendelian Randomization methods.
++ [**Ping Zeng**](https://github.com/biostatpzeng), Xinghao Yu, Xiang Zhou<sup>#</sup> and Haibo Xu<sup>#</sup> (2018). Assessment of the association between BMI and ALS using meta-analysis and Mendelian Randomization methods.
 
 + Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2018). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447706). [Software](https://github.com/biostatpzeng/JMAP)
 
