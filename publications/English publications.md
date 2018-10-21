@@ -1,6 +1,6 @@
 
-  ****# Corresponding Author****
- > - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Master students`
+****# Corresponding Author****
+> -![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **`Master students`**
   
 > ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods.
