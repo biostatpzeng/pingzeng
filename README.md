@@ -20,13 +20,16 @@ Project funded by China Postdoctoral Science Foundation (2018M630607)
 ## 2014-2015
 + 国家自然科学基金青年科学基金资助项目(81402765)
 National Natural Science Foundation of China (81402765)
+
 + 国家统计局全国统计科学研究项目(2014LY112) 
 Statistical Science Research Project from National Bureau of Statistics of China (2014LY112)
 
 ## Before 2013
 + 江苏省教育厅高校哲学社会科学研究基金资助项目(2013SJD790032, 2013SJB790059)
 College Philosophy and Social Science Foundation from Education Department of Jiangsu Province of P. R. China (2013SJB790059, 2013SJD790032)
+
 + 江苏省普通高校研究生科研创新计划项目(CXLX13_574)
+
 + 南京医科大学公共卫生学院优秀博士论文培育项目
 
 
