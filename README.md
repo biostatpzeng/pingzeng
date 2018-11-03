@@ -6,7 +6,7 @@
 
 + 2017-11-04 to present   : Postdoctoral Fellow, Cancer Center, Xuzhou Medical University
 
-+ 2012-12-01 to 2018-07-02: Assistant Lecturer, Department of Biostatistics, Xuzhou Medical University
++ 2012-12-01 to 2018-07-02: Lecturer, Department of Biostatistics, Xuzhou Medical University
 
 + 2012-12-01 to 2018-07-02: Lecturer, Department of Biostatistics, Xuzhou Medical University
 
