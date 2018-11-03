@@ -1,6 +1,6 @@
 ****# Corresponding Author****
 > [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn; 
-> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  **Master students**
+> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Master students**
   
 > ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods.
@@ -12,7 +12,7 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447573).
 
 > ## 2018
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447581). Human Molecular Genetics (in press).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Leveraging Mendelian Randomization to Assess the Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis.Human Molecular Genetics (in press) [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447581). 
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou<sup>#</sup> (2018). Pleiotropic Mapping and Annotation Selection in Genome-wide Association Studies with Penalized Gaussian Mixture Models. **Bioinformatics**, 34(16): 2797-2807. [Doi: 10.1093/bioinformatics/bty204](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext). [PDF](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext), [Software](https://github.com/biostatpzeng/iMAP).
 
@@ -38,6 +38,6 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Jin Liu, Liya Liu, Liwei Zhang, Ting Wang, Shuiping Huang and Feng Chen<sup>#</sup> (2014). Likelihood ratio tests in rare variant detection for continuous phenotypes. **Annals of Human Genetics**, 78(5): 320-332. [Doi: 10.1111/ahg.12071](http://onlinelibrary.wiley.com/doi/10.1111/ahg.12071/full). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2014AHG.pdf), [Software](https://github.com/biostatpzeng/LRT)
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Liwei Zhang, Shuiping Huang and Feng Chen<sup>#</sup> (2014). Rare Variants Detection with Kernel Machine Learning Based on Likelihood Ratio Test. **PLoS ONE**, 9(3): e93355. [Doi: 10.1371/journal.pone.0093355](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093355).  [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2014PLOSONE.pdf), [Software](https://github.com/biostatpzeng/LRT)
++ [**Ping Zeng**](https://github.com/biostatpzeng), Yang Zhao, Liwei Zhang, Shuiping Huang and Feng Chen<sup>#</sup> (2014). Rare Variants Detection with Kernel Machine Learning Based on Likelihood Ratio Test. **PLoS ONE**, 9(3): e93355. [Doi: 10.1371/journal.pone.0093355](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093355). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2014PLOSONE.pdf), [Software](https://github.com/biostatpzeng/LRT)
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Yongyue Wei, Yang Zhao, Jin Liu, Liya Liu, Ruyang Zhang, Jianwei Gou, Shuiping Huang and Feng Chen<sup>#</sup> (2014). Variable selection approach for zero-inflated count data via adaptive lasso. **Journal of Applied Statistics**, 41(4): 879-894. [Doi:10.1080/02664763.2013.858672](http://www.tandfonline.com/doi/abs/10.1080/02664763.2013.858672). [PDF](https://github.com/biostatpzeng/pingzeng/blob/master/paper/2014ZIP.pdf), [Software](https://github.com/biostatpzeng/ZIP)
