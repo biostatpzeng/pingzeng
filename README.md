@@ -2,7 +2,11 @@
 **![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Grants**
 
 **![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Employment**
-+ 2012-12-01 to 2018-07-02: Associate Professor, Department of Biostatistics, Xuzhou Medical University
++ 2018-07-02 to present   : Associate Professor, Department of Biostatistics, Xuzhou Medical University
+
++ 2017-11-04 to present   : Postdoctoral Fellow, Cancer Center, Xuzhou Medical University
+
++ 2012-12-01 to 2018-07-02: Assistant Lecturer, Department of Biostatistics, Xuzhou Medical University
 
 + 2012-12-01 to 2018-07-02: Lecturer, Department of Biostatistics, Xuzhou Medical University
 
