@@ -30,9 +30,9 @@ Statistical Science Research Project from National Bureau of Statistics of China
 + 江苏省教育厅高校哲学社会科学研究基金资助项目(2013SJD790032, 2013SJB790059)
 College Philosophy and Social Science Foundation from Education Department of Jiangsu Province of P. R. China (2013SJB790059, 2013SJD790032)
 
-+ 江苏省普通高校研究生科研创新计划项目(CXLX13_574)
++ 江苏省普通高校研究生科研创新计划项目(CXLX13_574) Graduate student scientific research innovation projects in jiangsu province
 
-+ 南京医科大学公共卫生学院优秀博士论文培育项目
++ 南京医科大学公共卫生学院优秀博士论文培育项目 Foundation for Excellent Doctor Training at the School of Public Health of Nanjing Medical University
 
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Employment
