@@ -2,7 +2,7 @@
 > [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn; 
 > ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Master students**
   
-> *My research is supported in part by NFSC and other findings from Chinese Government.*
+> *My research is supported in part by NFSC and other fundings from Chinese Government.*
   
 > ## Under Review
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods.
