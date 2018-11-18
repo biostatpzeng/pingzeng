@@ -5,7 +5,7 @@
 > *My research is supported in part by NFSC and other fundings from Chinese Government.*
   
 > ## Under Review
-+ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**Mingqi Wang**, Xinghao Yu, Linyu Huang, Xiang Zhou, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2018). A modified PrediXcan analysis in transcriptome wide association studies.
++ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)**Mingqi Wang**, Xinghao Yu, Linyu Huang, Xiang Zhou, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2018). A modified gene-based association analysis in transcriptome wide association studies.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xinghao Yu, Xiang Zhou<sup>#</sup> and Haibo Xu<sup>#</sup> (2018). Assessment of the association between premorbid BMI and ALS using meta-analysis and Mendelian Randomization methods.
 
