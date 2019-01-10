@@ -1,6 +1,6 @@
 ****# Corresponding Author****
 > [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn; 
-> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Master students**
+> ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **硕士研究生**
   
 > *My research is supported in part by NFSC and other fundings from Chinese Government.*
 
@@ -14,7 +14,7 @@
 
 > #### 2016
 + 王婷, 黄水平, 赵杨, 陈峰, 金英良, 赵华硕, [**曾平**](https://github.com/biostatpzeng)#. 罕见遗传位点关联性分析的近似限制性似然比统计学习. 现代预防医学, 2016, 43(9): 1537-1541, 1549.
-+ 唐明生, 黄水平, 金英良, 张耀东, 赵杨, 陈峰, [**曾平**](https://github.com/biostatpzeng)#. 重抽样方差成分检验的多位点关联分析. 中国卫生统计, 2016, 33(6): 997-1002.
++ 唐明生![#f03c15](https://placehold.it/15/f03c15/000000?text=+), 黄水平, 金英良, 张耀东, 赵杨, 陈峰, [**曾平**](https://github.com/biostatpzeng)#. 重抽样方差成分检验的多位点关联分析. 中国卫生统计, 2016, 33(6): 997-1002.
 
 
 > #### 2015
