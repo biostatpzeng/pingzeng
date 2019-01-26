@@ -5,7 +5,7 @@
 > *My research is supported in part by NFSC and other fundings from Chinese Government.*
   
 > ## Preprints
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Xinghao Yu, and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches.
++ [**Ping Zeng**](https://github.com/biostatpzeng), Xinghao Yu, and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. [biorxiv](https://www.biorxiv.org/content/10.1101/526186v1).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu, and Xiang Zhou<sup>#</sup> (2018). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods. [biorxiv](http://biorxiv.org/cgi/content/short/471425v1).
 
