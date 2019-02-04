@@ -14,7 +14,7 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447573).
 
 > ## 2019
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis: A Mendelian Randomization Study. **Human Molecular Genetics**, 28(4): 688–697.
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis: A Mendelian Randomization Study. **Human Molecular Genetics**, 28(4): 688-697.
  [doi: 10.1093/hmg/ddy384](https://www.ncbi.nlm.nih.gov/pubmed/30445611). 
 
 > ## 2018
