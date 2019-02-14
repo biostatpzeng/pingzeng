@@ -2,7 +2,7 @@
 > [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn; 
 > ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Master Students**; **#: Corresponding Authors**
   
-> *My research is supported in part by NFSC and other fundings from Chinese Government.*
+> *My research is supported in part by NNFSC and other fundings from Chinese Government.*
   
 > ## Preprints
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Xinghao Yu, and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. [biorxiv](https://www.biorxiv.org/content/10.1101/526186v1).
