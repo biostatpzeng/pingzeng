@@ -1,6 +1,6 @@
-> [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn; 
-> ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Master Students; #: Corresponding Authors
-> *My research is supported in part by NNFSC and other fundings from Chinese Government.*
++ [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn
++ ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Master Students; #: Corresponding Authors
++ *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Preprints
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Junnian Zheng<sup>#</sup> (2019). ????
