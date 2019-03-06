@@ -1,6 +1,6 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn
 + ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Master Students
-+ # Corresponding Authors
++ *# Corresponding Authors
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Preprints
