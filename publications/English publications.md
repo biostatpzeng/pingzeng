@@ -4,7 +4,7 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Preprints
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Junnian Zheng<sup>#</sup> (2019). ????
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou#</sup> (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)Xinghao Yu, and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. [biorxiv](https://www.biorxiv.org/content/10.1101/526186v1).
 
