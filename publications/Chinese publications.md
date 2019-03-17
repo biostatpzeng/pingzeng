@@ -1,8 +1,7 @@
-****# Corresponding Author****
-> [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn; 
-> ![<sup>#</sup>f03c15](https://placehold.it/15/f03c15/000000?text=+) **硕士研究生**
-  
-> *My research is supported in part by NFSC and other fundings from Chinese Government.*
++ [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn
++ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Master Students
++ #: Corresponding Authors
++ *My research is supported in part by NNFSC and other fundings from Chinese Government.*
 
 > #### 2018
 + 黄林玉![<sup>#</sup>f03c15](https://placehold.it/15/f03c15/000000?text=+), [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. 中国卫生统计, 2018
