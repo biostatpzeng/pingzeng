@@ -4,7 +4,7 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
-+ Xinghao Yu<sup>*</sup>![#f03c15](https://placehold.it/15/f03c15/000000?text=+), Zhongshang Yuan<sup>*</sup>, Haimiao Chen, Jiaji Yang, Yixin Gao, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Shuiping Huang<sup>#</sup>. Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
++ Xinghao Yu![#f03c15](https://placehold.it/15/f03c15/000000?text=+), Zhongshang Yuan, Haimiao Chen, Jiaji Yang, Yixin Gao, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Shuiping Huang<sup>#</sup>. Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics.
 
