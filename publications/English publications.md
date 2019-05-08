@@ -4,7 +4,7 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
-+ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haimiao Chen, Jiaji Yang, Yixin Gao![#f03c15](https://placehold.it/15/f03c15/000000?text=+), Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Shuiping Huang<sup>#</sup>. Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
++ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haimiao Chen, Jiaji Yang, Yixin Gao, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Shuiping Huang<sup>#</sup>. Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics.
 
@@ -16,7 +16,7 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu, and Xiang Zhou<sup>#</sup> (2019). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods. **Scientific Reports** (in press); [biorxiv](http://biorxiv.org/cgi/content/short/471425v1).
 
-+ Xinghao Yu![#f03c15](https://placehold.it/15/f03c15/000000?text=+), Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information. **Computational and Mathematical Methods in Medicine**, 2019: 8. [doi: 10.1155/2019/2807470](https://www.hindawi.com/journals/cmmm/2019/2807470/cta/). [Software](https://github.com/biostatpzeng/JMAP).
++ Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information. **Computational and Mathematical Methods in Medicine**, 2019: 8. [doi: 10.1155/2019/2807470](https://www.hindawi.com/journals/cmmm/2019/2807470/cta/). [Software](https://github.com/biostatpzeng/JMAP).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis: A Mendelian Randomization Study. **Human Molecular Genetics**, 28(4): 688-697.
  [doi: 10.1093/hmg/ddy384](https://www.ncbi.nlm.nih.gov/pubmed/30445611). 
