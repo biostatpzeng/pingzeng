@@ -12,9 +12,9 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447573).
 
 > ## 2019
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. **Frontiers in Neurology** (in press); [biorxiv](https://www.biorxiv.org/content/10.1101/526186v1).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. **Frontiers in Neurology** (in press); [biorxiv](https://www.nature.com/articles/s41598-019-44114-5).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Xiang Zhou<sup>#</sup> (2019). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods. **Scientific Reports** (in press); [biorxiv](http://biorxiv.org/cgi/content/short/471425v1).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Xiang Zhou<sup>#</sup> (2019). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods. **Scientific Reports**, 9(1): 7647. [doi: 10.1038/s41598-019-44114-5](http://biorxiv.org/cgi/content/short/471425v1).
 
 + Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information. **Computational and Mathematical Methods in Medicine**, 2019: 8. [doi: 10.1155/2019/2807470](https://www.hindawi.com/journals/cmmm/2019/2807470/cta/). [Software](https://github.com/biostatpzeng/JMAP).
 
