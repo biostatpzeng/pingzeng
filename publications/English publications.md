@@ -12,7 +12,7 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2018). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. [biorxiv](https://www.biorxiv.org/content/early/2018/10/19/447573).
 
 > ## 2019
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. **Frontiers in Neurology**，2019; 10(543). [doi: 10.3389/fneur.2019.00543](https://www.frontiersin.org/articles/10.3389/fneur.2019.00543/full).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. **Frontiers in Neurology**, 2019; 10(543). [doi: 10.3389/fneur.2019.00543](https://www.frontiersin.org/articles/10.3389/fneur.2019.00543/full).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Xiang Zhou<sup>#</sup> (2019). Genetically determined birth weight is not causally associated with adult asthma: results from instrumental variable methods. **Scientific Reports**, 9(1): 7647. [doi: 10.1038/s41598-019-44114-5](https://www.nature.com/articles/s41598-019-44114-5).
 
