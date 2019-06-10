@@ -4,11 +4,11 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
 
 > #### 2019
-+ 黄林玉![#f03c15](https://placehold.it/15/f03c15/000000?text=+), [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. 中国卫生统计, 2019
-+ 余星浩![#f03c15](https://placehold.it/15/f03c15/000000?text=+), [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. 中国卫生统计, 2019
++ 黄林玉, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. 中国卫生统计, 2019
++ 余星浩, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. 中国卫生统计, 2019
 
 > #### 2018
-+ 王鸣岐![#f03c15](https://placehold.it/15/f03c15/000000?text=+), 安书仪, 黄林玉, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 基于cis-SNP的多位点关联性分析方法比较及其在基因表达中的应用. 中国卫生统计, 2018, 35(5): 695-698.
++ 王鸣岐, 安书仪, 黄林玉, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 基于cis-SNP的多位点关联性分析方法比较及其在基因表达中的应用. 中国卫生统计, 2018, 35(5): 695-698.
 
 > #### 2017
 + [**曾平**](https://github.com/biostatpzeng), 赵杨, 陈峰. 混合效应模型中的方差成分检验. 中国卫生统计, 2017, 34(1): 166-170.
@@ -16,7 +16,7 @@
 
 > #### 2016
 + 王婷, 黄水平, 赵杨, 陈峰, 金英良, 赵华硕, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 罕见遗传位点关联性分析的近似限制性似然比统计学习. 现代预防医学, 2016, 43(9): 1537-1541, 1549.
-+ 唐明生![#f03c15](https://placehold.it/15/f03c15/000000?text=+), 黄水平, 金英良, 张耀东, 赵杨, 陈峰, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 重抽样方差成分检验的多位点关联分析. 中国卫生统计, 2016, 33(6): 997-1002.
++ 唐明生, 黄水平, 金英良, 张耀东, 赵杨, 陈峰, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 重抽样方差成分检验的多位点关联分析. 中国卫生统计, 2016, 33(6): 997-1002.
 
 
 > #### 2015
