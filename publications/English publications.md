@@ -9,7 +9,7 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics.
 
 > ## 2019
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. **Frontiers in Genetics**,10 (618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. **Frontiers in Genetics**,10(618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. **Frontiers in Neurology**, 10(543). [doi: 10.3389/fneur.2019.00543](https://www.frontiersin.org/articles/10.3389/fneur.2019.00543/full).
 
