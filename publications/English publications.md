@@ -4,6 +4,8 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
+Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou. Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1).
+
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haimiao Chen, Jiaji Yang, Yixin Gao, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics.
