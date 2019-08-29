@@ -4,7 +4,7 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
-+ Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and Ping Zeng<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
++ Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and Ping Zeng(https://github.com/biostatpzeng)<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
 + Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2019). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1).
 
