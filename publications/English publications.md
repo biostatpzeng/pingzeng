@@ -4,7 +4,7 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
-+ Haimiao Chen, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Are blood lipids risk factor for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data.
++ Haimiao Chen, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data.
 
 + Xinghao Yu, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
 
