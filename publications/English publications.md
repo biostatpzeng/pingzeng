@@ -4,7 +4,7 @@
 + *The research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
-+ Yixin Gao, Xinghao Yu, International FTD-Genomics Consortium (IFGC), [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Huashuo Zhao<sup>#</sup> (2019). Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
++ Yixin Gao<sup>*</sup>, Ting Wang<sup>*</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Huashuo Zhao<sup>#</sup> (2019). Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
 
 + Haimiao Chen, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data.
 
