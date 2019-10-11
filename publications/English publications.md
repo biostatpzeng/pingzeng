@@ -4,6 +4,9 @@
 + *The research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
+
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). An empirical study on the prognostic prediction of gene expression compared with clinical information in TCGA cancers using regularization and mixed models
+
 + Ting Wang<sup>$</sup>, Yixin Gao<sup>$</sup>, Xinghao Yu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Genetic correlation and causal inference between birth weight and stroke using genome-wide association summary statistics.
 
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Huashuo Zhao<sup>#</sup> (2019). Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
