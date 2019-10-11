@@ -12,13 +12,13 @@
 
 + Xinghao Yu, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
 
-+ Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
-
 + Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2019). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1).
 
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haimiao Chen, Jiaji Yang, Yixin Gao, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics.
+
++ Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
 > ## 2019
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. **Frontiers in Genetics**,10(618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
