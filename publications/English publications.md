@@ -5,7 +5,7 @@
    
 > ## Technical Reports
 
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). An empirical study on the prognostic prediction of gene expression compared with clinical information in TCGA cancers using regularization and mixed models
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). An empirical study on the prognostic prediction of gene expression compared with clinical information in TCGA cancers using regularization and mixed models.
 
 + Ting Wang<sup>$</sup>, Yixin Gao<sup>$</sup>, Xinghao Yu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Genetic correlation and causal inference between birth weight and stroke using genome-wide association summary statistics.
 
