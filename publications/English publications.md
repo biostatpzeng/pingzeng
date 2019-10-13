@@ -15,13 +15,15 @@
 
 + Haimiao Chen, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data.
 
-+ Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2019). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1).
-
 + Xinghao Yu, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
 
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haimiao Chen, Jiaji Yang, Yixin Gao, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes on amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
++ Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2019). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1).
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
