@@ -30,15 +30,15 @@
 + Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
 > ## 2019
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association between Birth Weight and Adult Diseases: Evidence from a Mendelian Randomisation Analysis. **Frontiers in Genetics**,10(618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association Between Birth Weight and Adult Diseases: Evidence From a Mendelian Randomization Analysis. **Frontiers in Genetics**,10(618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association between premorbid body mass index and amyotrophic lateral sclerosis: causal inference through genetic approaches. **Frontiers in Neurology**, 10(543). [doi: 10.3389/fneur.2019.00543](https://www.frontiersin.org/articles/10.3389/fneur.2019.00543/full).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association Between Premorbid Body Mass Index and Amyotrophic Lateral Sclerosis: Causal Inference Through Genetic Approaches. **Frontiers in Neurology**, 10(543). [doi: 10.3389/fneur.2019.00543](https://www.frontiersin.org/articles/10.3389/fneur.2019.00543/full).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Xiang Zhou<sup>#</sup> (2019). Birth weight is not causally associated with adult asthma: results from instrumental variable methods. **Scientific Reports**, 9(1): 7647. [doi: 10.1038/s41598-019-44114-5](https://www.nature.com/articles/s41598-019-44114-5).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Xiang Zhou<sup>#</sup> (2019). Birth weight is not causally associated with adult asthma: results from instrumental variable analyses. **Scientific Reports**, 9(1): 7647. [doi: 10.1038/s41598-019-44114-5](https://www.nature.com/articles/s41598-019-44114-5).
 
-+ Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Jackknife model averaging prediction methods for complex phenotypes with gene expression levels by integrating external pathway information. **Computational and Mathematical Methods in Medicine**, 2019: 8. [doi: 10.1155/2019/2807470](https://www.hindawi.com/journals/cmmm/2019/2807470/cta/). [Software](https://github.com/biostatpzeng/JMAP).
++ Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Jackknife Model Averaging Prediction Methods for Complex Phenotypes with Gene Expression Levels by Integrating External Pathway Information. **Computational and Mathematical Methods in Medicine**, 2019: 8. [doi: 10.1155/2019/2807470](https://www.hindawi.com/journals/cmmm/2019/2807470/cta/). [Software](https://github.com/biostatpzeng/JMAP).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Effects of Blood Lipids on Amyotrophic Lateral Sclerosis: A Mendelian Randomization Study. **Human Molecular Genetics**, 28(4): 688-697.
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal effects of blood lipids on amyotrophic lateral sclerosis: a Mendelian randomization study. **Human Molecular Genetics**, 28(4): 688-697.
  [doi: 10.1093/hmg/ddy384](https://www.ncbi.nlm.nih.gov/pubmed/30445611). 
 
 >## 2018
