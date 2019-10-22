@@ -28,7 +28,7 @@
 + Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
 > ## 2019
-+ + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine** (in press).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine** (in press).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association Between Birth Weight and Adult Diseases: Evidence From a Mendelian Randomization Analysis. **Frontiers in Genetics**,10(618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
 
