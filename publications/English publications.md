@@ -10,8 +10,9 @@
 + Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Genetic correlation and causal inference between birth weight and stroke using genome-wide association summary statistics.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Ting Wang, Xinghao Yu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Letter to the Editor of American Journal of Kidney Diseases.
 
-+ Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC),  Huashuo Zhao<sup>#</sup> (2019) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
++ Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2019) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
 
 + Haimiao Chen, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data.
 
