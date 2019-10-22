@@ -17,7 +17,7 @@
 
 + Xinghao Yu, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
 
-+ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haimiao Chen, Yixin Gao, Jiaji Yang, Fengjun Guan, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019) . Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
++ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019) . Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
