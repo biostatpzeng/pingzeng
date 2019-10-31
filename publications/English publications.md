@@ -7,10 +7,11 @@
 
 + Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Haimiao Chen<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). An empirical study on the prognostic prediction of gene expression compared with clinical information in TCGA cancers using regularization and mixed models.
 
-+ Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixing Gao<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Genetic correlation and causal inference between birth weight and stroke using genome-wide association summary statistics.
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
++ Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixing Gao<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets.
+
+Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixing Gao, Fengjun Guan, Chengzong Li, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019).
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixing Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Alcohol drinking and ALS: an instrumental variable inference.
 
