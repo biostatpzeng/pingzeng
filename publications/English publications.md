@@ -10,6 +10,10 @@
 + Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixing Gao<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Genetic correlation and causal inference between birth weight and stroke using genome-wide association summary statistics.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
+
+
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixing Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Alcohol drinking and ALS: an instrumental variable inference.
+
 + Ting Wang, Xinghao Yu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Letter to the Editor.
 
 + Yixing Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2019) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
