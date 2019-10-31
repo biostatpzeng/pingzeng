@@ -9,9 +9,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-+ Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixing Gao<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets.
-
-Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixing Gao, Fengjun Guan, Chengzong Li, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019).
++ Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixing Gao, Fengjun Guan, Chengzong Li, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixing Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Alcohol drinking and ALS: an instrumental variable inference.
 
