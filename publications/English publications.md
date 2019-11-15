@@ -11,6 +11,8 @@
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). New novel non-MHC genes were identified for cervical cancer using an integrative analysis approach of transcriptome-wide association study.
 
++ Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Prognostic prediction of bladder cancer with gene expression genetic information: a comparison study of sparse and mixed Cox models
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 + Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Fengjun Guan, Chengzong Li, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets.
