@@ -9,7 +9,7 @@
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluating the relationship between CKD and CAD: from genetic correlation to causality inference with large scale GWAS summary genetic data.
 
-+ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). New novel non-MHC genes were identified for cervical cancer using an integrative analysis approach of transcriptome-wide association study.
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Prognostic prediction of bladder cancer with gene expressions: an empirical comparison study of sparse and mixed Cox models
 
