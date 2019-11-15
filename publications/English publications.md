@@ -5,7 +5,11 @@
    
 > ## Technical Reports
 
-+ Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Haimiao Chen<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). An empirical study on the prognostic prediction of gene expression compared with clinical information in TCGA cancers using regularization and mixed models.
++ Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). An empirical study on the prognostic prediction of gene expression compared with clinical information in TCGA cancers using regularization and mixed models.
+
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluating the relationship between CKD and CAD: from genetic correlation to causality inference.
+
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). New novel non-MHC genes were identified for cervical cancer using an integrative analysis approach of transcriptome-wide association study.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
