@@ -38,7 +38,7 @@
 > ## 2019
 + Haimiao Chen, Zhonghe Shao, Yixin Gao, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data. **Bone** (in press).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine**, 17(1), 225. [doi: 10.1186/s12916-019-1448-9](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1448-9#article-info).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine**, 17(1), 225. [doi: 10.1186/s12916-019-1448-9](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1448-9).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association Between Birth Weight and Adult Diseases: Evidence From a Mendelian Randomization Analysis. **Frontiers in Genetics**,10(618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
 
