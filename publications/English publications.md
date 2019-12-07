@@ -5,7 +5,7 @@
    
 > ## Technical Reports
 
-+ Ting Wang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). An empirical study on the prognostic prediction of gene expression compared with clinical information in TCGA cancers using regularization and mixed models.
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>,  Ziyuan Shen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed Cox models.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluating the relationship between CKD and CAD: from genetic correlation to causality inference with large scale GWAS summary genetic data.
 
