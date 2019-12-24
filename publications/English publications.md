@@ -7,7 +7,7 @@
 
 + Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jinhui Zhang, Shuiping Huang, Xiang Zhou, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Assessing the relationship between telomere length and cancer mortality and risk in TCGA and UK Biobank data with a genetic risk score approach.
 
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>,  Ziyuan Shen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed Cox models.
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>,  Ziyuan Shen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluating the relationship between CKD and CAD: from genetic correlation to causality inference with large scale GWAS summary genetic data.
 
