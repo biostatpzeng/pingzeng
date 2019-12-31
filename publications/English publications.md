@@ -5,15 +5,15 @@
    
 > ## Technical Reports
 
-+ Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Assessing the relationship between telomere length and cancer mortality and risk in TCGA and UK Biobank data with a genetic risk score approach.
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models.
 
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models.
++ Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Assessing the relationship between telomere length and cancer mortality and risk in TCGA and UK Biobank data with a genetic risk score approach.
 
-+ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluating the relationship between CKD and CAD: from genetic correlation to causality inference with large scale GWAS summary genetic data.
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating the relationship between CKD and CAD: from genetic correlation to causality inference with large scale GWAS summary genetic data.
 
-+ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
 
-+ Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Prognostic prediction of bladder cancer with gene expressions: an empirical comparison study of sparse and mixed Cox models
++ Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Prognostic prediction of bladder cancer with gene expressions: an empirical comparison study of sparse and mixed Cox models
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
