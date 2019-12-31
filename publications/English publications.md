@@ -13,7 +13,7 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-+Lu Liu<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>$</sup>, Sheng Yang<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Leveraging methylation to identify the potential causal genes on survival in lung adenocarcinoma and lung squamous cell carcinoma.
++ Lu Liu<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>$</sup>, Sheng Yang<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Leveraging methylation to identify the potential causal genes on survival in lung adenocarcinoma and lung squamous cell carcinoma.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models.
 
