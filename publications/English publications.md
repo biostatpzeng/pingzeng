@@ -39,9 +39,10 @@
 
 + Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
-> ## 2019
-+ Haimiao Chen, Zhonghe Shao, Yixin Gao, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data. **Bone**, 131: 115174. [doi: 10.1016/j.bone.2019.115174](https://www.sciencedirect.com/science/article/abs/pii/S8756328219304685)
+> ## 2020
++ Haimiao Chen, Zhonghe Shao, Yixin Gao, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data. **Bone**, 131: 115174. [doi: 10.1016/j.bone.2019.115174](https://www.sciencedirect.com/science/article/abs/pii/S8756328219304685)
 
+> ## 2019
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine**, 17(1), 225. [doi: 10.1186/s12916-019-1448-9](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1448-9).
 
  + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association Between Birth Weight and Adult Diseases: Evidence From a Mendelian Randomization Analysis. **Frontiers in Genetics**,10(618). [doi: 10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
