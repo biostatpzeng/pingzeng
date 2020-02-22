@@ -4,6 +4,7 @@
 + *The research is supported in part by NNFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
++ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating the relationship between CKD and CAD: from genetic correlation to causality inference with large scale GWAS summary genetic data.
 
