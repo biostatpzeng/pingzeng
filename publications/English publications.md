@@ -8,6 +8,8 @@
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Prognostic prediction of bladder cancer with gene expressions: an empirical comparison study of sparse and mixed Cox models
 
++ Ting Wang, Xinghao Yu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). The Influence of fetal and maternal specific instrumental variables when birth weight serving as exposure in Mendelian randomization.
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
 
@@ -20,8 +22,6 @@
 + Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Fengjun Guan, Chengzong Li, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Alcohol drinking and ALS: an instrumental variable inference.
-
-+ Ting Wang, Xinghao Yu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Letter to the Editor.
 
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2019) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
 
