@@ -10,6 +10,8 @@
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). The Influence of fetal and maternal specific instrumental variables when birth weight serving as exposure in Mendelian randomization.
 
++ Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
 
@@ -29,13 +31,9 @@
 
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019) . Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches.
 
-----------------------------------------------------------------------------------------------------------------------------------------
-
 + Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2019). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1).
 
 ----------------------------------------------------------------------------------------------------------------------------------------
-
-+ Fengjun Guan<sup>$</sup>, Qianqian Peng<sup>$</sup>, Xinghao Yu<sup>$</sup>, Xiang Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Effects of Acetylated Glucocorticoid Receptor and H3/H4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
 > ## 2020
 + Lu Liu<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>$</sup>, Sheng Yang<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Leveraging methylation to identify the potential causal genes on survival in lung adenocarcinoma and lung squamous cell carcinoma. **Oncology Letters**, in press.
