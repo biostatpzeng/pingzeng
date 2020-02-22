@@ -8,7 +8,7 @@
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Prognostic prediction of bladder cancer with gene expressions: an empirical comparison study of sparse and mixed Cox models
 
-+ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). The Influence of fetal and maternal specific instrumental variables when birth weight serving as exposure in Mendelian randomization.
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). The Influence of fetal and maternal specific instrumental variables when birth weight serving as exposure in Mendelian randomization.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
