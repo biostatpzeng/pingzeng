@@ -24,7 +24,7 @@
 > ## 2020
 + Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Chengzong Li, Fengjun Guan, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets. **Frontiers in Neuroscience**, in press.
 
-+ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) . Relationship between birth weight and chronic kidney disease: evidence from systematics review and two-sample Mendelian randomization analysis. **Human Molecular Genetics**, in press.
++ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) . Relationship between birth weight and chronic kidney disease: evidence from systematics review and two-sample Mendelian randomization analysis. **Human Molecular Genetics**, in press.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Alcohol drinking and ALS: an instrumental variable causal inference. **Annals of Neurology**, in press.
 
