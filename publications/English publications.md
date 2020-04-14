@@ -13,8 +13,6 @@
 
 + Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Assessing the relationship between telomere length and cancer mortality and risk in TCGA and UK Biobank data with a genetic risk score approach.
 
-+ Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Fengjun Guan, Chengzong Li, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets.
-
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2019) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Haojie Lu, Jinhui Zhang, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
@@ -24,6 +22,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
++ Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Fengjun Guan, Chengzong Li, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets. **Frontiers in Neuroscience**, in press.
+
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) . Relationship between birth weight and chronic kidney disease: an integrative analysis of observational studies and causal inference through genetic approaches. **Human Molecular Genetics**, in press.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Alcohol drinking and ALS: an instrumental variable causal inference. **Annals of Neurology**, in press.
