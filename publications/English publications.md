@@ -5,6 +5,8 @@
    
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). A general statistical framework for inferring causal mediation effect with summary statistics.
+
 + Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Statistical approaches for transcriptome wide association studies with expression measurements imputed from multiple genetic prediction models.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
