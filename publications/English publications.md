@@ -15,7 +15,7 @@
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models.
 
-+ Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Assessing the relationship between telomere length and cancer mortality and risk in TCGA and UK Biobank data with a genetic risk score approach.
++ Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Assessing the relationship between telomere length and cancer mortality and risk in TCGA and UK Biobank data with a genetic risk score approach.
 
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2019) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Evaluating the causal association between telomere length and amyotrophic lateral sclerosis using instrumental variable approaches with large scale GWAS summary genetic data.
 
