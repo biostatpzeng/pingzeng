@@ -5,6 +5,8 @@
    
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Statistical approaches for transcriptome wide association studies with expression measurements imputed from multiple genetic prediction models.
+
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
 
 + Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
