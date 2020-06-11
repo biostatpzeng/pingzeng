@@ -32,13 +32,13 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
-+ Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Chengzong Li, Fengjun Guan, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets. **Frontiers in Neuroscience**, in press.
-
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) . Relationship between birth weight and chronic kidney disease: evidence from systematics review and two-sample Mendelian randomization analysis. **Human Molecular Genetics**, in press.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Alcohol drinking and ALS: an instrumental variable causal inference. **Annals of Neurology**, in press.
 
-+ Lu Liu<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>$</sup>, Sheng Yang<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Leveraging methylation to identify the potential causal genes on survival in lung adenocarcinoma and lung squamous cell carcinoma. **Oncology Letters**, in press.
++ Lu Liu<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>$</sup>, Sheng Yang<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Leveraging methylation to identify the potential causal genes on survival in lung adenocarcinoma and lung squamous cell carcinoma. **Oncology Letters**, 20(1): 193-200.
+
++ Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Chengzong Li, Fengjun Guan, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets. **Frontiers in Neuroscience**, 14(479).
 
 + Haimiao Chen, Zhonghe Shao, Yixin Gao, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data. **Bone**, 131: 115174. [doi: 10.1016/j.bone.2019.115174](https://www.sciencedirect.com/science/article/abs/pii/S8756328219304685)
 
