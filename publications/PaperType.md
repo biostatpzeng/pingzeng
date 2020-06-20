@@ -1,4 +1,5 @@
 ## Statistical Methodology
+----------------------------------------------------------------------------------------------------------------------------------------
 
 + Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). A general statistical framework for inferring causal mediation effect with summary statistics.
 
