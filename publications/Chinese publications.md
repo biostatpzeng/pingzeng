@@ -4,8 +4,8 @@
 + *My research is supported in part by NNFSC and other fundings from Chinese Government.*
 
 > #### 2019
-+ 黄林玉, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. 中国卫生统计, 2019
-+ 余星浩, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. 中国卫生统计, 2019
++ 黄林玉, 王鸣岐, 余星皓, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. 中国卫生统计, 2019, 36(3): 334-338.
++ 余星浩, 刘兵, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. 中国卫生统计, 2019, 36(2): 171-175.
 
 > #### 2018
 + 王鸣岐, 安书仪, 黄林玉, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 基于cis-SNP的多位点关联性分析方法比较及其在基因表达中的应用. 中国卫生统计, 2018, 35(5): 695-698.
