@@ -34,7 +34,7 @@
 > ## 2020
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) . Relationship between birth weight and chronic kidney disease: evidence from systematics review and two-sample Mendelian randomization analysis. **Human Molecular Genetics**, in press.
 
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Alcohol drinking and ALS: an instrumental variable causal inference. **Annals of Neurology**, in press.
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Alcohol drinking and ALS: an instrumental variable causal inference. **Annals of Neurology**, 88(1): 195-198. [doi: 10.1002/ana.25721](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25721)
 
 + Lu Liu<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>$</sup>, Sheng Yang<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Leveraging methylation to identify the potential causal genes on survival in lung adenocarcinoma and lung squamous cell carcinoma. **Oncology Letters**, 20(1): 193-200. [doi: 10.3389/fnins.2020.00479](https://www.frontiersin.org/articles/10.3389/fnins.2020.00479/full)
 
