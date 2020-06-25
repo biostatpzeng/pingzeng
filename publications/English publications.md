@@ -27,11 +27,11 @@
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Haojie Lu, Jinhui Zhang, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
 
-+ Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2019). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1).
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
++ Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2019). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1). **Nature Communications**, in press.
+
 + Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) . Relationship between birth weight and chronic kidney disease: evidence from systematics review and two-sample Mendelian randomization analysis. **Human Molecular Genetics**, in press.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Alcohol drinking and ALS: an instrumental variable causal inference. **Annals of Neurology**, 88(1): 195-198. [doi: 10.1002/ana.25721](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25721)
