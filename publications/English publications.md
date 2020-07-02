@@ -6,7 +6,6 @@
 
 > ## Working Papers
 ----------------------------------------------------------------------------------------------------------------------------------------
-
 + Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). A general statistical framework for inferring causal mediation effect with summary statistics.
 
 + Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Statistical approaches for transcriptome wide association studies with expression measurements imputed from multiple genetic prediction models.
@@ -143,11 +142,9 @@
 + 王婷, [**曾平**](https://github.com/biostatpzeng), 黄水平, 赵华硕. 错误发现率及其扩展和应用. 重庆医科大学学报, 2011, 36(12): 1445-1448.
 
 > ## 2010
-
 + [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 赵晋芳, 刘桂芬. 居民就诊次数的Hurdle模型分析. 中国卫生统计, 2010, 27(6): 603-605.
 
-> #### 2009
-
+> ## 2009
 + [**曾平**](https://github.com/biostatpzeng), 赵晋芳, 刘桂芬<sup>#</sup>, 王飞, 曹红艳. 定群监测资料分析中的零截尾计数模型. 现代预防医学, 2009, 36(1): 9-12.
 
 + [**曾平**](https://github.com/biostatpzeng), 刘桂芬<sup>#</sup>, 曹红艳. 广义线性模型贝叶斯分析的SAS实现. 中国卫生统计, 2009, 26(1): 104-106.
