@@ -128,7 +128,7 @@
 
 + [**曾平**](https://github.com/biostatpzeng), 何鹏, 王婷<sup>#</sup>, 曹红艳, 赵晋芳. MCMC 的发展和贝叶斯统计. **中国医院统计**, 2012, 19(5): 375-379.
 
-+ 王婷, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平, 赵华硕. 错误发现率的经验估计和应用. **郑州大学学报(医学版) **, 2012, 47(5): 636-639.
++ 王婷, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平, 赵华硕. 错误发现率的经验估计和应用. **郑州大学学报(医学版)**, 2012, 47(5): 636-639.
 
 + 王婷, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 何鹏. 基于潜变量Gibbs抽样的Probit回归. **中国卫生统计**, 2012, 29(4): 609-611.
 
