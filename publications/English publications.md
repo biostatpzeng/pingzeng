@@ -41,6 +41,8 @@
 
 + Haimiao Chen, Zhonghe Shao, Yixin Gao, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data. **Bone**, 131: 115174. [doi: 10.1016/j.bone.2019.115174](https://www.sciencedirect.com/science/article/abs/pii/S8756328219304685)
 
+ + 高一欣, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 赵华硕<sup>#</sup>. 两样本孟德尔随机化中工具变量对因果估计的性别特异性影响：人体测量学性状与乳腺癌关系的实证研究. 中国卫生统计, 2020, in press.
+
 > ## 2019
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine**, 17(1), 225. [doi: 10.1186/s12916-019-1448-9](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1448-9).
 
@@ -54,10 +56,10 @@
 
  + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal effects of blood lipids on amyotrophic lateral sclerosis: a Mendelian randomization study. **Human Molecular Genetics**, 28(4): 688-697.
   [doi: 10.1093/hmg/ddy384](https://www.ncbi.nlm.nih.gov/pubmed/30445611). 
-  
-  + 黄林玉, 王鸣岐, 余星皓, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. 中国卫生统计, 2019, 36(3): 334-338.
-  
-+ 余星浩, 刘兵, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. 中国卫生统计, 2019, 36(2): 171-175.
+
+ + 黄林玉, 王鸣岐, 余星皓, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. 中国卫生统计, 2019, 36(3): 334-338.
+
+ + 余星浩, 刘兵, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. 中国卫生统计, 2019, 36(2): 171-175.
 
 
  >## 2018
@@ -163,3 +165,4 @@
 + 曹红艳, 刘桂芬<sup>#</sup>, [**曾平**](https://github.com/biostatpzeng),  张爱莲. 预测性伪似然法和贝叶斯法广义线性混合模型估计. 中国药物与临床, 2008, 8(11): 861-863.
 
 + [**曾平**](https://github.com/biostatpzeng), 刘桂芬<sup>#</sup>, 张爱莲. 混合效应模型在完全随机区组设计的药效研究中的应用. 中国药物与临床, 2008, 8(4): 329-330.
+
