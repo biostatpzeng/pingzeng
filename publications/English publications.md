@@ -10,6 +10,31 @@
 
 + Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Statistical approaches for transcriptome wide association studies with expression measurements imputed from multiple genetic prediction models.
 
++ Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Causal inference
+
++ Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative analysis based prediction
+
++ Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). genetic correlation for five traits
+
++ Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Joint test and integrative analysis in Cox model
+
++ Haimiao Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative analysis of two correlated traits
+
++ Haimiao Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). TWAS analysis for AD
+
++ Haimiao Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). TWAS analysis for ANN
+
++ Haimiao Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). TWAS analysis for nine traits jointly
+
++ Yixin Gao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Causal inference for five traits jointly
+
++ Yixin Gao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Causal inference with sex difference
+
++ Zhonghe Shao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Mediation analysis of TCGA
+
++ Zhonghe Shao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative trans-ethnic analysis of HbA1c
+
+
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
