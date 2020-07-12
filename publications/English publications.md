@@ -43,8 +43,6 @@
 
 + Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
 
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models.
-
 + Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Assessing the relationship between telomere length and cancer mortality and risk in TCGA and UK Biobank data with a genetic risk score approach.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Haojie Lu, Jinhui Zhang, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
@@ -52,6 +50,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models.
+
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2020) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Mendelian randomization implies no direct causal association between leukocyte telomere length and amyotrophic lateral sclerosis. **Scientific Reports**, in press.
 
 + Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2020). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. [biorxiv](https://www.biorxiv.org/content/10.1101/691014v1). **Nature Communications**, in press.
