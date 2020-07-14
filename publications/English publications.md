@@ -12,13 +12,13 @@
 
 + Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Causal inference
 
-+ Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative analysis based prediction
++ Jinhui Zhang and Ting Wang<sup>$</sup>, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Leveraging methylation alterations to discover potential causal genes on the survival of cervical cancer in TCGA
 
 + Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). genetic correlation for five traits
 
 + Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Joint test and integrative analysis in Cox model
 
-+ Haimiao Chen<sup>$</sup> and Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020).. Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics
++ Haimiao Chen<sup>$</sup> and Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics
 
 + Haimiao Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). TWAS analysis for AD
 
