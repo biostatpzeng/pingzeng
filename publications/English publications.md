@@ -18,7 +18,7 @@
 
 + Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Joint test and integrative analysis in Cox model
 
-+ Haimiao Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative analysis of two correlated traits
++ Haimiao Chen<sup>$</sup> and Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020).. Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics
 
 + Haimiao Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). TWAS analysis for AD
 
