@@ -6,6 +6,8 @@
 
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang, Huashuo Zhao and and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer.
+
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics.
 
 + Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
