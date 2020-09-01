@@ -6,6 +6,8 @@
 
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Statistical approaches for transcriptome wide association studies with expression measurements imputed from multiple genetic prediction models.
+
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
 
 + Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, Shuiping Huang, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach.
