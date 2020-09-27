@@ -22,7 +22,7 @@
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis.
 
-+ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
++ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Haojie Lu, Jinhui Zhang, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
 ----------------------------------------------------------------------------------------------------------------------------------------
