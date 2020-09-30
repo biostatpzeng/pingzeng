@@ -32,7 +32,7 @@
 > ## 2020
 + Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Assessing the relationship between leukocyte telomere length and cancer risk/mortality in UK Biobank and TCGA data sets with the genetic risk score and Mendelian randomization approaches. **Frontiers in Genetics**, in press.
 
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models. **Frontiers in Genetics**, in press.
++ Xinghao Yu, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models. **Frontiers in Genetics**, in press.
 
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2020) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Mendelian randomization implies no direct causal association between leukocyte telomere length and amyotrophic lateral sclerosis. **Scientific Reports**, in press.
 
