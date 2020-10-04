@@ -8,6 +8,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2020). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization.
 
++ Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set analysis in survival genome-wide association studies.
+
 + [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2020). Aggregating multiple expression prediction models ensures powerful and robust performance of transcriptome wide association studies.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
