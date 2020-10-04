@@ -8,11 +8,11 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2020). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization.
 
-+ Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Novel genes were identified for anorexia nervosa by integrating eQTL into GWAS summary statistics via multiple-tissue transcriptome-wide association study.
-
 + [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2020). Statistical approaches for transcriptome wide association studies with expression measurements imputed from multiple genetic prediction models.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
+
++ Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Novel genes were identified for anorexia nervosa by integrating eQTL into GWAS summary statistics via multiple-tissue transcriptome-wide association study.
 
 + Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, Shuiping Huang, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach.
 
