@@ -8,7 +8,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2020). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2020). Statistical approaches for transcriptome wide association studies with expression measurements imputed from multiple genetic prediction models.
++ [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2020). Aggregating multiple expression prediction models ensures powerful and robust performance of transcriptome wide association studies.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
 
