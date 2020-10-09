@@ -6,8 +6,29 @@
 
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2020). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization.
 
++ Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set analysis in survival genome-wide association studies.
 
++ [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2020). Aggregating multiple expression prediction models ensures powerful and robust performance of transcriptome wide association studies.
+
++ [**Ping Zeng**](https://github.com/biostatpzeng) and Xiang Zhou (2020). Mendelian randomization assisted mediation analysis for genome-wide association studies with summary statistics.
+
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
+
++ Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Novel genes were identified for anorexia nervosa by integrating eQTL into GWAS summary statistics via multiple-tissue transcriptome-wide association study.
+
++ Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, Shuiping Huang, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach.
+
++ Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang, Huashuo Zhao and and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer.
+
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics.
+
++ Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
+
++ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
+
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Haojie Lu, Jinhui Zhang, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: a two-sample Mendelian randomization and mediation analysis.
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
@@ -155,5 +176,3 @@
 + 曹红艳, 刘桂芬<sup>#</sup>, [**曾平**](https://github.com/biostatpzeng),  张爱莲. 预测性伪似然法和贝叶斯法广义线性混合模型估计. **中国药物与临床**, 2008, 8(11): 861-863.
 
 + [**曾平**](https://github.com/biostatpzeng), 刘桂芬<sup>#</sup>, 张爱莲. 混合效应模型在完全随机区组设计的药效研究中的应用. **中国药物与临床**, 2008, 8(4): 329-330.
-
-
