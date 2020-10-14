@@ -31,7 +31,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Haojie Lu, Jinhui Zhang, Haimiao Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**, in press.
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2019). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**, in press.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis. **Journal of Cancer**, in press.
 
