@@ -53,6 +53,8 @@
 
 + Haimiao Chen, Zhonghe Shao, Yixin Gao, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data. **Bone**, 131: 115174. [doi: 10.1016/j.bone.2019.115174](https://www.sciencedirect.com/science/article/abs/pii/S8756328219304685)
 
++ 陆皓杰, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 基因表达对膀胱癌生存结局的预测：稀疏与混合Cox模型的实证比较研究. **中国卫生统计**, 2020, in press.
+
  + 高一欣, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 赵华硕<sup>#</sup>. 两样本孟德尔随机化中工具变量对因果估计的性别特异性影响：人体测量学性状与乳腺癌关系的实证研究. **中国卫生统计**, 2020, in press.
 
 > ## 2019
