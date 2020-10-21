@@ -29,7 +29,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
-+ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
++ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis. **Frontiers in Genetics**, in press.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**, in press.
 
