@@ -26,11 +26,11 @@
 
 + Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
 
-+ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
-
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
++ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis.
+
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**, in press.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis. **Journal of Cancer**, in press.
