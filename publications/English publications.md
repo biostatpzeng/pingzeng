@@ -22,13 +22,13 @@
 
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang, Huashuo Zhao and and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer.
 
-+ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics.
-
 + Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics.
+
 + Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis. **Frontiers in Genetics**, in press.
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**, [doi: https://doi.org/10.1038/s10038-020-00863-0](https://www.nature.com/articles/s10038-020-00863-0#citeas).
