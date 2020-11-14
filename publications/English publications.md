@@ -24,7 +24,7 @@
 
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2020). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization.
 
-+ Haibo Xu, Xin Liu, [**Ping Zeng**](https://github.com/biostatpzeng) (2020). Mediation and moderation of social support on the relationship between psychological capital and depression: A cross-sectional study of 568 emergency physicians in Jiangsu, China.
++ Haibo Xu, Xin Liu, and [**Ping Zeng**](https://github.com/biostatpzeng) (2020). Mediation and moderation of social support on the relationship between psychological capital and depression: A cross-sectional study of 568 emergency physicians in Jiangsu, China.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
