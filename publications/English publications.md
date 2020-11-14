@@ -28,7 +28,9 @@
 
 + Haibo Xu, Xin Liu, and [**Ping Zeng**](https://github.com/biostatpzeng) (2020). Mediation and moderation of social support on the relationship between psychological capital and depression: A cross-sectional study of 568 emergency physicians in Jiangsu, China.
 
-----------------------------------------------------------------------------------------------------------------------------------------
++ 陆皓杰, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 基因表达对膀胱癌生存结局的预测：稀疏与混合Cox模型的实证比较研究.
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics.
