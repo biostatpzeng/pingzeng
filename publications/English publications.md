@@ -8,6 +8,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
 
 + Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Ting Wang, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics.
@@ -31,6 +32,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
++ Lu Liu, ...[**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) .... Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. The American Journal of Human Genetics
+
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics. **Frontiers in Genetics**, in press.
 
 + Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative transcriptome-wide association studies discovered new genes associated with amyotrophic lateral sclerosis. **Frontiers in Genetics**, in press.
