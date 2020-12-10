@@ -9,7 +9,7 @@
 ```ruby
 ```
 + .... [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020)... Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles
-+ .... [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020)... Relationship between birth weight 1 and breast cancer: two-sample Mendelian randomization
++ .... [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020)... Relationship between birth weight and breast cancer: two-sample Mendelian randomization
 + .... [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020)... Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
 
