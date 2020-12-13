@@ -40,14 +40,12 @@
 
 + Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
 
-+ Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2020). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization.
-
 + Haibo Xu, Xin Liu, and [**Ping Zeng**](https://github.com/biostatpzeng) (2020). Mediation and moderation of social support on the relationship between psychological capital and depression: A cross-sectional study of 568 emergency physicians in Jiangsu, China.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
-+ Lu Liu, ...[**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) .... Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. The American Journal of Human Genetics
++ Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2020). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. The American Journal of Human Genetics
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics. **Frontiers in Genetics**, in press.
 
