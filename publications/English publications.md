@@ -18,13 +18,13 @@
 
 + Assessment of the causal relationship between human blood metabolites and five neurodegenerative diseases using summary statistics
 
-+ Causal mediation analysis approaches in genome-wide studies: current successes and challenges
++ [**Ping Zeng**](https://github.com/biostatpzeng), Zhonghe Shao and Xiang Zhou<sup>#</sup>. Causal mediation analysis approaches in genome-wide studies: current successes and challenges.
 
-+ .... [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020)... Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles
++ Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
 
-+ .... [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020)... Relationship between birth weight and breast cancer: two-sample Mendelian randomization
++ Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
 
-+ .... [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020)... Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies
++ Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup>(2020). Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies.
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
 
