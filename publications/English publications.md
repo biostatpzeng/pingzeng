@@ -44,10 +44,10 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-> ## 2020
-+ Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**，in press. [doi: 10.1016/j.ajhg.2020.12.006](doi: 10.1016/j.ajhg.2020.12.006).
+> ## 2021
++ Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**, in press. [doi: 10.1016/j.ajhg.2020.12.006](doi: 10.1016/j.ajhg.2020.12.006).
 
-+ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**, [doi: https://doi.org/10.1038/s10038-020-00863-0](https://www.nature.com/articles/s10038-020-00863-0#citeas).
++ Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**，in press. [doi: https://doi.org/10.1038/s10038-020-00863-0](https://www.nature.com/articles/s10038-020-00863-0#citeas).
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis. **Journal of Cancer**, 12(3): 840-848. [doi: 10.7150/jca.47918](https://www.jcancer.org/v12p0840.htm).
 
