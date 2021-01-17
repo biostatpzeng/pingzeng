@@ -18,7 +18,7 @@
 
 + Assessment of the causal relationship between human blood metabolites and five neurodegenerative diseases using summary statistics
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Zhonghe Shao and Xiang Zhou<sup>#</sup>. Causal mediation analysis approaches in genome-wide studies: current successes and challenges.
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup>. Causal mediation analysis approaches in genome-wide studies: current successes and challenges.
 
 + Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
 
