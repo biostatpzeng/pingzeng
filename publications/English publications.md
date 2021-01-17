@@ -8,19 +8,17 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ A novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma 
++ LIhong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. A novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
 
-+ IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
 
-+ Effects of Acetylated Glucocorticoid Receptor and Histone 3/Histone 4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome
++ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation.
 
-+ Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation
-
-+ Assessment of the causal relationship between human blood metabolites and five neurodegenerative diseases using summary statistics
++ Haimiao Chen, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Assessment of the causal relationship between human blood metabolites and five neurodegenerative diseases using summary statistics.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup>. Causal mediation analysis approaches in genome-wide studies: current successes and challenges.
 
-+ Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
++ Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
 
 + Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
 
