@@ -39,9 +39,6 @@
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer.
 
 + Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
-
-+ Haibo Xu, Xin Liu, and [**Ping Zeng**](https://github.com/biostatpzeng) (2020). Mediation and moderation of social support on the relationship between psychological capital and depression: A cross-sectional study of 568 emergency physicians in Jiangsu, China.
-
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
