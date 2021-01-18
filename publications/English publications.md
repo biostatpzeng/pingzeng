@@ -8,7 +8,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ LIhong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. A novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
++ Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. A novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
 
