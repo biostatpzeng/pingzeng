@@ -28,7 +28,7 @@
 
 + Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Ting Wang, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics.
 
-+ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). IEHC: integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
++ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). IEHC: integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Jing Dai, Siyi Jin and Xiang Zhou (2020). Aggregating multiple expression prediction models improves the power of transcriptome wide association studies.
 
