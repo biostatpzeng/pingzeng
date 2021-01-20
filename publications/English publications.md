@@ -50,9 +50,9 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2020
-+ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Multiple-Tissue Integrative Transcriptome-Wide Association Studies Discovered New Genes Associated With Amyotrophic Lateral Sclerosis. **Frontiers in Genetics**, 11:587243. [doi: 10.3389/fgene.2020.587243](https://www.frontiersin.org/articles/10.3389/fgene.2020.587243/full).
-
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jinna Yang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Improved detection of potentially pleiotropic genes in coronary artery disease and chronic kidney disease using GWAS summary statistics. **Frontiers in Genetics**, 11: 592461. [doi: 10.3389/fgene.2020.592461](https://doi.org/10.3389/fgene.2020.592461).
+
++ Lishun Xiao<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Siyi Jin, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Multiple-Tissue Integrative Transcriptome-Wide Association Studies Discovered New Genes Associated With Amyotrophic Lateral Sclerosis. **Frontiers in Genetics**, 11:587243. [doi: 10.3389/fgene.2020.587243](https://www.frontiersin.org/articles/10.3389/fgene.2020.587243/full).
 
 + Yixin Gao<sup>$</sup>, Yongyue Wei<sup>$</sup>, Shuiping Huang, Xiang Zhou, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Assessing the relationship between leukocyte telomere length and cancer risk/mortality in UK Biobank and TCGA data sets with the genetic risk score and Mendelian randomization approaches. **Frontiers in Genetics**, 11(1270): 583106. [doi: https://doi.org/10.3389/fgene.2020.583106](https://www.frontiersin.org/articles/10.3389/fgene.2020.583106/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=Frontiers_in_Genetics&id=583106)
 
