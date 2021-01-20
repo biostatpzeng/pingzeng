@@ -43,7 +43,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
-+ Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**, in press. [doi: 10.1016/j.ajhg.2020.12.006](doi: 10.1016/j.ajhg.2020.12.006).
++ Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**, in press. [doi: 10.1016/j.ajhg.2020.12.006](https://www.sciencedirect.com/science/article/abs/pii/S0002929720304420).
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluation of the causal effects of blood lipid levels on gout with summary level GWAS data: two-sample Mendelian randomization and mediation analysis. **Journal of Human Genetics**，in press. [doi: https://doi.org/10.1038/s10038-020-00863-0](https://www.nature.com/articles/s10038-020-00863-0#citeas).
 
