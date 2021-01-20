@@ -8,15 +8,16 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. A novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup>. Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges.
 
-+ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
++ Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. A novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation.
 
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
+
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup>. Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges.
 
 + Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
 
