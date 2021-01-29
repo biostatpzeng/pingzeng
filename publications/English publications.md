@@ -3,11 +3,12 @@
 + #: Corresponding Authors; $: Joint First Authors
 + *The research is supported in part by NNFSC and other fundings from Chinese Government.*
    
-
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Haibo Xu, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng) (2021). Mediation and moderation of social support on the relationship between psychological capital and depression: A cross-sectional study of 568 emergency physicians in Jiangsu, China.
+
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges.
 
 + Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
