@@ -34,7 +34,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
-+ Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Novel genes were identified for anorexia nervosa by integrating eQTL into GWAS summary statistics via multiple-tissue transcriptome-wide association study.
++ Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup>(2020). Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies.
 
