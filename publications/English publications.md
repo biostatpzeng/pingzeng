@@ -21,8 +21,6 @@
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics.
 
-+ Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
-
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
 
 + Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics.
@@ -35,6 +33,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
++ Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
+
 + Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup>(2020). Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies.
