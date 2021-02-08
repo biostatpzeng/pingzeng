@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, Shuiping Huang, Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach.
++ Jinhui Zhang<sup>$</sup>, Haojie Lu<sup>$</sup>, Shuo Zhang, Huashuo Zhao, Ting Wang, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges.
 
