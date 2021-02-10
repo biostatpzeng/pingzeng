@@ -33,8 +33,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
-+ Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles.
-
 + Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup>(2020). Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies.
@@ -43,6 +41,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
++ Ping Guo, Yanjun Wang, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2020). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles. **Endocrinology**, in press.
+
 + [**Ping Zeng**](https://github.com/biostatpzeng), Jing Dai, Siyi Jin and Xiang Zhou (2021). Aggregating multiple expression prediction models improves the power of transcriptome wide association studies. **Human Molecular Genetics**, in press.
 
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**, in press. [doi: 10.1016/j.ajhg.2020.12.006](https://www.sciencedirect.com/science/article/abs/pii/S0002929720304420).
