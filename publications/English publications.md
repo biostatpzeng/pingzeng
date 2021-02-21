@@ -14,13 +14,13 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges.
 
++ Jinhui Zhang<sup>$</sup>, Haojie Lu<sup>$</sup>, Shuo Zhang, Huashuo Zhao, Ting Wang, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach.
+
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics.
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
-
-+ Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics.
 
 + Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
 
@@ -32,8 +32,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
-> + Jinhui Zhang<sup>$</sup>, Haojie Lu<sup>$</sup>, Shuo Zhang, Huashuo Zhao, Ting Wang, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach.
-> 
++ Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics.
+
 + Derui Yan, Hualong Qin, Zixuan Du, Yamin Wang, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2020). The Expression Level of Zinc Finger Protein Genes Family Might Associate with Radiosensitivity of Patients with Breast Cancer.
 
 + Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
