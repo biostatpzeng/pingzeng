@@ -1,7 +1,7 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn
 + ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Master Students
 + #: Corresponding Authors; $: Joint First Authors
-+ *The research is supported in part by NNFSC and other fundings from Chinese Government.*
++ *The research is supported in part by NFSC and other fundings from Chinese Government.*
    
 > ## Technical Reports
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -68,7 +68,7 @@
 
 + Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2020). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. **Nature Communications**, 11(1): 3861. [doi: 10.1038/s41467-020-17668-6](https://www.nature.com/articles/s41467-020-17668-6)
 
-+ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020) . Relationship between birth weight and chronic kidney disease: evidence from systematics review and two-sample Mendelian randomization analysis. **Human Molecular Genetics**, 29(13): 2261-2274. [doi: 10.1093/hmg/ddaa074](https://academic.oup.com/hmg/article-abstract/29/13/2261/5824309?redirectedFrom=fulltext)
++ Xinghao Yu<sup>$</sup>, Zhongshang Yuan<sup>$</sup>, Haojie Lu, Yixin Gao, Haimiao Chen, Zhonghe Shao, Jiaji Yang, Fengjun Guan, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Relationship between birth weight and chronic kidney disease: evidence from systematics review and two-sample Mendelian randomization analysis. **Human Molecular Genetics**, 29(13): 2261-2274. [doi: 10.1093/hmg/ddaa074](https://academic.oup.com/hmg/article-abstract/29/13/2261/5824309?redirectedFrom=fulltext)
 
 + Xinghao Yu<sup>$</sup>, Ting Wang<sup>$</sup>, Yiming Chen, Ziyuan Shen, Yixin Gao, Lishun Xiao, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Alcohol Drinking and Amyotrophic Lateral Sclerosis: An Instrumental Variable Causal Inference. **Annals of Neurology**, 88(1): 195-198. [doi: 10.1002/ana.25721](https://onlinelibrary.wiley.com/doi/full/10.1002/ana.25721)
 
