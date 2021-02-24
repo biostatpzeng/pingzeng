@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation.
++ Haimiao Chen<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Shuo Zhang, Qingwei Lai, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation.
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
