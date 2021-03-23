@@ -22,6 +22,8 @@
 
 + Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
 
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
+
 + Haibo Xu, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng) (2021). Mediation and moderation of social support on the relationship between psychological capital and depression: A cross-sectional study of 568 emergency physicians in Jiangsu, China.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,8 +31,6 @@
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
 
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer.
-
-+ Haimiao Chen, Jiahao Qiao, Ting Wang, Zhonghe Shao, Siyi Jin, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup>(2020). Systemic evaluation of the relationship between birth weight and osteoporosis: observational and Mendelian randomization studies.
 
