@@ -34,7 +34,7 @@
 
 + Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization. **Journal of Human Genetics**.
 
-+ Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup>(2020). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**.
++ Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup> (2020). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**.
 
 + Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics. **Frontiers in Genetics**.
 
