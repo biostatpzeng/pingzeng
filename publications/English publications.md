@@ -18,6 +18,8 @@
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics.
 
++ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
+
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -28,8 +30,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
-+ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study. **Aging**.
-
 + Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer. **Frontiers in Genetics**.
 
 + Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization. **Journal of Human Genetics**.
