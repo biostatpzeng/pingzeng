@@ -34,7 +34,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
-+ Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer. **Frontiers in Genetics**.
++ Yixin Gao<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Huashuo Zhao, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer. **Frontiers in Genetics**.
 
 + Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics. **Frontiers in Genetics**.
 
