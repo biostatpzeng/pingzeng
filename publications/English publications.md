@@ -8,7 +8,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
++ :blush: Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
 
 + Haimiao Chen<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Shuo Zhang, Qingwei Lai, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation.
 
