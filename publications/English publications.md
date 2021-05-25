@@ -20,8 +20,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges.
-
 + Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
@@ -31,13 +29,15 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
-+ Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**.
++ + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges. **Computational and Structural Biotechnology Journal**, in press.
 
-+ Jinhui Zhang<sup>$</sup>, Haojie Lu<sup>$</sup>, Shuo Zhang, Huashuo Zhao, Ting Wang, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach. **Frontiers in Genetics**.
++ Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, in press.
 
-+ Yixin Gao<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Huashuo Zhao, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer. **Frontiers in Genetics**.
++ Jinhui Zhang<sup>$</sup>, Haojie Lu<sup>$</sup>, Shuo Zhang, Huashuo Zhao, Ting Wang, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach. **Frontiers in Genetics**, in press.
 
-+ Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics. **Frontiers in Genetics**.
++ Yixin Gao<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Huashuo Zhao, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer. **Frontiers in Genetics**, in press.
+
++ Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics. **Frontiers in Genetics**, in press.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng), Jing Dai, Siyi Jin and Xiang Zhou (2021). Aggregating multiple expression prediction models improves the power of transcriptome wide association studies. **Human Molecular Genetics**, in press.
 
