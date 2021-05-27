@@ -20,8 +20,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
-+ Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
-
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
@@ -29,6 +27,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
++ Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
+
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges. **Computational and Structural Biotechnology Journal**, in press.
 
 + Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, in press.
