@@ -27,7 +27,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
-+ Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma.
++ Lihong Huang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Novel autophagy-related gene signature investigation for patients with oral squamous cell carcinoma. **Frontiers in Genetics**, in press.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges. **Computational and Structural Biotechnology Journal**, in press.
 
