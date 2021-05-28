@@ -3,13 +3,7 @@
 + #: Corresponding Authors; $: Joint First Authors
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
-> ## Technical Reports
-----------------------------------------------------------------------------------------------------------------------------------------
-+ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
-+ Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations.
-+ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA.
----------------------------------------------------------------------------------------------------------------------------------------
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges. **Computational and Structural Biotechnology Journal**, in press.
 + [**Ping Zeng**](https://github.com/biostatpzeng), Jing Dai, Siyi Jin and Xiang Zhou (2021). Aggregating multiple expression prediction models improves the power of transcriptome wide association studies. **Human Molecular Genetics**, in press.
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**, 108(2): 240-256. [doi: 10.1016/j.ajhg.2020.12.006](https://www.sciencedirect.com/science/article/abs/pii/S0002929720304420).
