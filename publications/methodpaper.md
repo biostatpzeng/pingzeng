@@ -4,6 +4,7 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations. **Human Genetics**, in press.
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges. **Computational and Structural Biotechnology Journal**, in press.
 + [**Ping Zeng**](https://github.com/biostatpzeng), Jing Dai, Siyi Jin and Xiang Zhou (2021). Aggregating multiple expression prediction models improves the power of transcriptome wide association studies. **Human Molecular Genetics**, in press.
 + Yixin Gao<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Huashuo Zhao, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Instrumental heterogeneity in sex-specific two-sample Mendelian randomization: causal effects of anthropometric traits on breast/prostate cancer. **Frontiers in Genetics**, in press.
