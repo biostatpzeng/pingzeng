@@ -7,6 +7,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Ting Wang, Haojie Lu, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing.
+
 + Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics.
