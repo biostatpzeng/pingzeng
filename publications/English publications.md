@@ -28,7 +28,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
-+ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA. **PLoS Computational Biology**, in press.
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Meng Zhang, Zhou Jiang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA. **PLoS Computational Biology**, in press.
 
 + Haimiao Chen<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Shuo Zhang, Qingwei Lai, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation. **Journal of Clinical Endocrinology & Metabolism**, in press.
 
