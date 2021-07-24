@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
++ Ting Wang<sup>$</sup>, Haimiao Chen<sup>$</sup>, Jiahao Qiao, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Zhixuan Xing<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yangyang Zhou, Jiakun Zhang, Yuheng Yin, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between birth weight and breast cancer: two-sample Mendelian randomization.
 
@@ -66,7 +66,7 @@
 
 + Xinghao Yu, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). How can gene expression information improve prognostic prediction in TCGA cancers: an empirical comparison study on regularization and mixed-effect survival models. **Frontiers in Genetics**, 11: 920. [doi: 10.3389/fgene.2020.00920](https://www.frontiersin.org/articles/10.3389/fgene.2020.00920/full)
 
-+ Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> (2020) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Mendelian randomization implies no direct causal association between leukocyte telomere length and amyotrophic lateral sclerosis. **Scientific Reports**, 10(1): 12184. [doi: 10.1038/s41598-020-68848-9](https://www.nature.com/articles/s41598-020-68848-9)
++ Yixin Gao<sup>$</sup>, Ting Wang<sup>$</sup>, Xinghao Yu, International FTD-Genomics Consortium (IFGC), Huashuo Zhao<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Mendelian randomization implies no direct causal association between leukocyte telomere length and amyotrophic lateral sclerosis. **Scientific Reports**, 10(1): 12184. [doi: 10.1038/s41598-020-68848-9](https://www.nature.com/articles/s41598-020-68848-9)
 
 + Zhongshang Yuan, Huanhuan Zhu, [**Ping Zeng**](https://github.com/biostatpzeng), Sheng Yang, Shiquan Sun, Can Yang, Jin Liu and Xiang Zhou<sup>#</sup> (2020). Testing and controlling for horizontal pleiotropy with the probabilistic Mendelian randomization in transcriptome-wide association studies. **Nature Communications**, 11(1): 3861. [doi: 10.1038/s41467-020-17668-6](https://www.nature.com/articles/s41467-020-17668-6)
 
