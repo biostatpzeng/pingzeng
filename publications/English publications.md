@@ -7,6 +7,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Jing Dai<sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genome-wide association and Mendelian randomization analyses reveal the genetic architecture of socioeconomic deprivation index in the UK Biobank.
+
 + Meng Zhang <sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Revisiting the relationship between birth weight and breast cancer from a perspective of mediation, genetic correlation and causality.
 
 + Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating relationship between birth weight and asthma using summary Statistics: from genetic overlap to causality
