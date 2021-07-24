@@ -7,7 +7,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Meng Zhang <sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Revisiting the relationship between birth weight and breast cancer from a perspective of mediation, genetic correlation and causality.
++ Meng Zhang <sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Revisiting the relationship between birth weight and breast cancer from a perspective of mediation, genetic correlation and causality.
+
++ Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating relationship between birth weight and asthma using summary Statistics: from genetic overlap to causality
 
 + Haojie Lu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric traits with GWAS summary statistics.
 
