@@ -5,7 +5,7 @@
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
++ A comparative analysis of genetic architectures of Type II diabetes mellitus between East Asian and European populations
 + An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
 + How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a gene-centric high-dimensional epigenetic mediation analysis
 + Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
