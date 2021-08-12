@@ -4,7 +4,11 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
++ A pan-cancer TCGA analysis for evaluating the mediating role of DNA methylations in the impact of age on cancer survival risk
++ How can protains mediate the influence of smoking on complex diseases: a summary statistics based mediation analysis
++ The mediation of metabolite traits for behavior exposures on complex disease: a composite null hypothesis testing
++ How can protains mediate the influence of smoking on complex diseases: a summary statistics based mediation analysis 
++ The mediating role of DNA methylations in the influence of radiotherapy on gene expression: a pan-cancer mediation analysis of TCGA
 + Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
 + A comparative analysis of genetic architectures of Type II diabetes mellitus between East Asian and European populations
 + An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
@@ -19,26 +23,6 @@
 + Haojie Lu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric disorders with GWAS summary statistics.
 + Jinhui Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Similarity and diversity of associated genetic loci for complex traits between East Asian and European populations.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations. **Human Genetics**, in press.
