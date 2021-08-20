@@ -12,12 +12,12 @@
 + Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating causal relationship between metabolites and eight cardiovascular diseases based on GWAS summary statistics.
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics.
-
-+ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
 ---------------------------------------------------------------------------------------------------------------------------------------
++ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Integrative eQTL-weighted hierarchical Cox models for SNP-set based survival association study.
+
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing.
 
 
