@@ -7,6 +7,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Haojie Lu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric disorders with GWAS summary statistics.
+
 + Ting Wang<sup>$</sup>, Haimiao Chen<sup>$</sup>, Jiahao Qiao, Lihong Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating causal relationship between metabolites and eight cardiovascular diseases based on GWAS summary statistics.
