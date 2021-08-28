@@ -22,7 +22,7 @@
 
 
 > ## 2021
-+ Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. Briefings in Bioinformatics.
++ Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. Briefings in Bioinformatics, in press.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Meng Zhang, Zhou Jiang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA. **PLoS Computational Biology**, in press.
 
