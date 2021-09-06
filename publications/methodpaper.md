@@ -4,6 +4,8 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Sex similarity and diversity of associated genetic loci for complex traits and diseases
++ Similarity and diversity of associated genetic loci for complex traits between European and African populations
 + Identifying common genetic foundation between East Asian and European populations for 38 complex traits with GWAS summary statistics
 + A pan-cancer TCGA analysis for evaluating the mediating role of DNA methylations in the impact of age on cancer survival risk
 + How can proteins mediate the influence of smoking on complex diseases: a summary statistics based mediation analysis
