@@ -24,7 +24,7 @@
 > ## 2021
 + Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Integrative eQTL-weighted hierarchical Cox models for SNP-set based time-to-event association studies. **Journal of Translational Medicine**, in press.
 
-+ Derui Yan, Mingjing Shen, Zixuan Du, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2021). Developing ZNF Gene Signatures Predicting Radiosensitivity of Patients with Breast Cancer. **Journal of Oncology**, 2021: 9255494. [doi: 10.1155/2021/9255494](https://www.hindawi.com/journals/jo/2021/9255494/).
++ Derui Yan, Mingjing Shen, Zixuan Du, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2021). Developing ZNF Gene Signatures Predicting Radiosensitivity of Patients with Breast Cancer. **Journal of Oncology**, 9255494. [doi: 10.1155/2021/9255494](https://www.hindawi.com/journals/jo/2021/9255494/).
 
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, in press.
 
