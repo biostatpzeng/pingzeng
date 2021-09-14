@@ -21,7 +21,7 @@
 + Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
 + Mendelian randomization assisted mediation analysis for genome-wide association studies with summary statistics
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
-+ Genetic correlation and gene-based pleiotropy analysis for five neurodegenerative diseases with summary statistics from genome-wide association studies
++ Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive empirical comparison of gene-based association approaches with GWAS summary statistics
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Composite null gene-based high dimensional mediation analysis with multiple DNA methylation mediators and its application to cancers of TCGA
 + Jing Dai<sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genome-wide association and Mendelian randomization analyses reveal the genetic architecture of socioeconomic deprivation index in the UK Biobank.
