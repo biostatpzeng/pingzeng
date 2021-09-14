@@ -17,7 +17,6 @@
 + Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
 + A comparative analysis of genetic architectures of Type II diabetes mellitus between East Asian and European populations
 + An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
-+ How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a gene-centric high-dimensional epigenetic mediation analysis
 + Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
 + Mendelian randomization assisted mediation analysis for genome-wide association studies with summary statistics
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
