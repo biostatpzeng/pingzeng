@@ -57,7 +57,9 @@
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**, 108(2): 240-256. [doi: 10.1016/j.ajhg.2020.12.006](https://www.sciencedirect.com/science/article/abs/pii/S0002929720304420).
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis. **Journal of Cancer**, 12(3): 840-848. [doi: 10.7150/jca.47918](https://www.jcancer.org/v12p0840.htm).
-+ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2021). 基于两样本孟德尔随机化方法分析血液代谢物对慢性肾病的因果关系. 江苏预防医学.
++ 本科生, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2021). 徐州市居民对宠物性传染病认知状况及影响因素调查. 江苏预防医学.
++ 本科生, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2021). 出生体重与乳腺癌的关系:双样本孟德尔随机化. 江苏预防医学.
++ 本科生, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2021). 基于两样本孟德尔随机化方法分析血液代谢物对慢性肾病的因果关系. 江苏预防医学.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 > ## 2020
