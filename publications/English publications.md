@@ -32,8 +32,7 @@
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Meng Zhang, Zhou Jiang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). IUSMMT: survival mediation analysis of gene expression with multiple DNA methylation exposures and its application to cancers of TCGA. **PLoS Computational Biology**, 17(8): e1009250. [doi:10.1371/journal.pcbi.1009250](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009250).
 
-+ Haimiao Chen<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Shuo Zhang, Qingwei Lai, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation. **Journal of Clinical Endocrinology & Metabolism**, dgab465. [doi:10.1210/clinem/dgab465]
-(https://academic.oup.com/jcem/advance-article-abstract/doi/10.1210/clinem/dgab465/6309609?redirectedFrom=fulltext).
++ Haimiao Chen<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Ting Wang<sup>$</sup>, Shuo Zhang, Qingwei Lai, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Type II diabetes mellitus and amyotrophic lateral sclerosis: genetic overlap, causality, and mediation. **Journal of Clinical Endocrinology & Metabolism**, dgab465. [doi: 10.1210/clinem/dgab465](https://academic.oup.com/jcem/advance-article-abstract/doi/10.1210/clinem/dgab465/6309609?redirectedFrom=fulltext).
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations. **Human Genetics**, 140(9): 1285-1297. [doi:10.1007/s00439-021-02299-8](https://link.springer.com/article/10.1007%2Fs00439-021-02299-8).
 
@@ -41,7 +40,7 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges. **Computational and Structural Biotechnology Journal**, 19: 3209-3224. [doi: 10.1016/j.csbj.2021.05.042](https://www.sciencedirect.com/science/article/pii/S2001037021002233?via%3Dihub).
 
-+ Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, 36(8): 1469-1480. [doi: 10.1002/jbmr.4316] (https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4316).
++ Xinghao Yu, Yongyue Wei, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shufeng Lei<sup>#</sup> (2021). Birth weight is positively associated with adult osteoporosis risk: observational and Mendelian randomization studies. **Journal of Bone and Mineral Research**, 36(8): 1469-1480. [doi: 10.1002/jbmr.4316](https://asbmr.onlinelibrary.wiley.com/doi/10.1002/jbmr.4316).
 
 + Jinhui Zhang<sup>$</sup>, Haojie Lu<sup>$</sup>, Shuo Zhang, Huashuo Zhao, Ting Wang, Fengjun Guan<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Leveraging methylation alterations to discover potential causal genes associated with the survival risk of cervical cancer in TCGA through a two-stage inference approach. **Frontiers in Genetics**, 12: 667877. [doi: 10.3389/fgene.2021.667877](https://www.frontiersin.org/articles/10.3389/fgene.2021.667877/full).
 
