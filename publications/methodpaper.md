@@ -13,6 +13,7 @@
 + How can protains mediate the influence of smoking on complex diseases: a summary statistics based mediation analysis 
 + Mediating role of DNA methylations in the influence of radiotherapy on gene expression: a pan-cancer mediation analysis of TCGA
 + Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
++ A comparative analysis of genetic architectures of pediatric steroid-sensitive nephrotic syndrome between African and European populations
 + A comparative analysis of genetic architectures of prostate cancer between East Asian and European populations
 + A comparative analysis of genetic architectures of amyotrophic lateral sclerosis between East Asian and European populations
 + A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
