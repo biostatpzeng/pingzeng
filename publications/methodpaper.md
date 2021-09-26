@@ -4,7 +4,11 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
++ A mediation analysis perspective for transcriptome-wide association studies
++ A composite null hypothesis testing perspective of gene-based statistical colocalization analysis for complex traits
++ A trans-ethnic hierarchical integrative model of association studies for complex traits in minority populations with summary statistics 
++ Increasing association power for complex traits in African population by integrating European genetic information
++ Improved statistical power of association mapping for complex traits in minority populations by hierarchically leveraging trans-ethnic evidence
 + Sex similarity and diversity of associated genetic loci for complex traits and diseases
 + Similarity and diversity of associated genetic loci for complex traits between European and African populations
 + Identifying common genetic foundation between East Asian and European populations for 38 complex traits with GWAS summary statistics
@@ -18,7 +22,7 @@
 + A comparative analysis of genetic architectures of amyotrophic lateral sclerosis between East Asian and European populations
 + A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
 + Trans-ethnic genetic correlation of complex traits and its implications for gene-based association discovery
-+ An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
++ An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models (XX)
 + Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
 + Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies
