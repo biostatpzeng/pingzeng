@@ -20,8 +20,6 @@
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
-+ Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating causal relationship between metabolites and eight cardiovascular diseases based on GWAS summary statistics.
-
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao, Zhonghe Shao, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -29,6 +27,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
++ Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating causal relationship between metabolites and eight cardiovascular diseases based on GWAS summary statistics. **Frontiers in Genetics**, in press.
+
 + Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Jing Dai, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Integrative eQTL-weighted hierarchical Cox models for SNP-set based time-to-event association studies. **Journal of Translational Medicine**, in press.
 
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, in press.
