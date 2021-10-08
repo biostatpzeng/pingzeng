@@ -29,7 +29,6 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detecting associated genetic loci for complex diseases shared across East Asian and European ancestries under the framework of composite null hypothesis testing
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive empirical comparison of gene-based association approaches with GWAS summary statistics
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Composite null gene-based high dimensional mediation analysis with multiple DNA methylation mediators and its application to cancers of TCGA
-+ Jing Dai<sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genome-wide association and Mendelian randomization analyses reveal the genetic architecture of socioeconomic deprivation index in the UK Biobank.
 + Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating relationship between birth weight and children-onset asthma using summary Statistics: from genetic overlap to causality
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
