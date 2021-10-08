@@ -25,7 +25,6 @@
 + An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models (XX)
 + Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
-+ Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mendelian randomization assisted mediation analysis for genome-wide association studies with summary statistics
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detecting associated genetic loci for complex diseases shared across East Asian and European ancestries under the framework of composite null hypothesis testing
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive empirical comparison of gene-based association approaches with GWAS summary statistics
