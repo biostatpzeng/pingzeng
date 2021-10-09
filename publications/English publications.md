@@ -11,7 +11,7 @@
 
 + Jing Dai<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between socioeconomic deprivation index and cancers in the UK Biobank: observational and genetic risk score analyses.
 
-+ Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
++ Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei2<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models.
 
