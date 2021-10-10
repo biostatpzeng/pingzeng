@@ -4,6 +4,7 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ An integrative analysis for gene-based association study with summary-level GWAS data
 + Identification of egenes by integrating external eQTL information and its applications to TCGA project 
 + A mediation analysis perspective for transcriptome-wide association studies
 + A composite null hypothesis testing perspective of gene-based statistical colocalization analysis for complex traits
