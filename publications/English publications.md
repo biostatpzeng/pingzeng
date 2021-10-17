@@ -15,8 +15,6 @@
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei2<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models.
 
-+ Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
-
 + Haibo Xu<sup>#</sup>, Zhonghe Shao, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a high-dimensional mediation analysis.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Causal association between birthweight and breast cancer using summary statistics data from a perspective of genetic correlation, mediation, and causality.
@@ -27,6 +25,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## revised
++ Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
+
 + Haojie Lu<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric disorders with GWAS summary statistics.
 
 + Haimiao Chen<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Ting Wang<sup>$</sup>, Zhonghe Shao, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics. **Frontiers in Neuroscience**, under review.
