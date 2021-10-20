@@ -31,6 +31,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
++ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2021). 基于两样本孟德尔随机化方法分析血液代谢物对慢性肾病的因果关系. 江苏预防医学
 + Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating causal relationship between metabolites and eight cardiovascular diseases based on GWAS summary statistics. **Frontiers in Genetics**, in press.
 
 + Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Integrative eQTL-weighted hierarchical Cox models for SNP-set based time-to-event association studies. **Journal of Translational Medicine**, in press.
