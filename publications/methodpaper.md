@@ -4,6 +4,7 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ The influence of maternal smoking and breastfeeding on fluid intelligence score
 + Genetic determination of right- or left-handed behavior habit
 + The influence of maternal smoking on offspring's early growth: results from the UK Biobank cohort
 + Long-term impact of breastfeeding on offspring's health: results from the UK Biobank cohort
