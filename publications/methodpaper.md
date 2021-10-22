@@ -4,6 +4,7 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Genetic determination of right- or left-handed behavior habit
 + The influence of maternal smoking on offspring's early growth: results from the UK Biobank cohort
 + Long-term impact of breastfeeding on offspring's health: results from the UK Biobank cohort
 + The influence of maternal smoking on offspring's asthma risk: a genetic-prediction based high-dimensional mediation analysis
