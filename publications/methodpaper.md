@@ -4,6 +4,9 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ The influence of maternal smoking on offspring's early growth: results from the UK Biobank cohort
++ Long-term impact of breastfeeding on offspring's health: results from the UK Biobank cohort
++ The influence of maternal smoking on offspring's asthma risk: a genetic-prediction based high-dimensional mediation analysis
 + Prospective evaluation of an asthma prediction model by integrating early risk factors and polygenic genetic score
 + Construction and assessment of an obesity risk model by integrating early exposure factors and polygenic genetic score
 + A functional integrative analysis for gene-based association study with summary-level GWAS data
