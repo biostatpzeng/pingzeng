@@ -4,6 +4,8 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Prospective evaluation of an asthma prediction model by integrating early risk factors and polygenic genetic score
++ Construction and assessment of an obesity risk model by integrating early exposure factors and polygenic genetic score
 + A functional integrative analysis for gene-based association study with summary-level GWAS data
 + Identification of egenes by integrating external eQTL information and its applications to TCGA project 
 + A mediation analysis perspective for transcriptome-wide association studies
