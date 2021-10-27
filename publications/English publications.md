@@ -15,7 +15,7 @@
 
 + Haibo Xu<sup>#</sup>, Zhonghe Shao, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a high-dimensional mediation analysis.
 
-+ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Causal association between birthweight and breast cancer using summary statistics data from a perspective of genetic correlation, mediation, and causality.
++ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the association between birthweight and breast cancer using summary statistics data from a perspective of genetic correlation, mediation, and causality.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between birthweight and breast cancer in UK Biobank with a non-linear and mediation analysis.
 
