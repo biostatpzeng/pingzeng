@@ -4,27 +4,6 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-+ Maternal smoking can alter offspring's genotypes
-+ Relationship between sleeping behaviors and neuropsychiatric disorders
-+ Relationship between physical activity and neuropsychiatric disorders
-+ Relationship between air pollutions and neuropsychiatric disorders
-+ Relationship between sleeping behaviors and facial aging
-+ Relationship between physical activity and facial aging
-+ Relationship between air pollutions and facial aging
-+ Assessing risk factors for breast cancer in the UK Biobank cohort
-+ Relationship between sleeping behaviors and overall health rating
-+ Relationship between physical activity and overall health rating
-+ Relationship between air pollutions and overall health rating
-+ Relationship between working patterns and overall health rating
-+ The influence of maternal smoking and breastfeeding on depression
-+ The influence of maternal smoking and breastfeeding on neuropsychiatric disorders
-+ The influence of maternal smoking and breastfeeding on lung function
-+ The influence of maternal smoking and breastfeeding on fluid intelligence score
-+ The influence of maternal smoking and breastfeeding on prospective memory result
-+ Genetic determination of right- or left-handed behavior habit
-+ The influence of maternal smoking on offspring's early growth: results from the UK Biobank cohort
-+ Long-term impact of breastfeeding on offspring's health: results from the UK Biobank cohort
-+ The influence of maternal smoking on offspring's asthma risk: a genetic-prediction based high-dimensional mediation analysis
 + Prospective evaluation of an asthma prediction model by integrating early risk factors and polygenic genetic score
 + Construction and assessment of an obesity risk model by integrating early exposure factors and polygenic genetic score
 + A functional integrative analysis for gene-based association study with summary-level GWAS data
@@ -59,6 +38,29 @@
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Maternal smoking can alter offspring's genotypes
++ Relationship between sleeping behaviors and neuropsychiatric disorders
++ Relationship between physical activity and neuropsychiatric disorders
++ Relationship between air pollutions and neuropsychiatric disorders
++ Relationship between sleeping behaviors and facial aging
++ Relationship between physical activity and facial aging
++ Relationship between air pollutions and facial aging
++ Assessing risk factors for breast cancer in the UK Biobank cohort
++ Relationship between sleeping behaviors and overall health rating
++ Relationship between physical activity and overall health rating
++ Relationship between air pollutions and overall health rating
++ Relationship between working patterns and overall health rating
++ The influence of maternal smoking and breastfeeding on depression
++ The influence of maternal smoking and breastfeeding on neuropsychiatric disorders
++ The influence of maternal smoking and breastfeeding on lung function
++ The influence of maternal smoking and breastfeeding on fluid intelligence score
++ The influence of maternal smoking and breastfeeding on prospective memory result
++ Genetic determination of right- or left-handed behavior habit
++ The influence of maternal smoking on offspring's early growth: results from the UK Biobank cohort
++ Long-term impact of breastfeeding on offspring's health: results from the UK Biobank cohort
++ The influence of maternal smoking on offspring's asthma risk: a genetic-prediction based high-dimensional mediation analysis
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 + Haojie Lu<sup>$</sup>, Ting Wang<sup>$</sup>, Jinhui Zhang, Shuo Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Evaluating genetic correlation of associated loci for complex diseases and traits between European and East Asian populations. **Human Genetics**, in press.
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Zhonghe Shao and Xiang Zhou<sup>#</sup> (2021). Statistical methods for mediation analysis in the era of high-throughput genomics: current successes and future challenges. **Computational and Structural Biotechnology Journal**, in press.
