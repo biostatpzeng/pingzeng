@@ -4,6 +4,10 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Genome-wide selection of associated genes and gene-mediated heritability estimation based on genetically predicted expression levels via linear mixed effects models
++ Improving statistical power of association studies in minority populations by integrating trans-ethnic information
++ Scalable and powerful likelihood ratio test for SNP-set based integration association studies
++ Sex difference of genetic architecture in gene expression and its implication on transcriptome-wide association study
 + Prospective evaluation of an asthma prediction model by integrating early risk factors and polygenic genetic score
 + Construction and assessment of an obesity risk model by integrating early exposure factors and polygenic genetic score
 + A functional integrative analysis for gene-based association study with summary-level GWAS data
