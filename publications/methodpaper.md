@@ -5,7 +5,6 @@
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 + Genome-wide selection of associated genes and gene-mediated heritability estimation based on genetically predicted expression levels via linear mixed effects models
-+ Improving statistical power of association studies in minority populations by integrating trans-ethnic information
 + Scalable and powerful likelihood ratio test for SNP-set based integration association studies
 + Sex difference of genetic architecture in gene expression and its implication on transcriptome-wide association study
 + Prospective evaluation of an asthma prediction model by integrating early risk factors and polygenic genetic score
@@ -14,9 +13,10 @@
 + Identification of egenes by integrating external eQTL information and its applications to TCGA project 
 + A mediation analysis perspective for transcriptome-wide association studies
 + A composite null hypothesis testing perspective of gene-based statistical colocalization analysis for complex traits
-+ A trans-ethnic hierarchical integrative model of association studies for complex traits in minority populations with summary statistics 
-+ Increasing association power for complex traits in African population by integrating European genetic information
++ A trans-ethnic hierarchical integrative model of association studies for complex traits in minority populations with summary statistics
++ Improving statistical power of association studies in minority populations by integrating trans-ethnic information
 + Improved statistical power of association mapping for complex traits in minority populations by hierarchically leveraging trans-ethnic evidence
++ Increasing association power for complex traits in African population by integrating European genetic information
 + Sex similarity and diversity of associated genetic loci for complex traits and diseases
 + Similarity and diversity of associated genetic loci for complex traits between European and African populations
 + Identifying common genetic foundation between East Asian and European populations for 38 complex traits with GWAS summary statistics
