@@ -30,7 +30,7 @@
 + A comparative analysis of genetic architectures of amyotrophic lateral sclerosis between East Asian and European populations
 + A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
 + Trans-ethnic genetic correlation of complex traits and its implications for gene-based association discovery
-+ An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models (XX)
++ An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
 + Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
 + Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating relationship between birth weight and children-onset asthma using summary Statistics: from genetic overlap to causality.
