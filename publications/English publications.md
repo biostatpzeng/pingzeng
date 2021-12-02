@@ -24,6 +24,8 @@
 
 + Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
 
++ Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The role of social support on the relationship between psychological capital and depression: A cross-sectional study.
+
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
