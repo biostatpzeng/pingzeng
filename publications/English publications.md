@@ -33,12 +33,11 @@
 
 + Haojie Lu<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric disorders with GWAS summary statistics. **BMC Medicine**, in press.
 
-+ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2021). 基于两样本孟德尔随机化方法分析血液代谢物对慢性肾病的因果关系. 江苏预防医学
-+ Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating causal relationship between metabolites and eight cardiovascular diseases based on GWAS summary statistics. **Frontiers in Genetics**, in press.
-
-+ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Integrative eQTL-weighted hierarchical Cox models for SNP-set based time-to-event association studies. **Journal of Translational Medicine**, in press.
-
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, in press.
+
++ Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating Causal Relationship Between Metabolites and Six Cardiovascular Diseases Based on GWAS Summary Statistics. **Frontiers in Genetics**, 12: 746677. [doi: 10.3389/fgene.2021.746677](https://www.frontiersin.org/articles/10.3389/fgene.2021.746677/full).
+
++ Haojie Lu<sup>$</sup>, Yongyue Wei<sup>$</sup>, Zhou Jiang, Jinhui Zhang, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Integrative eQTL-weighted hierarchical Cox models for SNP-set based time-to-event association studies. **Journal of Translational Medicine**, 19(1): 418. [doi: 10.1186/s12967-021-03090-z](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03090-z).
 
 + Derui Yan, Mingjing Shen, Zixuan Du, Jianping Cao, Ye Tian, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zaixiang Tang<sup>#</sup> (2021). Developing ZNF Gene Signatures Predicting Radiosensitivity of Patients with Breast Cancer. **Journal of Oncology**, 9255494. [doi: 10.1155/2021/9255494](https://www.hindawi.com/journals/jo/2021/9255494/).
 
