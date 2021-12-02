@@ -19,9 +19,6 @@
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between birthweight and breast cancer in UK Biobank with a non-linear and mediation analysis.
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
----------------------------------------------------------------------------------------------------------------------------------------
-
-> ## revised
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei2<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models.
 
