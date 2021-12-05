@@ -17,11 +17,11 @@
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between birthweight and breast cancer in UK Biobank with a non-linear and mediation analysis.
 
-+ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
-
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models.
 
 + Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
+
++ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Fengjun Guan, Qianqian Peng, Xinghao Yu, Xiang Liu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Yuan Zhang (2021). Effects of Acetylated Glucocorticoid Receptor and Histone 3/Histone 4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
