@@ -8,7 +8,6 @@
 ```ruby
 ```
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
-+ Fengjun Guan, Qianqian Peng, Xinghao Yu, Xiang Liu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Yuan Zhang (2021). Effects of Acetylated Glucocorticoid Receptor and Histone 3/Histone 4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
 + Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
 
@@ -23,6 +22,8 @@
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models.
 
 + Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
+
++ Fengjun Guan, Qianqian Peng, Xinghao Yu, Xiang Liu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Yuan Zhang (2021). Effects of Acetylated Glucocorticoid Receptor and Histone 3/Histone 4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
 + Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The role of social support on the relationship between psychological capital and depression: A cross-sectional study.
 
