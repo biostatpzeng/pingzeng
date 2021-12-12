@@ -28,8 +28,10 @@
 + An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
 + A comparative analysis of genetic architectures of amyotrophic lateral sclerosis between East Asian and European populations
++ Wenyan Hou, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Investigating the influence of breastfeeding on asthma and its onset in UK Biobank
++ Wenying Chen, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Prospective prediction model for adult BMI by integrating early risk factors and polygenic genetic score
 + Yuxuan Wu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between smoking during pregnancy and offspring height and body size at age 10 in UK Biobank
-+ Lei Xia and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
++ Lei Xia, Shuiping Shung<sup>#</sup> and and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
 + Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A pan-cancer TCGA analysis for evaluating the mediating role of DNA methylations in the impact of age on cancer survival risk
 + Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of prostate cancer between East Asian and European populations
 + Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
