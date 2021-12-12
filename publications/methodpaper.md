@@ -26,15 +26,15 @@
 + Mediating role of DNA methylations in the influence of radiotherapy on gene expression: a pan-cancer mediation analysis of TCGA
 + Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
 + A comparative analysis of genetic architectures of pediatric steroid-sensitive nephrotic syndrome between African and European populations
-+ A comparative analysis of genetic architectures of prostate cancer between East Asian and European populations
-+ A comparative analysis of genetic architectures of amyotrophic lateral sclerosis between East Asian and European populations
-+ A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
 + Trans-ethnic genetic correlation of complex traits and its implications for gene-based association discovery
 + An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
-+ Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
-+ Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating relationship between birth weight and children-onset asthma using summary Statistics: from genetic overlap to causality.
-+ Jing Dai<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between socioeconomic deprivation index and cancers in the UK Biobank: observational and genetic risk score analyses.
++ A comparative analysis of genetic architectures of amyotrophic lateral sclerosis between East Asian and European populations
++ Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of prostate cancer between East Asian and European populations
++ Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
++ Jiahao Qiao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
++ Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Maternal origin of children-onset asthma: evidence from summary-statistics based genetic analysis.
++ Jing Dai and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between socioeconomic deprivation index and Alzheimer's disease: from genetic correlation to causality.
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detecting associated genetic loci for complex diseases shared across East Asian and European ancestries under the framework of composite null hypothesis testing
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive empirical comparison of gene-based association approaches with GWAS summary statistics
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Composite null gene-based high dimensional mediation analysis with multiple DNA methylation mediators and its application to cancers of TCGA
