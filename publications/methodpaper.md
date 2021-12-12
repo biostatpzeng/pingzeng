@@ -20,16 +20,16 @@
 + Sex similarity and diversity of associated genetic loci for complex traits and diseases
 + Similarity and diversity of associated genetic loci for complex traits between European and African populations
 + Identifying common genetic foundation between East Asian and European populations for 38 complex traits with GWAS summary statistics
-+ A pan-cancer TCGA analysis for evaluating the mediating role of DNA methylations in the impact of age on cancer survival risk
 + The mediation of metabolite traits for behavior exposures on complex disease: a composite null hypothesis testing
 + How can protains mediate the influence of smoking on complex diseases: a summary statistics based mediation analysis 
 + Mediating role of DNA methylations in the influence of radiotherapy on gene expression: a pan-cancer mediation analysis of TCGA
-+ Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
 + A comparative analysis of genetic architectures of pediatric steroid-sensitive nephrotic syndrome between African and European populations
 + Trans-ethnic genetic correlation of complex traits and its implications for gene-based association discovery
 + An efficient mediation approach for genome-wide association studies with genetically imputed gene expression through linear mixed models
 + Genetic overlap and gene-based pleiotropy analysis for immune-mediated diseases with GWAS summary data
 + A comparative analysis of genetic architectures of amyotrophic lateral sclerosis between East Asian and European populations
++ Lei Xia and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
++ Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A pan-cancer TCGA analysis for evaluating the mediating role of DNA methylations in the impact of age on cancer survival risk
 + Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of prostate cancer between East Asian and European populations
 + Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
 + Jiahao Qiao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
