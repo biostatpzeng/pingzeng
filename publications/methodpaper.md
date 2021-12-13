@@ -5,6 +5,7 @@
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 + Genome-wide selection of associated genes and gene-mediated heritability estimation based on genetically predicted expression levels via linear mixed effects models
++ Similarity and diversity of causal genes for complex traits and diseases in transcriptome-wide association study
 + Sex difference of genetic architecture in gene expression and its implication on transcriptome-wide association study
 + Prospective evaluation of an asthma prediction model by integrating early risk factors and polygenic genetic score
 + Construction and assessment of an obesity risk model by integrating early exposure factors and polygenic genetic score
