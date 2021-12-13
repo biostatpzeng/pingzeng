@@ -32,9 +32,9 @@
 > ## 2021
 + Haimiao Chen<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Ting Wang<sup>$</sup>, Zhonghe Shao, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics. **Frontiers in Neuroscience**, in press.
 
-+ Haojie Lu<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric disorders with GWAS summary statistics. **BMC Medicine**, in press.
-
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, in press.
+
++ Haojie Lu<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric disorders with GWAS summary statistics. **BMC Medicine**, 19: 314. [https://doi.org/10.1186/s12916-021-02186-z](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02186-z#citeas).
 
 + Jiahao Qiao, Meng Zhang, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating Causal Relationship Between Metabolites and Six Cardiovascular Diseases Based on GWAS Summary Statistics. **Frontiers in Genetics**, 12: 746677. [doi: 10.3389/fgene.2021.746677](https://www.frontiersin.org/articles/10.3389/fgene.2021.746677/full).
 
