@@ -27,6 +27,7 @@
 
 + Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The role of social support on the relationship between psychological capital and depression: A cross-sectional study.
 
++ XX and [**Ping Zeng**](https://github.com/biostatpzeng). Establishment of Relapse Risk Model and Multivariate Logistic Regression Analysis on Risk Factors of Relapse in Children with Primary Nephrotic Syndrome
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2021
