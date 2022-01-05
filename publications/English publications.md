@@ -30,9 +30,10 @@
 + XX and [**Ping Zeng**](https://github.com/biostatpzeng). Establishment of Relapse Risk Model and Multivariate Logistic Regression Analysis on Risk Factors of Relapse in Children with Primary Nephrotic Syndrome
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-> ## 2021
-+ Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, in press.
+> ## 2022
++ Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, in press.
 
+> ## 2021
 + Haimiao Chen<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Ting Wang<sup>$</sup>, Zhonghe Shao, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics. **Frontiers in Neuroscience**, 15: 680104. [https: /10.3389/fnins.2021.680104](https://www.frontiersin.org/articles/10.3389/fnins.2021.680104/full).
 
 + Haojie Lu<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive gene-based pleiotropic association analysis for 14 psychiatric disorders with GWAS summary statistics. **BMC Medicine**, 19: 314. [https://doi.org/10.1186/s12916-021-02186-z](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-02186-z#citeas).
