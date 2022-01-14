@@ -31,7 +31,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, in press.
++ Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, [https://doi.org/10.1093/bib/bbab389](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab389/6375058?redirectedFrom=fulltext).
 
 > ## 2021
 + Haimiao Chen<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Ting Wang<sup>$</sup>, Zhonghe Shao, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics. **Frontiers in Neuroscience**, 15: 680104. [https: /10.3389/fnins.2021.680104](https://www.frontiersin.org/articles/10.3389/fnins.2021.680104/full).
