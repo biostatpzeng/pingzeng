@@ -7,6 +7,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies
+
++ Jiahao Qiao<sup>$</sup>, Lihong Huang<sup>$</sup>, Lei Xia<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detecting associated genes for complex traits shared across East Asian and European populations under the framework of composite null hypothesis testing
+
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
 + Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
@@ -14,8 +18,6 @@
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the association between birthweight and breast cancer using summary statistics data from a perspective of genetic correlation, mediation, and causality.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between birthweight and breast cancer in UK Biobank with a non-linear and mediation analysis.
-
-+ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models.
 
 + Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
 
@@ -31,6 +33,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
++ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models. **Briefings in Bioinformatics**, in press.
+
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, [https://doi.org/10.1093/bib/bbab389](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab389/6375058?redirectedFrom=fulltext).
 
 > ## 2021
