@@ -4,6 +4,8 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
++ Discovering causal genes for 40 complex phenotypes in the African population by integrating transcriptome data
++ Identifying causal genes shared by phenotypes across East Asian and European populations in transcriptome-wide association study
 + Genome-wide selection of associated genes and gene-mediated heritability estimation based on genetically predicted expression levels via linear mixed effects models
 + Similarity and diversity of causal genes for complex traits and diseases in transcriptome-wide association study
 + Sex difference of genetic architecture in gene expression and its implication on transcriptome-wide association study
