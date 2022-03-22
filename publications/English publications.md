@@ -29,7 +29,7 @@
 
 + Fengjun Guan, Qianqian Peng, Xinghao Yu, Xiang Liu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Yuan Zhang (2021). Effects of Acetylated Glucocorticoid Receptor and Histone 3/Histone 4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
-+ Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The role of social support on the relationship between psychological capital and depression: A cross-sectional study.
++ Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The mediation of Social Support on the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians.
 
 + XX and [**Ping Zeng**](https://github.com/biostatpzeng). Establishment of Relapse Risk Model and Multivariate Logistic Regression Analysis on Risk Factors of Relapse in Children with Primary Nephrotic Syndrome
 ---------------------------------------------------------------------------------------------------------------------------------------
