@@ -31,7 +31,7 @@
 
 + Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The mediation of Social Support on the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians.
 
-+ XX and [**Ping Zeng**](https://github.com/biostatpzeng). Establishment of Relapse Risk Model and Multivariate Logistic Regression Analysis on Risk Factors of Relapse in Children with Primary Nephrotic Syndrome
++ Fengjun Guan and [**Ping Zeng**](https://github.com/biostatpzeng). Establishment of Relapse Risk Model and Multivariate Logistic Regression Analysis on Risk Factors of Relapse in Children with Primary Nephrotic Syndrome
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
