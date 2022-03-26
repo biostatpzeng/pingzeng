@@ -43,7 +43,6 @@
 + Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
 + Jiahao Qiao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 37 traits in the East Asian population
 + Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Maternal origin of children-onset asthma: evidence from summary-statistics based genetic analysis
-+ Jing Dai and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Relationship between socioeconomic deprivation index and Alzheimer's disease: from genetic correlation to causality
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Composite null gene-based high dimensional mediation analysis with multiple DNA methylation mediators and its application to cancers of TCGA
 
 
