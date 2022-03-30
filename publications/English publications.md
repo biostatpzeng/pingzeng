@@ -9,6 +9,8 @@
 ```
 + Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Maternal and fetal origin of offspring blood pressure: statistical analysis using genetic correlation, multivariable Mendelian randomization and genetic risk score.
 
++ Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Detecting maternal and fetal relationship between children-onset asthma for correlation and causality using summary statistics.
+
 + Jing Dai<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between socioeconomic deprivation index and Alzheimer's disease using summary-level data: from genetic correlation to causality.
  
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Shung and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
