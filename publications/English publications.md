@@ -7,7 +7,14 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Yuxuan Wu<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between smoking during pregnancy and offspring height and body size at age 10 in UK Biobank.
++ Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 33 complex diseases and traits in the East Asian population
+
++ Jiahao Qiao<sup>$</sup>, Lihong Huang<sup>$</sup>, Lei Xia<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Detecting associated genes for complex traits shared across East Asian and European populations under the framework of composite null hypothesis testing.
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
+
++ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between birthweight and breast cancer in UK Biobank with a non-linear and mediation analysis.
+
++ + Yuxuan Wu<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between smoking during pregnancy and offspring height and body size at age 10 in UK Biobank.
 
 + Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Maternal and fetal origin of offspring blood pressure: statistical analysis using genetic correlation, multivariable Mendelian randomization and genetic risk score.
 
