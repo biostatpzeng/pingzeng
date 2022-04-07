@@ -32,12 +32,12 @@
 
 + Fengjun Guan, Qianqian Peng, Xinghao Yu, Xiang Liu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Yuan Zhang (2021). Effects of Acetylated Glucocorticoid Receptor and Histone 3/Histone 4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
-+ Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The mediation of Social Support on the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians.
-
 + Fengjun Guan and [**Ping Zeng**](https://github.com/biostatpzeng). Establishment of Relapse Risk Model and Multivariate Logistic Regression Analysis on Risk Factors of Relapse in Children with Primary Nephrotic Syndrome
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
++ Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, in press.
+
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, in press.
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models. **Briefings in Bioinformatics**, 23(2): bbac038. [https://doi.org/10.1093/bib/bbac038](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac038/6535679?redirectedFrom=fulltext).
