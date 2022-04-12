@@ -14,7 +14,7 @@
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between birthweight and breast cancer in UK Biobank with a non-linear and mediation analysis.
 
-+ Yuxuan Wu<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between smoking during pregnancy and offspring height and body size at age 10 in UK Biobank.
++ Yuxuan Wu<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between smoking during pregnancy and offspring height and body size at age 10 in the UK Biobank.
 
 + Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Maternal and fetal origin of offspring blood pressure: statistical analysis using genetic correlation, multivariable Mendelian randomization and genetic risk score.
 
