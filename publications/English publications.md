@@ -7,7 +7,9 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population
++ Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
++
++ Haibo Xu, Lixin Peng, Zhen Wang, [**Ping Zeng**](https://github.com/biostatpzeng) and Xin Liu. Interpersonal Sensitivity on College Freshmen’ Depression: A Moderated Moderation Model of Psychological Capital and Family Support.
 
 + Jiahao Qiao<sup>$</sup>, Lihong Huang<sup>$</sup>, Lei Xia<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Detecting associated genes for complex traits shared across East Asian and European populations under the framework of composite null hypothesis testing.
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
