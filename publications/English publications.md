@@ -39,9 +39,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, 2022, 15: 977-990. [https://doi.org/10.2147/PRBM.S360611](https://www.dovepress.com/the-mediating-role-of-social-support-in-the-relationship-between-psych-peer-reviewed-fulltext-article-PRBM).
-
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, in press.
+
++ Haibo Zu, [**Ping Zeng**](https://github.com/biostatpzeng), Xing Liu. The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, 2022, 15: 977-990. [https://doi.org/10.2147/PRBM.S360611](https://www.dovepress.com/the-mediating-role-of-social-support-in-the-relationship-between-psych-peer-reviewed-fulltext-article-PRBM).
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models. **Briefings in Bioinformatics**, 23(2): bbac038. [https://doi.org/10.1093/bib/bbac038](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac038/6535679?redirectedFrom=fulltext).
 
