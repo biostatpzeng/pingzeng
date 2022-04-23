@@ -31,7 +31,7 @@
 
 + Haibo Xu<sup>#</sup>, Zhonghe Shao, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a high-dimensional mediation analysis.
 
-+ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
++ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
 
 + Fengjun Guan, Qianqian Peng, Xinghao Yu, Xiang Liu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Yuan Zhang (2021). Effects of Acetylated Glucocorticoid Receptor and Histone 3/Histone 4 on Glucocorticoid Response in Children Patients with Primary Nephrotic Syndrome.
 
