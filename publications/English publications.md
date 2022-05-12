@@ -49,6 +49,8 @@
 
 + 邢智轩, 周洋洋, 张家坤, 尹钰恒, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 双样本孟德尔随机化法探究出生体重与乳腺癌的关系. 江苏预防医学. 2022, 33(2): 119-123+157.
 
++ 陆皓杰, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup> (2022). 基因表达对膀胱癌生存结局的预测：稀疏与混合Cox模型的实证比较研究. **中国卫生统计**, 39(1): 25-30.
+
 > ## 2021
 + Haimiao Chen<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Ting Wang<sup>$</sup>, Zhonghe Shao, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics. **Frontiers in Neuroscience**, 15: 680104. [https: /10.3389/fnins.2021.680104](https://www.frontiersin.org/articles/10.3389/fnins.2021.680104/full).
 
@@ -87,6 +89,8 @@
 + Lu Liu, [**Ping Zeng**](https://github.com/biostatpzeng), Fuzhong Xue, Zhongshang Yuan<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Multi-trait transcriptome-wide association studies with probabilistic Mendelian randomization. **The American Journal of Human Genetics**, 108(2): 240-256. [doi: 10.1016/j.ajhg.2020.12.006](https://www.sciencedirect.com/science/article/abs/pii/S0002929720304420).
 
 + Haimiao Chen<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). New novel non-MHC genes were identified for cervical cancer with an integrative approach of transcriptome-wide association analysis. **Journal of Cancer**, 12(3): 840-848. [doi: 10.7150/jca.47918](https://www.jcancer.org/v12p0840.htm).
+
++ 高一欣, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 赵华硕<sup>#</sup> (2021). 两样本孟德尔随机化中工具变量对因果估计的性别特异性影响：人体测量学性状与乳腺癌关系的实证研究. **中国卫生统计**, 38(2): 198-203.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2020
@@ -111,10 +115,6 @@
 + Ting Wang<sup>$</sup>, Zaixiang Tang<sup>$</sup>, Xinghao Yu<sup>$</sup>, Yixin Gao, Chengzong Li, Fengjun Guan, Shuiping Huang<sup>#</sup>, Junnian Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Birth weight and stroke in adult life: genetic correlation and causal inference with large scale genome-wide association genetic data sets. **Frontiers in Neuroscience**, 14(479). [doi: 10.3389/fnins.2020.00479](https://www.frontiersin.org/articles/10.3389/fnins.2020.00479/full)
 
 + Haimiao Chen, Zhonghe Shao, Yixin Gao, Xinghao Yu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2020). Are blood lipids risk factors for osteoporotic fracture? Integrative evidence from instrumental variable causal inference and mediation analysis using genetic data. **Bone**, 131: 115174. [doi: 10.1016/j.bone.2019.115174](https://www.sciencedirect.com/science/article/abs/pii/S8756328219304685)
-
-+ 陆皓杰, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup> (2020). 基因表达对膀胱癌生存结局的预测：稀疏与混合Cox模型的实证比较研究. **中国卫生统计**, in press.
-
-+ 高一欣, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 赵华硕<sup>#</sup> (2020). 两样本孟德尔随机化中工具变量对因果估计的性别特异性影响：人体测量学性状与乳腺癌关系的实证研究. **中国卫生统计**, in press.
 
 > ## 2019
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine**, 17(1), 225. [doi: 10.1186/s12916-019-1448-9](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1448-9).
