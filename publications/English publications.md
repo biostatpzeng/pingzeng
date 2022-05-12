@@ -37,9 +37,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ 王婷, 蒋舟, 曾平(https://github.com/biostatpzeng)<sup>#</sup>. 基于两样本孟德尔随机化方法分析血液代谢物与慢性肾病的因果关系. 江苏预防医学. 2022, 33(2): 124-128.
++ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 基于两样本孟德尔随机化方法分析血液代谢物与慢性肾病的因果关系. 江苏预防医学. 2022, 33(2): 124-128.
 
-+ 邢智轩, 周洋洋, 张家坤, 尹钰恒, 曾平(https://github.com/biostatpzeng)<sup>#</sup>. 双样本孟德尔随机化法探究出生体重与乳腺癌的关系. 江苏预防医学. 2022, 33(2): 119-123+157.
++ 邢智轩, 周洋洋, 张家坤, 尹钰恒, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 双样本孟德尔随机化法探究出生体重与乳腺癌的关系. 江苏预防医学. 2022, 33(2): 119-123+157.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, in press.
 
