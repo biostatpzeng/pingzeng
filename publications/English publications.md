@@ -37,10 +37,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 基于两样本孟德尔随机化方法分析血液代谢物与慢性肾病的因果关系. 江苏预防医学. 2022, 33(2): 124-128.
-
-+ 邢智轩, 周洋洋, 张家坤, 尹钰恒, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 双样本孟德尔随机化法探究出生体重与乳腺癌的关系. 江苏预防医学. 2022, 33(2): 119-123+157.
-
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, in press.
 
 + Haibo Xu<sup>#</sup>, Xing Liu and [**Ping Zeng**](https://github.com/biostatpzeng). The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, 2022, 15: 977-990. [https://doi.org/10.2147/PRBM.S360611](https://www.dovepress.com/the-mediating-role-of-social-support-in-the-relationship-between-psych-peer-reviewed-fulltext-article-PRBM).
@@ -48,6 +44,10 @@
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models. **Briefings in Bioinformatics**, 23(2): bbac038. [https://doi.org/10.1093/bib/bbac038](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac038/6535679?redirectedFrom=fulltext).
 
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, 23(1): bbab389. [https://doi.org/10.1093/bib/bbab389](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab389/6375058?redirectedFrom=fulltext).
+
++ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 基于两样本孟德尔随机化方法分析血液代谢物与慢性肾病的因果关系. 江苏预防医学. 2022, 33(2): 124-128.
+
++ 邢智轩, 周洋洋, 张家坤, 尹钰恒, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 双样本孟德尔随机化法探究出生体重与乳腺癌的关系. 江苏预防医学. 2022, 33(2): 119-123+157.
 
 > ## 2021
 + Haimiao Chen<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Ting Wang<sup>$</sup>, Zhonghe Shao, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Assessing causal relationship between human blood metabolites and five neurodegenerative diseases with GWAS summary statistics. **Frontiers in Neuroscience**, 15: 680104. [https: /10.3389/fnins.2021.680104](https://www.frontiersin.org/articles/10.3389/fnins.2021.680104/full).
