@@ -37,17 +37,17 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, in press.
++ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, in press.
 
-+ Haibo Xu<sup>#</sup>, Xing Liu and [**Ping Zeng**](https://github.com/biostatpzeng). The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, 2022, 15: 977-990. [https://doi.org/10.2147/PRBM.S360611](https://www.dovepress.com/the-mediating-role-of-social-support-in-the-relationship-between-psych-peer-reviewed-fulltext-article-PRBM).
++ Haibo Xu<sup>#</sup>, Xing Liu and [**Ping Zeng**](https://github.com/biostatpzeng) (2022). The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, 15: 977-990. [https://doi.org/10.2147/PRBM.S360611](https://www.dovepress.com/the-mediating-role-of-social-support-in-the-relationship-between-psych-peer-reviewed-fulltext-article-PRBM).
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Simultaneous test and estimation of total genetic effect in eQTL integrative analysis through mixed models. **Briefings in Bioinformatics**, 23(2): bbac038. [https://doi.org/10.1093/bib/bbac038](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbac038/6535679?redirectedFrom=fulltext).
 
 + Ting Wang, Haojie Lu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying pleiotropic genes for complex phenotypes with summary statistics from a perspective of composite null hypothesis testing. **Briefings in Bioinformatics**, 23(1): bbab389. [https://doi.org/10.1093/bib/bbab389](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbab389/6375058?redirectedFrom=fulltext).
 
-+ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 基于两样本孟德尔随机化方法分析血液代谢物与慢性肾病的因果关系. 江苏预防医学. 2022, 33(2): 124-128.
++ 王婷, 蒋舟, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2022). 基于两样本孟德尔随机化方法分析血液代谢物与慢性肾病的因果关系. 江苏预防医学. 33(2): 124-128.
 
-+ 邢智轩, 周洋洋, 张家坤, 尹钰恒, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>. 双样本孟德尔随机化法探究出生体重与乳腺癌的关系. 江苏预防医学. 2022, 33(2): 119-123+157.
++ 邢智轩, 周洋洋, 张家坤, 尹钰恒, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup> (2022). 双样本孟德尔随机化法探究出生体重与乳腺癌的关系. 江苏预防医学. 33(2): 119-123+157.
 
 + 陆皓杰, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup> (2022). 基因表达对膀胱癌生存结局的预测：稀疏与混合Cox模型的实证比较研究. **中国卫生统计**, 39(1): 25-30.
 
