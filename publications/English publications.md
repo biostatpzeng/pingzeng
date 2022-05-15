@@ -37,7 +37,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, in press.
++ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, 20: 227[https://doi.org/10.1186/s12967-022-03435-2](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-022-03435-2).
 
 + Haibo Xu<sup>#</sup>, Xing Liu and [**Ping Zeng**](https://github.com/biostatpzeng) (2022). The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, 15: 977-990. [https://doi.org/10.2147/PRBM.S360611](https://www.dovepress.com/the-mediating-role-of-social-support-in-the-relationship-between-psych-peer-reviewed-fulltext-article-PRBM).
 
