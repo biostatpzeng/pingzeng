@@ -7,6 +7,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Wenyan Hou, Lei Xia, Fengjun Guan, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Investigating the influence of breastfeeding on asthma and its onset in UK Biobank
+
++ Yuxuan Wu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between smoking during pregnancy and offspring height and body size at age 10 in UK Biobank
+
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
 
 + Jiahao Qiao<sup>$</sup>, Lihong Huang<sup>$</sup>, Lei Xia<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Detecting associated genes for complex traits shared across East Asian and European populations under the framework of composite null hypothesis testing.
