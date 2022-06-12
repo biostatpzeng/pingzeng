@@ -34,9 +34,7 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Integrating genetic risk scores identifies new susceptibility genes associated with blood pressure among Chinese UK Biobank participants
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Gene-based association analysis discovers novel susceptibility to blood cell traits among both Chinese and African UK Biobank participants by including trans-ethnic genetic information
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A flexible and powerful gene-based association analysis framework for integrating genetic risk scores into minority populations
-+ Wenyan Hou, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Investigating the influence of breastfeeding on asthma and its onset in UK Biobank
 + Wenying Chen, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Prospective prediction model for adult BMI by integrating early risk factors and polygenic genetic score
-+ Yuxuan Wu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Exploring the relationship between smoking during pregnancy and offspring height and body size at age 10 in UK Biobank
 + Lei Xia, Shuiping Shung<sup>#</sup> and and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Shared polygenic risk and causal inferences for attention-deficit/hyperactivity disorder and autism spectrum disorder
 + Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A pan-cancer TCGA analysis for evaluating the mediating role of DNA methylations in the impact of age on cancer survival risk
 + Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of prostate cancer between East Asian and European populations
