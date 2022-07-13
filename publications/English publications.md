@@ -9,9 +9,9 @@
 ```
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
-+ Wenyan Hou, Lei Xia, Fengjun Guan, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank.
++ Wenyan Hou, Lei Xia, Fengjun Guan, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank.
 
-+ Yuxuan Wu<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Long-term influences of smoking during pregnancy on offspring growth at ten years old in the UK Biobank cohort.
++ Yuxuan Wu<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term influences of smoking during pregnancy on offspring growth at ten years old in the UK Biobank cohort.
 
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
 
