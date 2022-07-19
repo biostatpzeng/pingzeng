@@ -9,6 +9,8 @@
 ```
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
++ Siyi Jin <sup>$</sup>, Fengjun Guan<sup>$</sup>, Yuxuan Wu<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and polygenetic risk score analysis for birthweight and children-onset asthma.
+
 + Wenyan Hou, Lei Xia, Fengjun Guan, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank.
 
 + Yuxuan Wu<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term influences of smoking during pregnancy on offspring growth at ten years old in the UK Biobank cohort.
