@@ -39,7 +39,6 @@
 + Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A pan-cancer TCGA analysis for evaluating the mediating role of DNA methylations in the impact of age on cancer survival risk
 + Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of prostate cancer between East Asian and European populations
 + Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). A comparative analysis of genetic architectures of type II diabetes mellitus between East Asian and European populations
-+ Siyi Jin <sup>$</sup>, Yongyue Wei<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Maternal origin of children-onset asthma: evidence from summary-statistics based genetic analysis
 + Zhonghe Shao, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Composite null gene-based high dimensional mediation analysis with multiple DNA methylation mediators and its application to cancers of TCGA
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 + Maternal smoking can alter offspring's genotypes
