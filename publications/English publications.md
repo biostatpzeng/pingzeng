@@ -27,7 +27,7 @@
 
 + Jing Dai<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between socioeconomic deprivation index and Alzheimer's disease using summary-level data: from genetic correlation to causality.
  
-+ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Shuiping Shung and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
 
 + Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
 
