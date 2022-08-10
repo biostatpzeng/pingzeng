@@ -19,8 +19,6 @@
 
 + Jiahao Qiao<sup>$</sup>, Lihong Huang<sup>$</sup>, Lei Xia<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Detecting associated genes for complex traits shared across East Asian and European populations under the framework of composite null hypothesis testing.
 
-+ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2021). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective.
-
 + Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Maternal and fetal origin of offspring blood pressure: statistical analysis using genetic correlation, multivariable Mendelian randomization and genetic risk score.
 
 + Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
@@ -34,6 +32,8 @@
 + Haibo Xu<sup>#</sup>, Zhonghe Shao, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a high-dimensional mediation analysis.
 
 + Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
+
++ Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2021). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
