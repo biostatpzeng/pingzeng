@@ -24,8 +24,6 @@
 
 + Jing Dai<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between socioeconomic deprivation index and Alzheimer's disease using summary-level data: from genetic correlation to causality.
  
-+ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
-
 + Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
 
 + Haibo Xu<sup>#</sup>, Zhonghe Shao, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a high-dimensional mediation analysis.
@@ -38,6 +36,10 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
+
++ Haibo Xu <sup>$</sup>, Lixin Peng <sup>$</sup>, Zhen Wang, Ping Zeng and Xin Liu<sup>#</sup>. Interpersonal sensitivity on college freshmen's depression: A moderated moderation model of psychological capital and family support.
+
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, 20: 227. [https://doi.org/10.1186/s12967-022-03435-2](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-022-03435-2).
 
 + Haibo Xu<sup>#</sup>, Xing Liu and [**Ping Zeng**](https://github.com/biostatpzeng) (2022). The Mediating Role of Social Support in the Relationship between Psychological Capital and Depression among Chinese Emergency Physicians. **Psychology Research and Behavior Management**, 15: 977-990. [https://doi.org/10.2147/PRBM.S360611](https://www.dovepress.com/the-mediating-role-of-social-support-in-the-relationship-between-psych-peer-reviewed-fulltext-article-PRBM).
