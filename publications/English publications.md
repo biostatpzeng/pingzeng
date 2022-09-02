@@ -26,8 +26,6 @@
 
 + Yuxuan Wu<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term influences of smoking during pregnancy on offspring growth at ten years old in the UK Biobank cohort.
 
-+ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
-
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2021). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective.
 
 + Haibo Xu<sup>#</sup>, Zhonghe Shao, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a high-dimensional mediation analysis.
@@ -36,6 +34,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
++ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
+
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
 
 + Haibo Xu <sup>$</sup>, Lixin Peng <sup>$</sup>, Zhen Wang, [**Ping Zeng**](https://github.com/biostatpzeng) and Xin Liu<sup>#</sup>. Interpersonal sensitivity on college freshmen's depression: A moderated moderation model of psychological capital and family support.
