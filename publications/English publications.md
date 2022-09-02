@@ -34,7 +34,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2021). Discovery of new candidate genes for anorexia nervosa through integration of eQTLs with summary statistics.
++ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2022). Discovery of New Candidate Genes for Anorexia Nervosa through Integration of eQTLs with Summary Statistics.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
 
