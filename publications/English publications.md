@@ -7,6 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
++ Mengya Chen, Si Li, Ziwei Zhu, Chengguqiu Dai, [**Ping Zeng**](https://github.com/biostatpzeng) and Xingjie Hao<sup>#</sup> (2022). Investigating the shared genetic architecture and causal relationship between pain and neuropsychiatric disorders.
 
 + Siyi Jin <sup>$</sup>, Fengjun Guan<sup>$</sup>, Yuxuan Wu<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and polygenetic risk score analysis for birthweight and children-onset asthma.
 
