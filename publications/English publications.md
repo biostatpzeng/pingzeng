@@ -11,11 +11,7 @@
 
 + Siyi Jin <sup>$</sup>, Fengjun Guan<sup>$</sup>, Yuxuan Wu<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and polygenetic risk score analysis for birthweight and children-onset asthma.
 
-+ Wenyan Hou, Lei Xia, Fengjun Guan, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank.
-
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
-
-+ Jiahao Qiao<sup>$</sup>, Lihong Huang<sup>$</sup>, Lei Xia<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Detecting associated genes for complex traits shared across East Asian and European populations under the framework of composite null hypothesis testing.
 
 + Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Maternal and fetal origin of offspring blood pressure: statistical analysis using genetic correlation, multivariable Mendelian randomization and genetic risk score.
 
@@ -32,10 +28,16 @@
 + Haibo Xu<sup>#</sup>, Zhonghe Shao<sup>#</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
+
++ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2022). Discovery of New Candidate Genes for Anorexia Nervosa through Integration of eQTLs with Summary Statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Haimiao Chen<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng) and Lihong Huang<sup>#</sup> (2022). Discovery of New Candidate Genes for Anorexia Nervosa through Integration of eQTLs with Summary Statistics.
++ Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank.
+
++ Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>$</sup> (2022). Detecting associated genes for complex traits shared across East Asian and Europeanpopulations  under the framework of composite null hypothesis testing.
+
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
 
