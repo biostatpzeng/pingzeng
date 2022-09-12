@@ -33,9 +33,9 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank. **Frontiers in Immunology**
++ Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank. **Frontiers in Immunology**.
 
-+ Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>$</sup> (2022). Detecting associated genes for complex traits shared across East Asian and Europeanpopulations  under the framework of composite null hypothesis testing. **Journal of Translational Medicine**
++ Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>$</sup> (2022). Detecting associated genes for complex traits shared across East Asian and Europeanpopulations  under the framework of composite null hypothesis testing. **Journal of Translational Medicine**.
 
 + Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies. **BMC Bioinformatics**.
 
