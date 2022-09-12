@@ -33,15 +33,13 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2022
-+ Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank.
++ Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank. **Frontiers in Immunology**
 
-+ Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>$</sup> (2022). Detecting associated genes for complex traits shared across East Asian and Europeanpopulations  under the framework of composite null hypothesis testing.
++ Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>$</sup> (2022). Detecting associated genes for complex traits shared across East Asian and Europeanpopulations  under the framework of composite null hypothesis testing. **Journal of Translational Medicine**
 
-+ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
++ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies. **BMC Bioinformatics**.
 
-+ Zhonghe Shao<sup>$</sup>, Ting Wang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Yuchen Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). A comprehensive comparison of multilocus association methods with summary statistics in genome-wide association studies.
-
-+ Haibo Xu <sup>$</sup>, Lixin Peng <sup>$</sup>, Zhen Wang, [**Ping Zeng**](https://github.com/biostatpzeng) and Xin Liu<sup>#</sup>. Interpersonal sensitivity on college freshmen's depression: A moderated moderation model of psychological capital and family support.
++ Haibo Xu <sup>$</sup>, Lixin Peng <sup>$</sup>, Zhen Wang, [**Ping Zeng**](https://github.com/biostatpzeng) and Xin Liu<sup>#</sup>. Interpersonal sensitivity on college freshmen's depression: A moderated moderation model of psychological capital and family support. **Frontier in Psychiatry**.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the association between birthweight and breast cancer using summary statistics from a perspective of genetic correlation, mediation, and causality. **Journal of Translational Medicine**, 20: 227. [https://doi.org/10.1186/s12967-022-03435-2](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-022-03435-2).
 
