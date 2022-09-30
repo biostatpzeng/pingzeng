@@ -122,11 +122,11 @@
 > ## 2019
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Ting Wang, Junnian Zheng<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal association of type 2 diabetes with amyotrophic lateral sclerosis: new evidence from Mendelian randomization using GWAS summary statistics. **BMC Medicine**, 17(1), 225. [https://doi.org/10.1186/s12916-019-1448-9](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1448-9).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association Between Birth Weight and Adult Diseases: Evidence From a Mendelian Randomization Analysis. **Frontiers in Genetics**,10(618). [10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2019). Causal Association Between Birth Weight and Adult Diseases: Evidence From a Mendelian Randomization Analysis. **Frontiers in Genetics**,10(618). [https://doi.org/10.3389/fgene.2019.00618](https://www.frontiersin.org/articles/10.3389/fgene.2019.00618/abstract).
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Haibo Xu<sup>#</sup> (2019). Association Between Premorbid Body Mass Index and Amyotrophic Lateral Sclerosis: Causal Inference Through Genetic Approaches. **Frontiers in Neurology**, 10(543). [https://doi.org/10.3389/fneur.2019.00543](https://www.frontiersin.org/articles/10.3389/fneur.2019.00543/full).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Xiang Zhou<sup>#</sup> (2019). Birth weight is not causally associated with adult asthma: results from instrumental variable analyses. **Scientific Reports**, 9(1): 7647. [10.1038/s41598-019-44114-5](https://www.nature.com/articles/s41598-019-44114-5).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Xinghao Yu and Xiang Zhou<sup>#</sup> (2019). Birth weight is not causally associated with adult asthma: results from instrumental variable analyses. **Scientific Reports**, 9(1): 7647. [https://doi.org/10.1038/s41598-019-44114-5](https://www.nature.com/articles/s41598-019-44114-5).
 
 + Xinghao Yu, Lishun Xiao, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Shuiping Huang<sup>#</sup> (2019). Jackknife Model Averaging Prediction Methods for Complex Phenotypes with Gene Expression Levels by Integrating External Pathway Information. **Computational and Mathematical Methods in Medicine**, 2019: 8. [https://doi.org/10.1155/2019/2807470](https://www.hindawi.com/journals/cmmm/2019/2807470/cta/). [Software](https://github.com/biostatpzeng/JMAP).
 
