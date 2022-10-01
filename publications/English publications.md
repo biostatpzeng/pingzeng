@@ -23,7 +23,7 @@
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2021). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective.
 
-+ Haibo Xu<sup>#</sup>, Zhonghe Shao<sup>#</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis.
++ Haibo Xu<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
