@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-+ Siyi Jin, Yuxuan Wu<sup>, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and polygenetic risk score analysis for birthweight and children-onset asthma.
++ Siyi Jin, Yuxuan Wu, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and polygenetic risk score analysis for birthweight and children-onset asthma.
 
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
 
