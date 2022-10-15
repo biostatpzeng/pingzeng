@@ -7,6 +7,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
+Jing Dai, Yiyang Zhu, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics
+
++ Haojie Lu<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Leveraging trans-ethnic genetic risk scores to improve association power for complex traits in underrepresented populations.
+
 + Siyi Jin, Yuxuan Wu, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and polygenetic risk score analysis for birthweight and children-onset asthma.
 
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
@@ -19,7 +23,7 @@
  
 + Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
 
-+ Yuxuan Wu<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term influences of smoking during pregnancy on offspring growth at ten years old in the UK Biobank cohort.
++ Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2021). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective.
 
