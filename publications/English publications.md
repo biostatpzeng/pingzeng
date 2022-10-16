@@ -7,11 +7,21 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
+> ## In preparation
+----------------------------------------------------------------------------------------------------------------------------------------
+
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
+
 + Jing Dai, Yiyang Zhu, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics
 
 + Haojie Lu<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Leveraging trans-ethnic genetic risk scores to improve association power for complex traits in underrepresented populations.
 
 + Siyi Jin, Yuxuan Wu, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and instrumental causal inference using polygenetic risk score to assess the relationship between birthweight and children-onset asthma.
+
++ Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
+
+> ## Under review
+----------------------------------------------------------------------------------------------------------------------------------------
 
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
 
@@ -23,13 +33,10 @@
  
 + Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
 
-+ Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
-
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2021). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective.
 
 + Haibo Xu<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis.
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
