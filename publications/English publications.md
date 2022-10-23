@@ -14,7 +14,7 @@
 
 + Haojie Lu<sup>$</sup>, Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Leveraging trans-ethnic genetic risk scores to improve association power for complex traits in underrepresented populations.
 
-+ Siyi Jin, Yuxuan Wu, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and instrumental causal inference using polygenetic risk score to assess the relationship between birthweight and children-onset asthma.
++ Siyi Jin, Yuxuan Wu, Tongyu Gao, Yin Liu, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and instrumental causal inference using polygenetic risk score to assess the relationship between birthweight and children-onset asthma.
 
 + Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Kexuan Zhu, Chu Zheng, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
 
