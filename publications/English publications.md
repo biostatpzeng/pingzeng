@@ -16,7 +16,7 @@
 
 + Siyi Jin, Yuxuan Wu, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Genetic overlap and instrumental causal inference using polygenetic risk score to assess the relationship between birthweight and children-onset asthma.
 
-+ Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Chu Zheng<sup>$</sup>, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
++ Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Chu Zheng, Fengjun Guan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
