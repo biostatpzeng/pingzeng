@@ -27,8 +27,6 @@
 + Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup>, Wenying Chen, Yuxuan Wu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Maternal and fetal origins of offspring blood pressure: statistical analysis using genetic correlation and genetic risk score based Mendelian randomization.
 
 + Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
-
-+ Jing Dai<sup>$</sup>, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between socioeconomic deprivation index and Alzheimer's disease using summary-level data: from genetic correlation to causality.
  
 + Jiahao Qiao<sup>$</sup>，Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies.
 
@@ -38,6 +36,10 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
+
+> ## 2022
++ Jing Dai<sup>$</sup>, Yue Xu<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Exploring the relationship between socioeconomic deprivation index and Alzheimer's disease using summary-level data: from genetic correlation to causality. **Progress in Neuropsychopharmacology & Biological Psychiatry**
+
 
 > ## 2022
 + Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank. **Frontiers in Immunology**, 13: 967101. [https://doi.org/10.3389/fimmu.2022.967101](https://www.frontiersin.org/articles/10.3389/fimmu.2022.967101/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE).
