@@ -42,7 +42,7 @@
 
 
 > ## 2022
-+ Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Shung<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank. **Frontiers in Immunology**, 13: 967101. [https://doi.org/10.3389/fimmu.2022.967101](https://www.frontiersin.org/articles/10.3389/fimmu.2022.967101/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE).
++ Wenyan Hou<sup>$</sup>, Fengjun Guan<sup>$</sup>, Lei Xia, Yue Xu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Investigating the influence of breastfeeding on asthma in children under 12 years old in the UK Biobank. **Frontiers in Immunology**, 13: 967101. [https://doi.org/10.3389/fimmu.2022.967101](https://www.frontiersin.org/articles/10.3389/fimmu.2022.967101/full?utm_source=F-NTF&utm_medium=EMLX&utm_campaign=PRD_FEOPS_20170000_ARTICLE).
 
 + Jiahao Qiao<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>$</sup> (2022). Detecting associated genes for complex traits shared across East Asian and European populations  under the framework of composite null hypothesis testing. **Journal of Translational Medicine**, 20(1): 424. [https://doi.org/10.1186/s12967-022-03637-8](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-022-03637-8).
 
