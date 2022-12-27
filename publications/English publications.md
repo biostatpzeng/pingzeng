@@ -35,7 +35,7 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-> ## 2022
+> ## 2023
 
 + Jiahao Qiao<sup>$</sup>，Ting Wang<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Meng Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies. **Neurobiology of Aging**
 
