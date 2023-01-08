@@ -14,7 +14,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Wenying Chen, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
 
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Influence of social deprivation on morbidity and all-cause mortality of cardiometabolic multi-morbidity: a cohort analysis of the UK Biobank cohort.
++ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Influence of social deprivation on morbidity and all-cause mortality of cardiometabolic multi-morbidity: a cohort analysis of the UK Biobank.
 
 + Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework.
 
