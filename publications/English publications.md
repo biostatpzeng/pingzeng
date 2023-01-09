@@ -100,7 +100,7 @@
 
 + Haojie Lu<sup>$</sup>, Jinhui Zhang<sup>$</sup>, Zhou Jiang, Meng Zhang, Ting Wang, Huashuo Zhao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). Detection of genetic overlap between rheumatoid arthritis and systemic lupus erythematosus using GWAS summary statistics. **Frontiers in Genetics**, 12: 656545. [https://doi.org/10.3389/fgene.2021.656545](https://www.frontiersin.org/articles/10.3389/fgene.2021.656545/full).
 
-+ [**Ping Zeng**](https://github.com/biostatpzeng), Jing Dai, Siyi Jin and Xiang Zhou (2021). Aggregating multiple expression prediction models improves the power of transcriptome wide association studies. **Human Molecular Genetics**, 30(10): 939-951. [https://doi.org/10.1093/hmg/ddab056](https://academic.oup.com/hmg/article-abstract/30/10/939/6145951?redirectedFrom=fulltext).
++ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>, Jing Dai, Siyi Jin and Xiang Zhou<sup>#</sup> (2021). Aggregating multiple expression prediction models improves the power of transcriptome wide association studies. **Human Molecular Genetics**, 30(10): 939-951. [https://doi.org/10.1093/hmg/ddab056](https://academic.oup.com/hmg/article-abstract/30/10/939/6145951?redirectedFrom=fulltext).
 
 + Yanjun Wang, Ping Guo, Lu Liu, Yanan Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhongshang Yuan<sup>#</sup> (2021). Mendelian randomization highlights the causal role of normal thyroid function on blood lipid profiles. **Endocrinology**, 162(5): bqab037. [https://doi.org/10.1210/endocr/bqab037](https://doi.org/10.1210/endocr/bqab037).
 
