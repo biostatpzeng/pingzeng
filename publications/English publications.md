@@ -38,7 +38,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2023
-+ Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup>, Wenying Chen, Yuxuan Wu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Maternal and fetal origins of offspring blood pressure: statistical analysis using genetic correlation and genetic risk score based Mendelian randomization. **International Journal of Epidemiology**, in press.
++ Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup>, Wenying Chen, Yuxuan Wu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal and fetal origins of offspring blood pressure: statistical analysis using genetic correlation and genetic risk score based Mendelian randomization. **International Journal of Epidemiology**, in press.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2023). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
 
