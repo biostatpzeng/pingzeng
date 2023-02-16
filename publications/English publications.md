@@ -30,7 +30,7 @@
 
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
 
-+ Jinhui Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>，Shuo Zhang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
++ Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
  
 + Haibo Xu<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis.
 
