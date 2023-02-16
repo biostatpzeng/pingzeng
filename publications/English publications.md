@@ -12,7 +12,9 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Cheng, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
++ Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Yuxuan Wu, Keying Chen, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Investigating the moderating role of genetic susceptibility in the relation between maternal smoking during pregnancy and asthma in the UK Biobank cohort
+
++ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Cheng, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
 
 + Wenying Chen<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Tiang Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
 
