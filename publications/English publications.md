@@ -35,13 +35,13 @@
 + Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
 
 + Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
- 
-+ Haibo Xu<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2023
++ Haibo Xu<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis. **Frontiers in Psychiatry**, in press.
+
 + Siyi Jin<sup>$</sup>, Ting Wang<sup>$</sup>, Wenying Chen, Yuxuan Wu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal and fetal origins of offspring blood pressure: statistical analysis using genetic correlation and genetic risk score based Mendelian randomization. **International Journal of Epidemiology**, in press.
 
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2023). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
