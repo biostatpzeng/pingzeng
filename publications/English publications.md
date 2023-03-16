@@ -12,6 +12,8 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Yuxuan Wu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Keying Chen, Ting Wang<sup>#</sup> (2023) and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Genetic factor, maternal smoking during pregnancy and offspring depression: a cohort analysis of the UK Biobank study.
+
 + Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Yuxuan Wu, Keying Chen, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy and the risk of asthma in the UK Biobank study.
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Chen, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
