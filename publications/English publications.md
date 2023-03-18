@@ -12,6 +12,10 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
++ 
++ Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
+
 + Meng He and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). The role of hematological traits in risk of ischemic stroke in the East Asian population.
 
 + Wenyan Hou and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
