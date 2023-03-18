@@ -12,11 +12,13 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Wenyan Hou and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
++ Meng He and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). The role of hematological traits in risk of ischemic stroke in the East Asian population.
 
-+ Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>. Effect of parental education on offspring birthweight: results from the Mendelian randomization analysis and observational UK Biobank study.
++ Wenyan Hou and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
 
-+ Yuxuan Wu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Keying Chen, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup>(2023). Genetic factor, maternal smoking during pregnancy and offspring depression: a cohort analysis of the UK Biobank study.
++ Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Effect of parental education on offspring birthweight: results from the Mendelian randomization analysis and observational UK Biobank study.
+
++ Yuxuan Wu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Keying Chen, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic factor, maternal smoking during pregnancy and offspring depression: a cohort analysis of the UK Biobank study.
 
 + Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Yuxuan Wu, Keying Chen, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy and the risk of asthma in the UK Biobank study.
 
