@@ -10,8 +10,6 @@
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-> ## Under review
-----------------------------------------------------------------------------------------------------------------------------------------
 + Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
 
 + Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
@@ -25,6 +23,10 @@
 + Yuxuan Wu, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
 + Shuo Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy and the risk of asthma in the UK Biobank study.
+
+
+> ## Under review
+----------------------------------------------------------------------------------------------------------------------------------------
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Chen, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
 
