@@ -46,7 +46,7 @@
 
 + Siyi Jin, Yuxuan Wu, Tongyu Gao, Yin Liu, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
 
-+ Jiahao Qiao, Jinhui Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Evaluating replicability of European-associated genetic loci for 31 complex diseases and traits in the East Asian population.
++ Jiahao Qiao<sup>$</sup>, Yuxuan Wu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yue Xu, Jinhui Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Evaluating significance of European-associated index SNPs in the East Asian population for 31 complex phenotypes.
 
 + Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
 
