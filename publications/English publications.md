@@ -46,12 +46,12 @@
 
 + Siyi Jin, Yuxuan Wu, Tongyu Gao, Yin Liu, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
 
-+ Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.
-
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2023
++ Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.  **BMC Genomics**, in press.
+
 + Jiahao Qiao<sup>$</sup>, Yuxuan Wu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yue Xu, Jinhui Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Evaluating significance of European-associated index SNPs in the East Asian population for 31 complex phenotypes. **BMC Genomics**, in press.
 
 + Haibo Xu<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Shuo Zhang<sup>$</sup>, Xin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2021). How can childhood maltreatment affect post-traumatic stress disorder in adult: results from a composite null hypothesis perspective of mediation analysis. **Frontiers in Psychiatry**, in press.
