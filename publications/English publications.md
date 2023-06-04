@@ -38,8 +38,6 @@
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yiyang Zhu, Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Composite null hypothesis Mendelian randomization mediation analysis of proteins from smoking to diseases using GWAS summary statistics.
 
-+ Haojie Lu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Leveraging trans-ethnic genetic risk scores to improve association power for complex traits in underrepresented populations.
-
 + Jing Dai, Yiyang Zhu, Keyin Chen, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics.
 
 + Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Kexuan Zhu, Chu Zheng, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
@@ -50,6 +48,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2023
++ Haojie Lu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Leveraging trans-ethnic genetic risk scores to improve association power for complex traits in underrepresented populations. **Briefings in Bioinformatics**, in press.
+
 + Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.  **BMC Genomics**, in press.
 
 + Jiahao Qiao<sup>$</sup>, Yuxuan Wu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yue Xu, Jinhui Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Evaluating significance of European-associated index SNPs in the East Asian population for 31 complex phenotypes. **BMC Genomics**, in press.
