@@ -22,8 +22,6 @@
 
 + Yuxuan Wu, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
-+ Shuo Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy and the risk of asthma in the UK Biobank study.
-
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
