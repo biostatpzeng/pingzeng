@@ -28,7 +28,7 @@
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-Shuo Zhang<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy, and the risk of asthma in the UK Biobank participants.
++ Shuo Zhang<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy, and the risk of asthma in the UK Biobank participants.
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Chen, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
 
