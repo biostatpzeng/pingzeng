@@ -14,9 +14,9 @@
 
 + Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
 
-+ Meng He and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). The role of hematological traits in risk of ischemic stroke in the East Asian population.
++ Meng He and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Mendelian randomization study of blood cell traits and ischemic stroke in the East Asian population highlights ancestry-specific causality.
 
-+ Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Effect of parental education on offspring birthweight: results from the Mendelian randomization analysis and observational UK Biobank study.
++ Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Effect of maternal education attainment on offspring birthweight: results from the Mendelian randomization analysis and observational UK Biobank study.
 
 
 > ## Under review
