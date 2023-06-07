@@ -9,6 +9,13 @@
 ```
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants.
+
++ Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort.
+
++ Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of smoking, smoking cessation with risk of cardiometabolic disease in the UK Biobank.
+
++ Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Lung function, genetic risk, and risk of incident dementia: a prospective cohort study of 486,548 UK Biobank participants.
 
 + Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
 
