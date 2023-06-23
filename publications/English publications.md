@@ -17,14 +17,13 @@
 
 + Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Lung function, genetic risk, and risk of incident dementia: a prospective cohort study of 486,548 UK Biobank participants.
 
-+ Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
-
-+ Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
-
 + Meng He and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Mendelian randomization study of blood cell traits and ischemic stroke in the East Asian population highlights ancestry-specific causality.
 
 + Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Effect of maternal education attainment on offspring birthweight: results from the Mendelian randomization analysis and observational UK Biobank study.
 
++ Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
+
++ Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
