@@ -1,6 +1,5 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng), Email: zpstat@xzhmu.edu.cn
-+ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
-+ ![#f03c15](https://placehold.it/15/f03c15/000000?text=)
++ ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)  ![#f03c15](https://placehold.it/15/f03c15/000000?text=)
 + #: Corresponding Authors; $: Joint First Authors
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
