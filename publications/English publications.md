@@ -21,12 +21,12 @@
 
 + Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Effect of maternal education attainment on offspring birthweight: results from the Mendelian randomization analysis and observational UK Biobank study.
 
-+ Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
-
 + Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
+
 + Yuxuan Wu, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
 + Wenyan Hou and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
