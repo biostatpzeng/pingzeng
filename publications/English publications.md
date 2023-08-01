@@ -7,49 +7,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```ruby
 ```
-> ## In preparation
-----------------------------------------------------------------------------------------------------------------------------------------
-+ Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants.
-
-+ Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort.
-
-+ Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of smoking, smoking cessation with risk of cardiometabolic disease in the UK Biobank.
-
-+ Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Lung function, genetic risk, and risk of incident dementia: a prospective cohort study of 486,548 UK Biobank participants.
-
-+ Meng He and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Mendelian randomization study of blood cell traits and ischemic stroke in the East Asian population highlights ancestry-specific causality.
-
-+ Yiyang Zhu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Effect of maternal education attainment on offspring birthweight: results from the Mendelian randomization analysis and observational UK Biobank study.
-
-+ Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
-
-> ## Under review
-----------------------------------------------------------------------------------------------------------------------------------------
-+ Keying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for frontotemporal dementia and shared genetic component with amyotrophic lateral sclerosis: a large-scale multi-trait association analysis with summary statistics.
-
-+ Yuxuan Wu, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
-
-+ Wenyan Hou and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
-
-+ Shuo Zhang<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy, and the risk of asthma in the UK Biobank participants.
-
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Chen, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
-
-+ Wenying Chen<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
-
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Influence of social deprivation on morbidity and all-cause mortality of cardiometabolic multi-morbidity: a cohort analysis of the UK Biobank.
-
-+ Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework.
-
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yiyang Zhu, Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Composite null hypothesis Mendelian randomization mediation analysis of proteins from smoking to diseases using GWAS summary statistics.
-
-+ Jing Dai, Yiyang Zhu, Keyin Chen, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics.
-
-+ Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Kexuan Zhu, Chu Zheng, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort.
-
-+ Siyi Jin, Yuxuan Wu, Tongyu Gao, Yin Liu, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
-
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 > ## 2023
