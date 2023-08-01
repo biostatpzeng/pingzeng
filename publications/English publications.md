@@ -3,12 +3,8 @@
 + #: Corresponding Authors; $: Joint First Authors
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
-> ## Technical Reports
-----------------------------------------------------------------------------------------------------------------------------------------
-```ruby
-```
----------------------------------------------------------------------------------------------------------------------------------------
 
+----------------------------------------------------------------------------------------------------------------------------------------
 > ## 2023
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2023). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
 
