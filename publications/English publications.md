@@ -31,8 +31,6 @@
 
 + Shuo Zhang<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy, and the risk of asthma in the UK Biobank participants.
 
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Chen, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
-
 + Wenying Chen<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Influence of social deprivation on morbidity and all-cause mortality of cardiometabolic multi-morbidity: a cohort analysis of the UK Biobank.
@@ -50,6 +48,8 @@
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
 > ## 2023
++ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Keying Chen, Yuxuan Wu, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term influence of air pollutants on morbidity and all-cause mortality of cardiometabolic multi-morbidity: A cohort analysis of the UK Biobank participants.
+
 + Meng Zhang <sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2023). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
 
 + Haojie Lu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Leveraging trans-ethnic genetic risk scores to improve association power for complex traits in underrepresented populations. **Briefings in Bioinformatics**, 24(4): bbad232. [https://doi.org/10.1093/bib/bbad232](https://academic.oup.com/bib/article-abstract/24/4/bbad232/7199900?redirectedFrom=fulltext&login=false).
