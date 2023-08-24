@@ -11,7 +11,7 @@
 
 + Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort.
 
-+ Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank .
++ Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank.
 
 + Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Lung function, genetic risk, and risk of incident dementia: a prospective cohort study of 486,548 UK Biobank participants.
 
