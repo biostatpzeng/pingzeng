@@ -44,12 +44,15 @@
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
+
+> ## 2024
++ Keying Chen, Tongyu Gao, Ying Liu, Kexuan Zhu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for FTD and shared genetic component with ALS: a large-scale multi-trait association analysis. **Neurobiology of Aging**, 134: 28-39. [https://doi.org/10.1016/j.neurobiolaging.2023.09.017](https://www.sciencedirect.com/science/article/pii/S0197458023002361).
+
+
 > ## 2023
 + Meng Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2023). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
 
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Influence of social deprivation on morbidity and all-cause mortality of cardiometabolic multi-morbidity: a cohort analysis of the UK Biobank. **BMC Public Health**, in press.
-
-+ Keying Chen, Tongyu Gao, Ying Liu, Kexuan Zhu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Identifying risk loci for FTD and shared genetic component with ALS: a large-scale multi-trait association analysis. **Neurobiology of Aging**, in presss.
++ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Influence of social deprivation on morbidity and all-cause mortality of cardiometabolic multi-morbidity: a cohort analysis of the UK Biobank. **BMC Public Health**, 23(1): 2177. [https://doi.org/10.1186/s12889-023-17008-5]([https://www.sciencedirect.com/science/article/pii/S2352827323001714](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-17008-5#citeas)).
 
 + Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Kexuan Zhu, Chu Zheng, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort. **SSM - Population Health**, 24: 101506. [https://doi.org/10.1016/j.ssmph.2023.101506](https://www.sciencedirect.com/science/article/pii/S2352827323001714).
 
