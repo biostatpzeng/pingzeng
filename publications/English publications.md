@@ -44,7 +44,7 @@
 
 
 > ## 2024
-+ Jing Dai, Keyin Chen, Yiyang Zhu, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics. **Progress in Neuro-psychopharmacology and Biological Psychiatry**, in press. 
++ Jing Dai, Keying Chen, Yiyang Zhu, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics. **Progress in Neuro-psychopharmacology and Biological Psychiatry**, in press. 
 
 + Keying Chen, Tongyu Gao, Ying Liu, Kexuan Zhu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for FTD and shared genetic component with ALS: a large-scale multi-trait association analysis. **Neurobiology of Aging**, 134: 28-39. [https://doi.org/10.1016/j.neurobiolaging.2023.09.017](https://www.sciencedirect.com/science/article/pii/S0197458023002361).
 
