@@ -38,14 +38,14 @@
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yiyang Zhu, Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Composite null hypothesis Mendelian randomization mediation analysis of proteins from smoking to diseases using GWAS summary statistics.
 
-+ Jing Dai, Yiyang Zhu, Keyin Chen, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2022). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics.
-
 + Siyi Jin, Yuxuan Wu, Tongyu Gao, Yin Liu, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
 
 > ## 2024
++ Jing Dai, Keyin Chen, Yiyang Zhu, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics. **Progress in Neuro-psychopharmacology and Biological Psychiatry**, in press. 
+
 + Keying Chen, Tongyu Gao, Ying Liu, Kexuan Zhu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for FTD and shared genetic component with ALS: a large-scale multi-trait association analysis. **Neurobiology of Aging**, 134: 28-39. [https://doi.org/10.1016/j.neurobiolaging.2023.09.017](https://www.sciencedirect.com/science/article/pii/S0197458023002361).
 
 
