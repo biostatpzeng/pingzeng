@@ -16,8 +16,6 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants.
-
 + Zhaohui Qin<sup>$</sup>, Meng He<sup>$</sup>, Ke Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Mendelian randomization study of blood cell traits and ischemic stroke in the East Asian population highlights ancestry-specific causality.
 
 + Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort.
@@ -44,6 +42,8 @@
 
 
 > ## 2024
++ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**， in press.
+
 + Meng Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2024). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
 
 + Jing Dai, Keying Chen, Yiyang Zhu, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics. **Progress in Neuro-psychopharmacology and Biological Psychiatry**, 129: 110906. [https://doi.org/10.1016/j.pnpbp.2023.110906](https://www.sciencedirect.com/science/article/pii/S0278584623001926?dgcid=author).
@@ -62,7 +62,7 @@
 
 + Haojie Lu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Leveraging trans-ethnic genetic risk scores to improve association power for complex traits in underrepresented populations. **Briefings in Bioinformatics**, 24(4): bbad232. [https://doi.org/10.1093/bib/bbad232](https://academic.oup.com/bib/article-abstract/24/4/bbad232/7199900?redirectedFrom=fulltext&login=false).
 
-+ Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.  **BMC Genomics**, 24(1): 314. [https://doi.org/10.1186/s12864-023-09434-x](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09434-x).
++ Jinhui Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Similarity and diversity of genetic architecture for complex traits between East Asian and European populations.  **BMC Genomics**, 24(1): 314. [https://doi.org/10.1186/s12864-023-09434-x](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09434-x).
 
 + Jiahao Qiao<sup>$</sup>, Yuxuan Wu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yue Xu, Jinhui Zhang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Evaluating significance of European-associated index SNPs in the East Asian population for 31 complex phenotypes. **BMC Genomics**, 24(1): 324. [https://doi.org/10.1186/s12864-023-09425-y](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-023-09425-y).
 
