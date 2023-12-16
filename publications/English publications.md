@@ -40,11 +40,11 @@
 
 
 > ## 2024
-+ Yiyang Zhu, Hao Zhang, Jike Qi, Yuxin Liu, Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Evaluating causal association of maternal educational attainment on offspring birthweight via observational study and Mendelian randomization analyses. **SSM - Population Health**, in press.
++ Yiyang Zhu, Hao Zhang, Jike Qi, Yuxin Liu, Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Evaluating causal association of maternal educational attainment on offspring birthweight via observational study and Mendelian randomization analyses. **SSM - Population Health**, in press.
 
 + Peilin Yu, Zhou Jiang, Chu Zheng, [**Ping Zeng**](https://github.com/biostatpzeng), Lihong Huang<sup>#</sup>, Yingliang Jin<sup>#</sup> and Ke Wang<sup>#</sup> (2024). Variety ACEs and risk of developing anxiety, depression, or anxiety-depression co-morbidity: the 2006-2022 UK Biobank data. **Frontiers in Psychiatry**, in press.
 
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**, in press.
++ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**, zwad384. [https://doi.org/10.1093/eurjpc/zwad384](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwad384/7470718?redirectedFrom=fulltext&login=false).
 
 + Meng Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2024). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
 
