@@ -22,8 +22,6 @@
 
 + Shuo Zhang, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank.
 
-+ Yiyang Zhu, Hao Zhang, Jike Qi, Yuxin Liu, Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Evaluating causal association of maternal educational attainment on offspring birthweight via observational study and Mendelian randomization analyses.
-
 + Yuxuan Wu, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
 + Wenyan Hou and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
@@ -42,6 +40,8 @@
 
 
 > ## 2024
++ Yiyang Zhu, Hao Zhang, Jike Qi, Yuxin Liu, Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Evaluating causal association of maternal educational attainment on offspring birthweight via observational study and Mendelian randomization analyses. **SSM - Population Health**, in press.
+
 + Peilin Yu, Zhou Jiang, Chu Zheng, [**Ping Zeng**](https://github.com/biostatpzeng), Lihong Huang<sup>#</sup>, Yingliang Jin<sup>#</sup> and Ke Wang<sup>#</sup> (2024). Variety ACEs and risk of developing anxiety, depression, or anxiety-depression co-morbidity: the 2006-2022 UK Biobank data. **Frontiers in Psychiatry**, in press.
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**, in press.
