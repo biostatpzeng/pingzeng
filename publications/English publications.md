@@ -44,7 +44,7 @@
 
 + Yiyang Zhu, Hao Zhang, Jike Qi, Yuxin Liu, Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Evaluating causal association of maternal educational attainment on offspring birthweight via observational study and Mendelian randomization analyses. **SSM - Population Health**, 25: 101587. [https://doi.org/10.1016/j.ssmph.2023.101587](https://www.sciencedirect.com/science/article/pii/S2352827323002525).
 
-+ Meng Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2024). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, 53(1): 187-197. [https://ijph.tums.ac.ir/index.php/ijph/article/view/29549].
++ Meng Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2024). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, 53(1): 187-197.
 
 + Jing Dai, Keying Chen, Yiyang Zhu, Lei Xia, Ting Wang, Zhongshang Yuan and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Identifying risk loci for obsessive-compulsive disorder and shared genetic component with schizophrenia: a large-scale multi-trait association analysis with summary statistics. **Progress in Neuro-psychopharmacology and Biological Psychiatry**, 129: 110906. [https://doi.org/10.1016/j.pnpbp.2023.110906](https://www.sciencedirect.com/science/article/pii/S0278584623001926?dgcid=author).
 
