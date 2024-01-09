@@ -42,8 +42,6 @@
 > ## 2024
 + Yiyang Zhu, Hao Zhang, Jike Qi, Yuxin Liu, Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Evaluating causal association of maternal educational attainment on offspring birthweight via observational study and Mendelian randomization analyses. **SSM - Population Health**, in press.
 
-+ Peilin Yu, Zhou Jiang, Chu Zheng, [**Ping Zeng**](https://github.com/biostatpzeng), Lihong Huang<sup>#</sup>, Yingliang Jin<sup>#</sup> and Ke Wang<sup>#</sup> (2024). Variety ACEs and risk of developing anxiety, depression, or anxiety-depression co-morbidity: the 2006-2022 UK Biobank data. **Frontiers in Psychiatry**, in press.
-
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**, zwad384. [https://doi.org/10.1093/eurjpc/zwad384](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwad384/7470718?redirectedFrom=fulltext&login=false).
 
 + Meng Zhang<sup>$</sup>, Jiahao Qiao<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Zhuangzhuang Liu<sup>#</sup> (2024). Investigating the relationship between birthweight and breast cancer from a non-linear and mediation perspective. **Iranian Journal of Public Health**, in press.
@@ -54,6 +52,8 @@
 
 
 > ## 2023
++ Peilin Yu, Zhou Jiang, Chu Zheng, [**Ping Zeng**](https://github.com/biostatpzeng), Lihong Huang<sup>#</sup>, Yingliang Jin<sup>#</sup> and Ke Wang<sup>#</sup> (2023). Variety ACEs and risk of developing anxiety, depression, or anxiety-depression co-morbidity: the 2006-2022 UK Biobank data. **Frontiers in Psychiatry**, 14: 1233981. [https://doi.org/10.3389/fpsyt.2023.1233981](https://www.frontiersin.org/articles/10.3389/fpsyt.2023.1233981/full).
+
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Influence of social deprivation on morbidity and all-cause mortality of cardiometabolic multi-morbidity: a cohort analysis of the UK Biobank. **BMC Public Health**, 23(1): 2177. [https://doi.org/10.1186/s12889-023-17008-5](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-023-17008-5#citeas).
 
 + Yuxuan Wu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Kexuan Zhu, Chu Zheng, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2023). Long-term adverse influence of smoking during pregnancy on height and body size of offspring at ten years old in the UK Biobank cohort. **SSM - Population Health**, 24: 101506. [https://doi.org/10.1016/j.ssmph.2023.101506](https://www.sciencedirect.com/science/article/pii/S2352827323001714).
