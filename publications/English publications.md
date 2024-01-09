@@ -16,6 +16,8 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Shuo Zhang, Yuxin Liu, Yu Yan, Jike Qi, Tongyu Gao, Xin Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated biological aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
+
 + Zhaohui Qin<sup>$</sup>, Meng He<sup>$</sup>, Ke Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Mendelian randomization study of blood cell traits and ischemic stroke in the East Asian population highlights ancestry-specific causality.
 
 + Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort.
