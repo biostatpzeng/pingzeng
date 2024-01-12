@@ -40,7 +40,7 @@
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yiyang Zhu, Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Composite null hypothesis Mendelian randomization mediation analysis of proteins from smoking to diseases using GWAS summary statistics.
 
-+ Siyi Jin, Yuxuan Wu, Tongyu Gao, Yin Liu, Fengjun Guan, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ting Wang<sup>#</sup> (2022). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
++  Tongyu Gao, Yin Liu, Siyi Jin, [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Chunxia Miao<sup>#</sup> (2024). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
