@@ -18,7 +18,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 + Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Improved prediction accuracy of genetic risk score model for stroke in minority populations via transfer learning methods.
 
-+ Lei Xia, Hao Zhang, Tongyu Gao, Jike Qi, Yu Yan, Yuxin Liu, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring potential relationships of plasma proteins with cardiovascular diseases based on GWAS summary statistics.
++ Lei Xia, Hao Zhang, Tongyu Gao, Jike Qi, Yu Yan, Yuxin Liu, Shuiping Huang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring potential relationships of plasma proteins with cardiovascular diseases based on GWAS summary statistics.
 
 + Shuo Zhang, Yuxin Liu, Yu Yan, Jike Qi, Tongyu Gao, Xin Zhang, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated biological aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
 
