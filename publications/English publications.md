@@ -18,7 +18,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 +  Tongyu Gao, Yin Liu, Siyi Jin, [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Chunxia Miao<sup>#</sup> (2024). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
 
-+ Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Improved prediction accuracy of genetic risk score model for stroke in minority populations via transfer learning methods.
++ Chu Zheng, Tongyu Gao, Jike Qi, Yue Xu, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Improved prediction accuracy of genetic risk score model for stroke in minority populations via transfer learning methods.
 
 + Lei Xia, Hao Zhang, Tongyu Gao, Jike Qi, Yu Yan, Yuxin Liu, Shuiping Huang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring potential relationships of plasma proteins with cardiovascular diseases based on GWAS summary statistics.
 
