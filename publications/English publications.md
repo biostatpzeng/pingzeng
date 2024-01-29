@@ -26,8 +26,6 @@
 
 + Zhaohui Qin<sup>$</sup>, Meng He<sup>$</sup>, Ke Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Mendelian randomization study of blood cell traits and ischemic stroke in the East Asian population highlights ancestry-specific causality.
 
-+ Shuo Zhang<sup>$</sup>, Hongyan Cao<sup>$</sup>, Keying Chen, Tongyu Gao, Huashuo Zhao, Chu Zheng, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023) and Ke Wang<sup>#</sup>. Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort.
-
 + Shuo Zhang, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank.
 
 + Yuxuan Wu, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
@@ -46,6 +44,8 @@
 
 
 > ## 2024
++ Shuo Zhang<sup>$</sup>, Hongyan Cao<sup>$</sup>, Keying Chen, Tongyu Gao, Huashuo Zhao, Chu Zheng, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024) and Ke Wang<sup>#</sup>. Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort. International Journal of Public Health, **in presss**.
+
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**, zwad384. [https://doi.org/10.1093/eurjpc/zwad384](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwad384/7470718?redirectedFrom=fulltext&login=false).
 
 + Yiyang Zhu, Hao Zhang, Jike Qi, Yuxin Liu, Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Evaluating causal association of maternal educational attainment on offspring birthweight via observational study and Mendelian randomization analyses. **SSM - Population Health**, 25: 101587. [https://doi.org/10.1016/j.ssmph.2023.101587](https://www.sciencedirect.com/science/article/pii/S2352827323002525).
