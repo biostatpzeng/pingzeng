@@ -36,14 +36,14 @@
 
 + Wenying Chen<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
 
-+ Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework.
-
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yiyang Zhu, Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Composite null hypothesis Mendelian randomization mediation analysis of proteins from smoking to diseases using GWAS summary statistics.
 
 + [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
 
 > ## 2024
++ Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework. **Journal of Translational Medicine**.
+
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**, zwad384. [https://doi.org/10.1093/eurjpc/zwad384](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwad384/7470718?redirectedFrom=fulltext&login=false).
 
 + Shuo Zhang<sup>$</sup>, Hongyan Cao<sup>$</sup>, Keying Chen, Tongyu Gao, Huashuo Zhao, Chu Zheng, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ke Wang<sup>#</sup> (2024). Joint exposure to various ambient air pollutants, genetic susceptibility and incident dementia: a prospective analysis in the UK Biobank cohort. **International Journal of Public Health**, 69: 1606868. [https://doi.org/10.3389/ijph.2024.1606868](https://www.ssph-journal.org/articles/10.3389/ijph.2024.1606868/full?&utm_source=Email_to_authors_&utm_medium=Email&utm_content=T1_11.5e1_author&utm_campaign=Email_publication&field=&journalName=International_Journal_of_Public_Health&id=1606868).
