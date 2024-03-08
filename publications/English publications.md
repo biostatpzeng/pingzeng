@@ -15,7 +15,7 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhixin Zhangand [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mediation effects of obesity and inflammation on the association of physical activity with incident chronic kidney disease.
++ Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhixin Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mediation effects of obesity and inflammation on the association of physical activity with incident chronic kidney disease.
 
 + Tongyu Gao, Keying Chen, Hao Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive analysis of the association between blood cell traits and myocardial infarction through large-scale cohort, Mendelian randomization and genetic pleiotropy. 
 
