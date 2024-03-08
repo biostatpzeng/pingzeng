@@ -7,8 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Tongyu Gao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). The role of hematological traits in risk of myocardial infarction.
-  
+
 + Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Lung function, genetic risk, and risk of incident dementia: a prospective cohort study of 486,548 UK Biobank participants.
   
 + Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
@@ -16,6 +15,10 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
+Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhixin Zhangand [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mediation effects of obesity and inflammation on the association of physical activity with incident chronic kidney disease.
+
++ Tongyu Gao, Keying Chen, Hao Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive analysis of the association between blood cell traits and myocardial infarction through large-scale cohort, Mendelian randomization and genetic pleiotropy. 
+
 +  Tongyu Gao, Yin Liu, Siyi Jin, [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Chunxia Miao<sup>#</sup> (2024). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
 
 + Chu Zheng, Tongyu Gao, Jike Qi, Yue Xu, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Improved prediction accuracy of genetic risk score model for stroke in minority populations via transfer learning methods.
