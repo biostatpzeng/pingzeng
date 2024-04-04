@@ -8,10 +8,6 @@
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
 
-+ Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Lung function, genetic risk, and risk of incident dementia: a prospective cohort study of 486,548 UK Biobank participants.
-  
-+ Wenying Chen and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Accurate prediction models for the target population through transfer learning shared information from auxiliary populations.
-
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
@@ -26,8 +22,6 @@
 + Lei Xia, Hao Zhang, Tongyu Gao, Jike Qi, Yu Yan, Yuxin Liu, Shuiping Huang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring potential relationships of plasma proteins with cardiovascular diseases based on GWAS summary statistics.
 
 + Shuo Zhang, Yuxin Liu, Yu Yan, Jike Qi, Tongyu Gao, Xin Zhang, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated biological aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
-
-+ Zhaohui Qin<sup>$</sup>, Meng He<sup>$</sup>, Ke Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Mendelian randomization study of blood cell traits and ischemic stroke in the East Asian population highlights ancestry-specific causality.
 
 + Shuo Zhang, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank.
 
