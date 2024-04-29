@@ -11,6 +11,8 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations.
+  
 + Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhixin Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mediation effects of obesity and inflammation on the association of physical activity with incident chronic kidney disease.
 
 + Tongyu Gao, Keying Chen, Hao Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive analysis of the association between blood cell traits and myocardial infarction through large-scale cohort, Mendelian randomization and genetic pleiotropy. 
