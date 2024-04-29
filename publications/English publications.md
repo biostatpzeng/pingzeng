@@ -41,6 +41,8 @@
 
 
 > ## 2024
++ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). More attention should be paid on time-varying environmental exposures in the UK Biobank. **European Journal of Preventive Cardiology**, in press.
+
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Co-exposure to multiple air pollutants, genetic susceptibility, and risk of acute myocardial infarction onset: A cohort analysis of the UK Biobank participants. **European Journal of Preventive Cardiology**, zwad384. [https://doi.org/10.1093/eurjpc/zwad384](https://academic.oup.com/eurjpc/advance-article-abstract/doi/10.1093/eurjpc/zwad384/7470718?redirectedFrom=fulltext&login=false).
 
 + Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Incorporating genetic similarity of auxiliary samples into eGene identification under the transfer learning framework. **Journal of Translational Medicine**. 22(1): 258. [https://doi.org/10.1186/s12967-024-05053-6](https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-05053-6).
