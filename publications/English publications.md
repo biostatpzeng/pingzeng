@@ -27,7 +27,7 @@
 
 + Shuo Zhang, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank.
 
-+ Yuxuan Wu, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
++ Yuxuan Wu, Ting Wang<sup>#</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023) and Chu Zheng<sup>#</sup>. Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
 + Wenyan Hou<sup>$</sup>, Fengiun Guan<sup>$</sup>, Wenying Chen, Ying Liu, Jike Qi, ShuipingHuang<sup>#</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
 
