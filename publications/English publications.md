@@ -47,7 +47,7 @@
 
 
 > ## 2024
-+ Shuo Zhang, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank. **BMC Public Health**, in press.
++ Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank. **BMC Public Health**, in press.
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). More attention should be paid on time-varying environmental exposures in the UK Biobank. **European Journal of Preventive Cardiology**, in press.
 
