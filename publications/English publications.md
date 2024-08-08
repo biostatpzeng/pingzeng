@@ -11,8 +11,6 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Zhou Jiang<sup>$</sup>, Tongyu Gao<sup>$</sup>, Xingjie Hao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization is good but not almighty.
-
 + Hao Zhang, Keying Chen, Tongyu Gao, Yu Yan, Ying Liu, Yuxin Liu, Kexuan Zhu, Jike Qi, Chu Zheng, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the potential connection between hearing loss and Parkinson's diseases via the prospective cohort study, causal inference, and genetic pleiotropy analyses.
 
 + Yuxuan Wu<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi, Yuxin Liu, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization and genetic pleiotropy analysis for the connection between inflammatory bowel disease and Alzheimer's disease.
@@ -51,6 +49,8 @@
 
 
 > ## 2024
++ Zhou Jiang<sup>$</sup>, Tongyu Gao<sup>$</sup>, Xingjie Hao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization is good but not almighty. **Science of the Total Environment**, in press.
+
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). More attention should be paid on time-varying environmental exposures in the UK Biobank. **European Journal of Preventive Cardiology**, in press.
 
 + Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank. **BMC Public Health**, 24(1): 1910. [https://doi.org/10.1186/s12889-024-19457-y](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19457-y).
