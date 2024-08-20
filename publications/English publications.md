@@ -11,6 +11,12 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Kexuan Zhu<sup>$</sup>, Xinying Guan<sup>$</sup>, Yu Yan<sup>$</sup>, Keying Chen, Tongyu Gao, Hao Zhang, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A genome-wide cross-trait analysis identifies shared loci and causal relationships between female-specific health factors and Parkinson's disease.
+
++ Jike Qi<sup>$</sup>, Xinying Guan<sup>$</sup>, Zhou Jiang, Keying Chen, Hao Zhang, Tongyu Gao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Unraveling the intricate linkages between kidney function and Parkinson's disease: an integrative exploration at the crossroads of population and genetic perspectives.
+
++ Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Influences and roles of polygenic risk score in the development and age at onset of 32 complex diseases.
+
 + Hao Zhang, Keying Chen, Tongyu Gao, Yu Yan, Ying Liu, Yuxin Liu, Kexuan Zhu, Jike Qi, Chu Zheng, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the potential connection between hearing loss and Parkinson's diseases via the prospective cohort study, causal inference, and genetic pleiotropy analyses.
 
 + Yuxuan Wu<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi, Yuxin Liu, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization and genetic pleiotropy analysis for the connection between inflammatory bowel disease and Alzheimer's disease.
