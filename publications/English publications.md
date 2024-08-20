@@ -49,6 +49,8 @@
 
 
 > ## 2024
++ Zhou Jiang<sup>$</sup>, Tongyu Gao<sup>$</sup>, Xingjie Hao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization is good but not almighty. **Science of the Total Environment**, 950, 175432.
+
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). More attention should be paid on time-varying environmental exposures in the UK Biobank. **European Journal of Preventive Cardiology**, in press.
 
 + Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Hao Zhang, Yuxin Liu, Jike Qi,  Yu Yan, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Association of cigarette smoking, smoking cessation with the risk of cardiometabolic multimorbidity in the UK Biobank. **BMC Public Health**, 24(1): 1910. [https://doi.org/10.1186/s12889-024-19457-y](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-19457-y).
