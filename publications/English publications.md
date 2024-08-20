@@ -11,47 +11,6 @@
 
 > ## Under review
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Kexuan Zhu<sup>$</sup>, Xinying Guan<sup>$</sup>, Yu Yan<sup>$</sup>, Keying Chen, Tongyu Gao, Hao Zhang, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A genome-wide cross-trait analysis identifies shared loci and causal relationships between female-specific health factors and Parkinson's disease.
-
-+ Jike Qi<sup>$</sup>, Xinying Guan<sup>$</sup>, Zhou Jiang, Keying Chen, Hao Zhang, Tongyu Gao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Unraveling the intricate linkages between kidney function and Parkinson's disease: an integrative exploration at the crossroads of population and genetic perspectives.
-
-+ Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Influences and roles of polygenic risk score in the development and age at onset of 32 complex diseases.
-
-+ Yuxuan Wu<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi, Yuxin Liu, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization and genetic pleiotropy analysis for the connection between inflammatory bowel disease and Alzheimer's disease.
-
-+ Ying Liu<sup>$</sup>, Zhou Jiang<sup>$</sup>, Guojing Yuan<sup>$</sup>, Yuxin Liu, Shuo Zhang, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Modifying role of genetic susceptibility in the associations of accelerated aging and lung function with dementia.
-
-+ Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Relatively independent and complementary roles of family history and polygenic risk score in prevalent cases, age at onset and incident cases of 12 common diseases.
-
-+ Yu Yan, Tongyu Gao, Zhou Jiang, Keying Chen, Yuxin Liu, Hao Zhang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from perspective cohort study, instrumental variable causal inference and genetic pleiotropy analysis.
-
-+ Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations.
-  
-+ Shuo Zhang, Yuxin Liu, Yu Yan, Jike Qi, Tongyu Gao, Xin Zhang, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated biological aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
-
-+ Yuxuan Wu, Yue Xu, Yuchen Jiang, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
-
-+ Hao Zhang, Keying Chen, Tongyu Gao, Yu Yan, Ying Liu, Yuxin Liu, Kexuan Zhu, Jike Qi, Chu Zheng, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the potential connection between hearing loss and Parkinson's diseases via the prospective cohort study, causal inference, and genetic pleiotropy analyses.
-
-+ Tongyu Gao, Yin Liu, Siyi Jin, [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Chunxia Miao<sup>#</sup> (2024). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
-
-+ Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhixin Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Mediation effects of obesity and inflammation on the association of physical activity with incident chronic kidney disease.
-
-+ Tongyu Gao, Keying Chen, Hao Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive analysis of the association between blood cell traits and myocardial infarction through large-scale cohort, Mendelian randomization and genetic pleiotropy. 
-
-+ Chu Zheng, Tongyu Gao, Jike Qi, Yue Xu, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Improved prediction accuracy of genetic risk score model for stroke in minority populations via transfer learning methods.
-
-+ Wenyan Hou<sup>$</sup>, Fengiun Guan<sup>$</sup>, Wenying Chen, Ying Liu, Jike Qi, ShuipingHuang<sup>#</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic factors, and the risk of asthma and allergic diseases: a cohort study in the UK Biobank.
-
-+ Shuo Zhang<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy, and the risk of asthma in the UK Biobank participants.
-
-+ Wenying Chen<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
-
-+ Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yiyang Zhu, Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Composite null hypothesis Mendelian randomization mediation analysis of proteins from smoking to diseases using GWAS summary statistics.
-
-+ Lei Xia, Hao Zhang, Tongyu Gao, Jike Qi, Yu Yan, Yuxin Liu, Shuiping Huang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring potential relationships of plasma proteins with cardiovascular diseases based on GWAS summary statistics.
-
-+ [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiang Zhou<sup>#</sup> (2021). Mediation analysis for omics studies using summary statistics.
 
 
 > ## 2024
