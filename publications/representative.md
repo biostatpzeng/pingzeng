@@ -25,7 +25,7 @@
   
 + Shuo Zhang, Yuxin Liu, Yu Yan, Jike Qi, Tongyu Gao, Xin Zhang, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated biological aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
 
-+ Yuxuan Wu, Yue Xu, Yuchen Jiang, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
++ Yuxuan Wu, Yu Yan, Yue Xu, Yuchen Jiang, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
 + Hao Zhang, Keying Chen, Tongyu Gao, Yu Yan, Ying Liu, Yuxin Liu, Kexuan Zhu, Jike Qi, Chu Zheng, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the potential connection between hearing loss and Parkinson's diseases via the prospective cohort study, causal inference, and genetic pleiotropy analyses.
 
