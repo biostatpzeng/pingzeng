@@ -7,6 +7,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Tongyu Gao<sup>$</sup>, Hao Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Broad evidence triangulation should be established for a valid and robust causal relation between air pollution and health outcome.
+
 + Kexuan Zhu<sup>$</sup>, Xinying Guan<sup>$</sup>, Yu Yan<sup>$</sup>, Keying Chen, Tongyu Gao, Hao Zhang, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A genome-wide cross-trait analysis identifies shared loci and causal relationships between female-specific health factors and Parkinson's disease.
 
 + Jike Qi<sup>$</sup>, Xinying Guan<sup>$</sup>, Zhou Jiang, Keying Chen, Hao Zhang, Tongyu Gao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Unraveling the intricate linkages between kidney function and Parkinson's disease: an integrative exploration at the crossroads of population and genetic perspectives.
@@ -23,7 +25,7 @@
 
 + Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations.
   
-+ Shuo Zhang, Yuxin Liu, Yu Yan, Jike Qi, Tongyu Gao, Xin Zhang, Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated biological aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
++ Shuo Zhang, Yuxin Liu, Jike Qi, Yu Yan, Tongyu Gao, Xin Zhang, Dong Sun， Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
 
 + Yuxuan Wu, Yu Yan, Yue Xu, Yuchen Jiang, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
