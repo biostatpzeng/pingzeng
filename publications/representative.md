@@ -25,7 +25,7 @@
 
 + Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations.
   
-+ Shuo Zhang, Yuxin Liu, Jike Qi, Yu Yan, Tongyu Gao, Xin Zhang, Dong Sun， Ting Wang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
++ Shuo Zhang, Yuxin Liu, Jike Qi, Yu Yan, Tongyu Gao, Xin Zhang, Dong Sun, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Accelerated aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease.
 
 + Yuxuan Wu, Yu Yan, Yue Xu, Yuchen Jiang, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
