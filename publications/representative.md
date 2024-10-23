@@ -39,8 +39,6 @@
 
 + Chu Zheng, Tongyu Gao, Jike Qi, Yue Xu, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Improved prediction accuracy of genetic risk score model for stroke in minority populations via transfer learning methods.
 
-+ Wenyan Hou<sup>$</sup>, Fengiun Guan<sup>$</sup>, Wenying Chen, Jike Qi, ShuipingHuang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Breastfeeding, genetic susceptibility, and the risk of asthma and allergic diseases in children and adolescents: a retrospective national population-based cohort study.
-
 + Shuo Zhang<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy, and the risk of asthma in the UK Biobank participants.
 
 + Wenying Chen<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
