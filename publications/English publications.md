@@ -14,6 +14,8 @@
 
 
 > ## 2024
++ Wenyan Hou$, Fengiun Guan$, Wenying Chen, Jike Qi, ShuipingHuang# and Ping Zeng# (2023). Breastfeeding, genetic susceptibility, and the risk of asthma and allergic diseases in children and adolescents: a retrospective national population-based cohort study.  **BMC Public Health**, in press.
+
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). More attention should be paid on time-varying environmental exposures in the UK Biobank. **European Journal of Preventive Cardiology**, 31(11): e85. [https://doi.org/10.1093/eurjpc/zwae160](https://academic.oup.com/eurjpc/article-abstract/31/11/e85/7670371?utm_source=etoc&utm_campaign=eurjpc&utm_medium=email#).
 
 + Zhou Jiang<sup>$</sup>, Tongyu Gao<sup>$</sup>, Xingjie Hao<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization is good but not almighty. **Science of the Total Environment**, 950, 175432. [https://doi.org/10.1016/j.scitotenv.2024.175432](https://www.sciencedirect.com/science/article/abs/pii/S0048969724055827?via%3Dihub).
