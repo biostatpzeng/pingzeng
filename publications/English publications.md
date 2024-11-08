@@ -14,7 +14,7 @@
 
 
 > ## 2024
-+ Wenyan Hou<sup>$</sup>, Fengiun Guan<sup>$</sup>, Wenying Chen, Jike Qi, ShuipingHuang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Breastfeeding, genetic susceptibility, and the risk of asthma and allergic diseases in children and adolescents: a retrospective national population-based cohort study. **BMC Public Health**, in press.
++ Wenyan Hou<sup>$</sup>, Fengiun Guan<sup>$</sup>, Wenying Chen, Jike Qi, ShuipingHuang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Breastfeeding, genetic susceptibility, and the risk of asthma and allergic diseases in children and adolescents: a retrospective national population-based cohort study. **BMC Public Health**, 24(1): 3056. [https://doi.org/10.1186/s12889-024-20501-0](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20501-0).
 
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Tongyu Gao, Keying Chen, Yuxin Liu, Ying Liu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). More attention should be paid on time-varying environmental exposures in the UK Biobank. **European Journal of Preventive Cardiology**, 31(11): e85. [https://doi.org/10.1093/eurjpc/zwae160](https://academic.oup.com/eurjpc/article-abstract/31/11/e85/7670371?utm_source=etoc&utm_campaign=eurjpc&utm_medium=email#).
 
