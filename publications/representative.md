@@ -15,8 +15,6 @@
 
 + Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Influences and roles of polygenic risk score in the development and age at onset of 32 complex diseases.
 
-+ Yuxuan Wu<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi, Yuxin Liu, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Mendelian randomization and genetic pleiotropy analysis for the connection between inflammatory bowel disease and Alzheimer's disease.
-
 + Ying Liu<sup>$</sup>, Zhou Jiang<sup>$</sup>, Guojing Yuan<sup>$</sup>, Yuxin Liu, Shuo Zhang, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Modifying role of genetic susceptibility in the associations of accelerated aging and lung function with dementia.
 
 + Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Relatively independent and complementary roles of family history and polygenic risk score in prevalent cases, age at onset and incident cases of 12 common diseases.
