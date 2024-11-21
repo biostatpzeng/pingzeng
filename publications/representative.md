@@ -33,7 +33,7 @@
 
 + Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhixin Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Mediation effects of obesity and inflammation on the association of physical activity with incident chronic kidney disease.
 
-+ Tongyu Gao, Keying Chen, Hao Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive analysis of the association between blood cell traits and myocardial infarction through large-scale cohort, Mendelian randomization and genetic pleiotropy. 
++ Tongyu Gao, Zhou Jiang, Keying Chen, Ying Liu, Kexuan Zhu, Hao Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive analysis of the association between blood cell traits and myocardial infarction through Mendelian randomization and genome-wide genetic pleiotropy. 
 
 + Chu Zheng, Tongyu Gao, Jike Qi, Yue Xu, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Improved prediction accuracy of genetic risk score model for stroke in minority populations via transfer learning methods.
 
