@@ -7,6 +7,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Yu Yan<sup>$</sup>, Yuxin Liu<sup>$</sup>, Jike Qi<sup>$</sup>, Keying Chen, Yue Xu, Shuo Zhang, Ke Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Disentangling the association of depression and anxiety with migraine via a prospective multi-ancestry cohort study and causal inference analysis.
+
 + Tongyu Gao<sup>$</sup>, Hao Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Broad evidence triangulation should be established for a valid and robust causal relation between air pollution and health outcome.
 
 + Kexuan Zhu<sup>$</sup>, Xinying Guan<sup>$</sup>, Yu Yan<sup>$</sup>, Keying Chen, Tongyu Gao, Hao Zhang, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A genome-wide cross-trait analysis identifies shared loci and causal relationships between female-specific health factors and Parkinson's disease.
