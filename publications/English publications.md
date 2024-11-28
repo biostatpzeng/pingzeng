@@ -14,7 +14,7 @@
 
 
 > ## 2025
-+ Yuxuan Wu<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi, Yuxin Liu, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Mendelian randomization and genetic pleiotropy analysis for the connection between inflammatory bowel disease and Alzheimer's disease. **Progress in Neuropsychopharmacology & Biological Psychiatry**, 136:: 111203. [https://doi.org/10.1016/j.pnpbp.2024.111203](https://www.sciencedirect.com/science/article/pii/S0278584624002719?dgcid=author).
++ Yuxuan Wu<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi, Yuxin Liu, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Mendelian randomization and genetic pleiotropy analysis for the connection between inflammatory bowel disease and Alzheimer's disease. **Progress in Neuropsychopharmacology & Biological Psychiatry**, 136: 111203. [https://doi.org/10.1016/j.pnpbp.2024.111203](https://www.sciencedirect.com/science/article/pii/S0278584624002719?dgcid=author).
 
 > ## 2024
 + Wenyan Hou<sup>$</sup>, Fengiun Guan<sup>$</sup>, Wenying Chen, Jike Qi, ShuipingHuang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Breastfeeding, genetic susceptibility, and the risk of asthma and allergic diseases in children and adolescents: a retrospective national population-based cohort study. **BMC Public Health**, 24(1): 3056. [https://doi.org/10.1186/s12889-024-20501-0](https://bmcpublichealth.biomedcentral.com/articles/10.1186/s12889-024-20501-0).
