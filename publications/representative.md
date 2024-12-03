@@ -7,6 +7,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Xin Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zixin Wang, Yuchen Jiang, Shuo Zhang, Tongda Xu, Ke Wang, Chu Zheng and Ping Zeng[**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Association of biological aging acceleration transitions and burdens with incident cardiovascular disease: longitudinal insights from a national cohort study.
+
++ Zixin Wang<sup>$</sup>, Hao Zhang<sup>$</sup>, Zhou Jiang, Yuxin Liu, Xin Zhang, Yu Yan, Shuo Zhang, Chu Zheng, Yue Xu<sup>#</sup> and Ping Zeng[**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the phenotypic and causal relationships between eight female reproductive factors and delayed biological aging in two national population-based studies.
+
 + Yu Yan<sup>$</sup>, Yuxin Liu<sup>$</sup>, Jike Qi<sup>$</sup>, Keying Chen, Yue Xu, Shuo Zhang, Ke Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Disentangling the association of depression and anxiety with migraine via a prospective multi-ancestry cohort study and causal inference analysis.
 
 + Tongyu Gao<sup>$</sup>, Hao Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Broad evidence triangulation should be established for a valid and robust causal relation between air pollution and health outcome.
