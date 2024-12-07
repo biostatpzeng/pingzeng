@@ -7,6 +7,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Yu Yan, Yuxin Liu, Jike Qi, Yuchen Jiang, Hua Lin, Xinyi Wang, Hao Zhang, Zhou Jiang, Chu Zheng<sup>#</sup>, Ke Wang<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from prospective cohort study and instrumental variable causal inference.
+
++ Zhou Jiang, Yu Yan, Jike Qi, Yuxin Liu, Yuchen Jiang, Hao Zhang, Hao Chen, Xinying Guan, Pan Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Roles of genetic predisposition and mediation of biological age acceleration in the association between air pollution and dementia.
+
 + Ying Liu<sup>$</sup>, Guojing Yuan<sup>$</sup>, Zhou Jiang<sup>$</sup>, Yuxin Liu, Yu Yan, Hao Chen, Shuo Zhang, Ting Wang, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the influence of overall lung function on incident dementia risk in a prospective national cohort study.
 
 + Xin Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zixin Wang, Yuchen Jiang, Shuo Zhang, Tongda Xu, Ke Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Association of biological aging acceleration transitions and burdens with incident cardiovascular disease: longitudinal insights from a national cohort study.
