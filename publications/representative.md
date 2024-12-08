@@ -31,7 +31,7 @@
 
 + Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Relatively independent and complementary roles of family history and polygenic risk score in prevalent cases, age at onset and incident cases of 12 common diseases.
 
-+ Yu Yan, Tongyu Gao, Zhou Jiang, Keying Chen, Yuxin Liu, Hao Zhang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from perspective cohort study, instrumental variable causal inference and genetic pleiotropy analysis.
++ Yu Yan, Tongyu Gao, Keying Chen, Yuxin Liu, Hao Zhang, Zhou Jiang, Ting Wang, Yue Xu, Ke Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: insights from large-scale genome-wide cross-trait analysis and causal inference.
 
 + Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations.
   
