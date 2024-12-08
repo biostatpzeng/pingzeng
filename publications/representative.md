@@ -7,7 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Yu Yan, Yuxin Liu, Jike Qi, Yuchen Jiang, Hua Lin, Xinyi Wang, Hao Zhang, Zhou Jiang, Chu Zheng<sup>#</sup>, Ke Wang<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from prospective cohort study and instrumental variable causal inference.
++ Yu Yan, Yuxin Liu, Jike Qi, Yuchen Jiang, Hua Lin, Xinyi Wang, Hao Zhang, Zhou Jiang,Ke Wang, Yue Xu<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from prospective cohort study and instrumental variable causal inference.
 
 + Zhou Jiang, Yu Yan, Jike Qi, Yuxin Liu, Yuchen Jiang, Hao Zhang, Hao Chen, Xinying Guan, Pan Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Roles of genetic predisposition and mediation of biological age acceleration in the association between air pollution and dementia.
 
