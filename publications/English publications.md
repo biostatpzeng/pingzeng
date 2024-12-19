@@ -14,6 +14,8 @@
 
 
 > ## 2025
++ Hao Zhang, Keying Chen, Tongyu Gao, Yu Yan, Ying Liu, Yuxin Liu, Kexuan Zhu, Jike Qi, Chu Zheng, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Establishing a robust triangulation framework to explore the relationship between hearing loss and Parkinson's disease. **npj Parkinson's Disease**, in press.
+
 + Tongyu Gao<sup>$</sup>, Hao Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Broad evidence triangulation should be established for a valid and robust causal relation between air pollution and health outcome. **CNS Neuroscience & Therapeutics**, in press.
 
 + Shuo Zhang, Yuxin Liu, Jike Qi, Yu Yan, Tongyu Gao, Xin Zhang, Dong Sun, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Accelerated aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease. **Ecotoxicology and Environmental Safety**, in press.
