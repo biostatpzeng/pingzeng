@@ -14,6 +14,8 @@
 
 
 > ## 2025
++ Tongyu Gao<sup>$</sup>, Hao Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Broad evidence triangulation should be established for a valid and robust causal relation between air pollution and health outcome. **CNS Neuroscience & Therapeutics**, in press.
+
 + Shuo Zhang, Yuxin Liu, Jike Qi, Yu Yan, Tongyu Gao, Xin Zhang, Dong Sun, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Accelerated aging as a mediator of the association between co-exposure to multiple air pollutants and risk of chronic kidney disease. **Ecotoxicology and Environmental Safety**, in press.
 
 + Yuxuan Wu<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi, Yuxin Liu, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Mendelian randomization and genetic pleiotropy analysis for the connection between inflammatory bowel disease and Alzheimer's disease. **Progress in Neuropsychopharmacology & Biological Psychiatry**, 136: 111203. [https://doi.org/10.1016/j.pnpbp.2024.111203](https://www.sciencedirect.com/science/article/pii/S0278584624002719?dgcid=author).
