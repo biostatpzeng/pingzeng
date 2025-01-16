@@ -14,7 +14,7 @@
 
 
 > ## 2025
-Yuxin Liu$, Wenyan Hou$, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and Ping Zeng# (2025). Influences and roles of polygenic risk score in the development and age at onset of 32 complex diseases.
++ Yuxin Liu$, Wenyan Hou$, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and Ping Zeng# (2025). Influences and roles of polygenic risk score in the development and age at onset of 32 complex diseases.
 
 + Hao Zhang, Keying Chen, Tongyu Gao, Yu Yan, Ying Liu, Yuxin Liu, Kexuan Zhu, Jike Qi, Chu Zheng, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Establishing a robust triangulation framework to explore the relationship between hearing loss and Parkinson's disease. **npj Parkinson's Disease**, 11(1): 5. [https://doi.org/10.1038/s41531-024-00861-5](https://www.nature.com/articles/s41531-024-00861-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250103&utm_content=10.1038/s41531-024-00861-5#citeas).
 
