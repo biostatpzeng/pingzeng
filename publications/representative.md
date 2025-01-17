@@ -45,8 +45,6 @@
 
 + Shuo Zhang<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic susceptibility, maternal smoking during pregnancy, and the risk of asthma in the UK Biobank participants.
 
-+ Wenying Chen<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Transfer learning prediction of early exposures and genetic risk score on adult obesity in two minority UK Biobank cohorts.
-
 + Zhou Jiang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Yiyang Zhu, Ying Liu and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Composite null hypothesis Mendelian randomization mediation analysis of proteins from smoking to diseases using GWAS summary statistics.
 
 + Lei Xia, Hao Zhang, Tongyu Gao, Jike Qi, Yu Yan, Yuxin Liu, Shuiping Huang<sup>$</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring potential relationships of plasma proteins with cardiovascular diseases based on GWAS summary statistics.
