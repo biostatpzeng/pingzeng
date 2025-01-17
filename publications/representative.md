@@ -33,8 +33,6 @@
 
 + Yu Yan, Tongyu Gao, Keying Chen, Yuxin Liu, Hao Zhang, Zhou Jiang, Ting Wang, Yue Xu, Ke Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: insights from large-scale genome-wide cross-trait analysis and causal inference.
 
-+ Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations.
-
 + Yuxuan Wu, Yu Yan, Yue Xu, Yuchen Jiang, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
 + Tongyu Gao, Yin Liu, Siyi Jin, [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Chunxia Miao<sup>#</sup> (2024). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
