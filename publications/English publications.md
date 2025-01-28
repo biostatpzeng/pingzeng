@@ -4,15 +4,6 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 
-----------------------------------------------------------------------------------------------------------------------------------------
-> ## In preparation
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
-> ## Under review
-----------------------------------------------------------------------------------------------------------------------------------------
-
-
 > ## 2025
 
 + Shuo Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Associations of maternal smoking during pregnancy and genetic susceptibility with incident asthma from a cohort study. **Prevention Science**, in press.
