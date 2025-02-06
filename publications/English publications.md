@@ -10,10 +10,10 @@
 
 + Wenying Chen<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Transfer Learning Prediction of Early Exposures and Genetic Risk Score on Adult Obesity in Two Minority Cohorts. **Prevention Science**, in press.
 
-+ Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations. **Briefings in Bioinformatics**, in press.
++ Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Influence and role of polygenic risk score in the development of 32 complex diseases. **Journal of Global Health**, in press.
 
-+ Yuxin Liu$, Wenyan Hou$, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and Ping Zeng# (2025). Influence and role of polygenic risk score in the development of 32 complex diseases. **Journal of Global Health**, in press.
-
++ Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations. **Briefings in Bioinformatics**, 26(1): bbaf048. [https://doi.org/10.1093/bib/bbaf048](https://academic.oup.com/bib/article/26/1/bbaf048/7999071).
+  
 + Hao Zhang, Keying Chen, Tongyu Gao, Yu Yan, Ying Liu, Yuxin Liu, Kexuan Zhu, Jike Qi, Chu Zheng, Ting Wang<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Establishing a robust triangulation framework to explore the relationship between hearing loss and Parkinson's disease. **npj Parkinson's Disease**, 11(1): 5. [https://doi.org/10.1038/s41531-024-00861-5](https://www.nature.com/articles/s41531-024-00861-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250103&utm_content=10.1038/s41531-024-00861-5#citeas).
 
 + Tongyu Gao<sup>$</sup>, Hao Zhang<sup>$</sup>, Yu Yan, Yuxin Liu, Zhou Jiang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Broad evidence triangulation should be established for a valid and robust causal relation between air pollution and health outcome. **CNS Neuroscience & Therapeutics**, 31(1): e70207. [http://dx.doi.org/10.1111/cns.70207](https://onlinelibrary.wiley.com/doi/10.1111/cns.70207).
