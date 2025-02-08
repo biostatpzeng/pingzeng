@@ -6,11 +6,11 @@
 
 > ## 2025
 
++ Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Influence and role of polygenic risk score in the development of 32 complex diseases. **Journal of Global Health**, in press.
+
 + Shuo Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Associations of maternal smoking during pregnancy and genetic susceptibility with incident asthma from a cohort study. **Prevention Science**, in press.
 
-+ Wenying Chen<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Transfer Learning Prediction of Early Exposures and Genetic Risk Score on Adult Obesity in Two Minority Cohorts. **Prevention Science**, in press.
-
-+ Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Influence and role of polygenic risk score in the development of 32 complex diseases. **Journal of Global Health**, in press.
++ Wenying Chen<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Transfer Learning Prediction of Early Exposures and Genetic Risk Score on Adult Obesity in Two Minority Cohorts. **Prevention Science**, doi: 10.1007/s11121-025-01781-3. Online ahead of print. [https://doi.org/10.1007/s11121-025-01781-3](https://link.springer.com/article/10.1007/s11121-025-01781-3).
 
 + Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations. **Briefings in Bioinformatics**, 26(1): bbaf048. [https://doi.org/10.1093/bib/bbaf048](https://academic.oup.com/bib/article/26/1/bbaf048/7999071).
   
