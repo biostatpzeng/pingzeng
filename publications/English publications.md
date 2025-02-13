@@ -173,7 +173,7 @@
 
 + 黄林玉, 王鸣岐, 余星皓, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 酒精依赖和肌萎缩侧索硬化因果关系的孟德尔随机化分析. **中国卫生统计**, 2019, 36(3): 334-338.
 
-+ 余星浩, 刘兵, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. **中国卫生统计**, 2019, 36(2): 171-175.
++ 余星皓, 刘兵, [**曾平**](https://github.com/biostatpzeng)<sup>#</sup>, 黄水平<sup>#</sup>. 利用全基因组表达数据对比评价九种遗传预测模型方法. **中国卫生统计**, 2019, 36(2): 171-175.
 
 >## 2018
 + [**Ping Zeng**](https://github.com/biostatpzeng), Xingjie Hao and Xiang Zhou<sup>#</sup> (2018). Pleiotropic Mapping and Annotation Selection in Genome-wide Association Studies with Penalized Gaussian Mixture Models. **Bioinformatics**, 34(16): 2797-2807. [https://doi.org/10.1093/bioinformatics/bty204](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext). [PDF](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/bty204/4960046?redirectedFrom=fulltext), [Software](https://github.com/biostatpzeng/iMAP).
