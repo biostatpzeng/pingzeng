@@ -9,7 +9,7 @@
 
 + Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Influence and role of polygenic risk score in the development of 32 complex diseases. **Journal of Global Health**, in press.
 
-+ Shuo Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Associations of maternal smoking during pregnancy and genetic susceptibility with incident asthma from a cohort study. **Prevention Science**, in press.
++ Shuo Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Associations of Maternal Smoking During Pregnancy and Genetic Susceptibility with Incident Asthma from a Cohort Study. **Prevention Science**, in press.
 
 + Wenying Chen<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Transfer Learning Prediction of Early Exposures and Genetic Risk Score on Adult Obesity in Two Minority Cohorts. **Prevention Science**, doi: 10.1007/s11121-025-01781-3. Online ahead of print. [https://doi.org/10.1007/s11121-025-01781-3](https://link.springer.com/article/10.1007/s11121-025-01781-3).
 
