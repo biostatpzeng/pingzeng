@@ -5,7 +5,7 @@
 :blush:  
 
 > ## 2025
-+ Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Jike Qi, Yuchen Jiang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Relatively independent and complementary roles of family history and polygenic risk score in age at onset and incident cases of 12 common diseases.
++ Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Jike Qi, Yuchen Jiang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Relatively independent and complementary roles of family history and polygenic risk score in age at onset and incident cases of 12 common diseases. **Social Science and Medicine**, in press.
 
 + Zhou Jiang, Yu Yan, Jike Qi, Yuxin Liu, Yuchen Jiang, Hao Zhang, Hao Chen, Xinying Guan, Pan Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Roles of genetic predisposition and mediation of biological age acceleration in the association between air pollution and dementia. **Journals of Gerontology Series A: Biomedical Sciences and Medical Sciences**, in press.
 
