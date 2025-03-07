@@ -27,7 +27,7 @@
 
 + Ying Liu<sup>$</sup>, Zhou Jiang<sup>$</sup>, Guojing Yuan<sup>$</sup>, Yuxin Liu, Shuo Zhang, Ting Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Modifying role of genetic susceptibility in the associations of accelerated aging and lung function with dementia.
 
-+ Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Relatively independent and complementary roles of family history and polygenic risk score in prevalent cases, age at onset and incident cases of 12 common diseases.
++ Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Relatively independent and complementary roles of family history and polygenic risk score in age at onset and incident cases of 12 common diseases.
 
 + Yu Yan, Tongyu Gao, Keying Chen, Yuxin Liu, Hao Zhang, Zhou Jiang, Ting Wang, Yue Xu, Ke Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: insights from large-scale genome-wide cross-trait analysis and causal inference.
 
