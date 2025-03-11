@@ -5,15 +5,15 @@
 :blush:  
 
 > ## 2025
-+ Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Jike Qi, Yuchen Jiang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Relatively independent and complementary roles of family history and polygenic risk score in age at onset and incident cases of 12 common diseases. **Social Science and Medicine**, in press.
-
 + Zhou Jiang, Yu Yan, Jike Qi, Yuxin Liu, Yuchen Jiang, Hao Zhang, Hao Chen, Xinying Guan, Pan Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Roles of genetic predisposition and mediation of biological age acceleration in the association between air pollution and dementia. **Journals of Gerontology Series A: Biomedical Sciences and Medical Sciences**, in press.
-
-+ Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Influence and role of polygenic risk score in the development of 32 complex diseases. **Journal of Global Health**, in press.
 
 + Shuo Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Associations of Maternal Smoking During Pregnancy and Genetic Susceptibility with Incident Asthma from a Cohort Study. **Prevention Science**, in press.
 
-+ Wenying Chen<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Transfer Learning Prediction of Early Exposures and Genetic Risk Score on Adult Obesity in Two Minority Cohorts. **Prevention Science**, doi: 10.1007/s11121-025-01781-3. Online ahead of print. [https://doi.org/10.1007/s11121-025-01781-3](https://link.springer.com/article/10.1007/s11121-025-01781-3).
++ Wenying Chen<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Transfer Learning Prediction of Early Exposures and Genetic Risk Score on Adult Obesity in Two Minority Cohorts. **Prevention Science**, 26(2): 234-245. [https://doi.org/10.1007/s11121-025-01781-3](https://link.springer.com/article/10.1007/s11121-025-01781-3).
+
++ Wenyan Hou<sup>$</sup>, Yuxin Liu<sup>$</sup>, Xingjie Hao<sup>$</sup>, Jike Qi, Yuchen Jiang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Relatively independent and complementary roles of family history and polygenic risk score in age at onset and incident cases of 12 common diseases. **Social Science and Medicine**, 371: 117942. [https://doi.org/10.1016/j.socscimed.2025.117942](https://www.sciencedirect.com/science/article/pii/S0277953625002710#:~:text=We%20here%20investigated%20the%20impacts%20of%20FH%20and,well%20as%20their%20clinical%20value%20in%20risk%20prediction.).
+
++ Yuxin Liu<sup>$</sup>, Wenyan Hou<sup>$</sup>, Tongyu Gao, Yu Yan, Ting Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Influence and role of polygenic risk score in the development of 32 complex diseases. **Journal of Global Health**, 15: 04071. [https://doi.org/10.7189/jogh.15.04071](https://jogh.org/2025/jogh-15-04071).
 
 + Yiyang Zhu<sup>$</sup>, Wenying Chen<sup>$</sup>, Kexuan Zhu<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Polygenic prediction for underrepresented populations through transfer learning by utilizing genetic similarity shared with European populations. **Briefings in Bioinformatics**, 26(1): bbaf048. [https://doi.org/10.1093/bib/bbaf048](https://academic.oup.com/bib/article/26/1/bbaf048/7999071).
   
