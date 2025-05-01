@@ -70,7 +70,7 @@
 
 + Jiahao Qiao<sup>$</sup>，Ting Wang<sup>$</sup>, Zhonghe Shao<sup>$</sup>, Yiyang Zhu, Meng Zhang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Genetic correlation and gene-based pleiotropy analysis for four neurodegenerative diseases with summary statistics from genome-wide association studies. **Neurobiology of Aging**, 124: 117-128. [https://doi.org/10.1016/j.neurobiolaging.2022.12.012](https://www.sciencedirect.com/science/article/abs/pii/S0197458022002755?CMX_ID=&SIS_ID=&dgcid=STMJ_AUTH_SERV_PUBLISHED&utm_acid=103379320&utm_campaign=STMJ_AUTH_SERV_PUBLISHED&utm_in=DM331526&utm_medium=email&utm_source=AC_).
 
-+ Jing Dai<sup>$</sup>, Yue Xu<sup>$</sup>, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Exploring the relationship between socioeconomic deprivation index and Alzheimer's disease using summary-level data: from genetic correlation to causality. **Progress in Neuro-Psychopharmacology and Biological Psychiatry**, 123: 110700. [https://doi.org/10.1016/j.pnpbp.2022.110700](https://www.sciencedirect.com/science/article/pii/S0278584622001920?dgcid=author).
++ Jing Dai, Yue Xu, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2023). Exploring the relationship between socioeconomic deprivation index and Alzheimer's disease using summary-level data: from genetic correlation to causality. **Progress in Neuro-Psychopharmacology and Biological Psychiatry**, 123: 110700. [https://doi.org/10.1016/j.pnpbp.2022.110700](https://www.sciencedirect.com/science/article/pii/S0278584622001920?dgcid=author).
 
 
 > ## 2022
