@@ -5,9 +5,9 @@
 :blush:  
 
 > ## 2025
-+ Zhou Jiang, Yu Yan, Jike Qi, Yuxin Liu, Yuchen Jiang, Hao Zhang, Hao Chen, Xinying Guan, Pan Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Roles of genetic predisposition and mediation of biological age acceleration in the association between air pollution and dementia. **Journals of Gerontology Series A: Biomedical Sciences and Medical Sciences**, in press.
++ Zhou Jiang, Yu Yan, Jike Qi, Yuxin Liu, Yuchen Jiang, Hao Zhang, Hao Chen, Xinying Guan, Pan Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Roles of genetic predisposition and mediation of biological age acceleration in the association between air pollution and dementia. **Journals of Gerontology Series A: Biomedical Sciences and Medical Sciences**, 80(6): glaf046. [https://doi.org/10.1093/gerona/glaf046](https://academic.oup.com/biomedgerontology/article-abstract/80/6/glaf046/8051326?redirectedFrom=fulltext).
 
-+ Shuo Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Associations of Maternal Smoking During Pregnancy and Genetic Susceptibility with Incident Asthma from a Cohort Study. **Prevention Science**, in press.
++ Shuo Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Associations of Maternal Smoking During Pregnancy and Genetic Susceptibility with Incident Asthma from a Cohort Study. **Prevention Science**, 26(3): 343-354. [https://doi.org/10.1007/s11121-025-01793-z](https://link.springer.com/article/10.1007/s11121-025-01793-z).
 
 + Wenying Chen<sup>$</sup>, Yuxin Liu<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhou Jiang<sup>$</sup>, Ting Wang, Shuiping Huang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Transfer Learning Prediction of Early Exposures and Genetic Risk Score on Adult Obesity in Two Minority Cohorts. **Prevention Science**, 26(2): 234-245. [https://doi.org/10.1007/s11121-025-01781-3](https://link.springer.com/article/10.1007/s11121-025-01781-3).
 
