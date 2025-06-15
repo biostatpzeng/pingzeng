@@ -7,8 +7,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
-+ Yuxin Liu, Yu Yan, Yuchen Jiang, Xinyi Wang, Hua Lin, Keying Chen, Shuo Zhang, Fengjun Guan, Pan Zhang, Ting Wang, Ke Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive exploration of the impact and contribution of polygenic risk score on age at onset of 30 complex diseases
-
 + Yu Yan, Yuchen Jiang, Yuxin Liu, Jike Qi, Hua Lin, Xinyi Wang, Hao Zhang, Zhou Jiang,Ke Wang, Yue Xu<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from prospective cohort study and instrumental variable causal inference.
 
 + Ying Liu<sup>$</sup>, Guojing Yuan<sup>$</sup>, Zhou Jiang<sup>$</sup>, Yuxin Liu, Yu Yan, Hao Chen, Shuo Zhang, Ting Wang, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the influence of overall lung function on incident dementia risk in a prospective national cohort study.
