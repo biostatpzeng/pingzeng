@@ -5,7 +5,7 @@
 :blush:  
 
 > ## 2025
-+ Yuxin Liu, Yu Yan, Yuchen Jiang, Xinyi Wang, Hua Lin, Keying Chen, Shuo Zhang, Fengjun Guan, Pan Zhang, Ting Wang, Ke Wang, Chu Zheng, Yue Xu<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive exploration of the impact and contribution of polygenic risk score on age at onset of 30 complex diseases. Public Health, 244: 105754. [https://doi.org/10.1016/j.puhe.2025.105754](https://www.sciencedirect.com/science/article/abs/pii/S0033350625002008?via%3Dihub).
++ Yuxin Liu, Yu Yan, Yuchen Jiang, Xinyi Wang, Hua Lin, Keying Chen, Shuo Zhang, Fengjun Guan, Pan Zhang, Ting Wang, Ke Wang, Chu Zheng, Yue Xu<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). A comprehensive exploration of the impact and contribution of polygenic risk score on age at onset of 30 complex diseases. Public Health, 244: 105754. [https://doi.org/10.1016/j.puhe.2025.105754](https://www.sciencedirect.com/science/article/abs/pii/S0033350625002008?via%3Dihub).
 
 + Zhou Jiang, Yu Yan, Jike Qi, Yuxin Liu, Yuchen Jiang, Hao Zhang, Hao Chen, Xinying Guan, Pan Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Roles of genetic predisposition and mediation of biological age acceleration in the association between air pollution and dementia. **Journals of Gerontology Series A: Biomedical Sciences and Medical Sciences**, 80(6): glaf046. [https://doi.org/10.1093/gerona/glaf046](https://academic.oup.com/biomedgerontology/article-abstract/80/6/glaf046/8051326?redirectedFrom=fulltext).
 
