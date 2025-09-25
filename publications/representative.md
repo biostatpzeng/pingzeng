@@ -7,55 +7,56 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
-个人情况
-（1）曾平，博士，硕士生、博士生导师；徐州医科大学公共卫生学院副院长（分管科研、学科建设、研究生培养等工作），任职卫生统计学教研室，流行病与卫生统计学教授，公共卫生与预防医学一级学科负责人（学术型硕士研究生）、公共卫生专业学科负责人（专业型硕士研究生）、生物统计学二级博士点学科负责人；
-（2）2012年9月至2015年7月于南京医科大学公共卫生学院学习，获得流行病与卫生统计学博士；博士毕业论文受到南京医科大学优秀博士论文培育项目和江苏省教育厅普通高校研究生科研创新计划项目支持。2015年10月-2017年10月在美国密歇根大学生物统计学系从事博士后研究（NIH项目支持）；
-（3）中国卫生信息与医疗健康大数据学会统计理论与方法专业委员会常务委员；
-（4）2018年获徐州医科大学党委“青年教学科技人才”称号、江苏省高校“青蓝工程”优秀青年骨干教师称号、徐州医科大学“最有范导师”；2019年获徐州医科大学第一届“十大杰出青年人才”称号、江苏省“六大人才高峰”高层次人才称号；2022年获江苏省高校“青蓝工程”中青年学术带头人称号；2024年获徐州医科大学第三届“优秀导师”称号；
-（5）是中国卫生统计、Genome Biology、Nature Human Behavior、Nature Biomedical Engineering、Nature Communications、Cell Genomics、Bioinformatics、BMC Medicine、Briefings in Bioinformatics、Nucleic Acids Research、Journal of Applied Statistics、Computational Statistics and Data Analysis、Statistics in Medicine、Heredity、Linear Algebra and its Applications、Communications biology、Computers in Biology and Medicine、Environmental Advances、BMC Genomic Data、BMC Genomics、iScience、Journal of Translational Medicine、Environmental Research、Annals of Human Genetics、Genetic Epidemiology、International Journal of Oncology、Statistica Neerlandica、Neural Regeneration Research等期刊的审稿人；
+> ## 个人情况
++ （1）曾平，博士，硕士生、博士生导师；徐州医科大学公共卫生学院副院长（分管科研、学科建设、研究生培养等工作），任职卫生统计学教研室，流行病与卫生统计学教授，公共卫生与预防医学一级学科负责人（学术型硕士研究生）、公共卫生专业学科负责人（专业型硕士研究生）、生物统计学二级博士点学科负责人；
++ （2）2012年9月至2015年7月于南京医科大学公共卫生学院学习，获得流行病与卫生统计学博士；博士毕业论文受到南京医科大学优秀博士论文培育项目和江苏省教育厅普通高校研究生科研创新计划项目支持。2015年10月-2017年10月在美国密歇根大学生物统计学系从事博士后研究（NIH项目支持）；
++ （3）中国卫生信息与医疗健康大数据学会统计理论与方法专业委员会常务委员；
++ （4）2018年获徐州医科大学党委“青年教学科技人才”称号、江苏省高校“青蓝工程”优秀青年骨干教师称号、徐州医科大学“最有范导师”；2019年获徐州医科大学第一届“十大杰出青年人才”称号、江苏省“六大人才高峰”高层次人才称号；2022年获江苏省高校“青蓝工程”中青年学术带头人称号；2024年获徐州医科大学第三届“优秀导师”称号；
++ （5）是中国卫生统计、Genome Biology、Nature Human Behavior、Nature Biomedical Engineering、Nature Communications、Cell Genomics、Bioinformatics、BMC Medicine、Briefings in Bioinformatics、Nucleic Acids Research、Journal of Applied Statistics、Computational Statistics and Data Analysis、Statistics in Medicine、Heredity、Linear Algebra and its Applications、Communications biology、Computers in Biology and Medicine、Environmental Advances、BMC Genomic Data、BMC Genomics、iScience、Journal of Translational Medicine、Environmental Research、Annals of Human Genetics、Genetic Epidemiology、International Journal of Oncology、Statistica Neerlandica、Neural Regeneration Research等期刊的审稿人；
 （6）徐州市卫健委、国家自然科学基金、多个省自然科学基金、英国医学研究委员会（Medical Research Council,MRC）、英国研究与创新署（UK Research and Innovation,UKRI）的评审专家。
 
-研究方向
-（1）基于大型队列人群数据，利用各种流行病学策略（如因果推断、机器学习）和现代科技手段（如空间遥感技术），同时发展统计建模和计算方法，从群体角度了解暴露（如空气污染、生命早期暴露、不良社会行为心理特征）对后期疾病（如神经退化、神经精神、肿瘤、免疫、代谢和心脑血管等疾病）发生发展的影响；
-（2）聚焦复杂疾病（如神经退化、神经精神、肿瘤、免疫、代谢和心脑血管等疾病），利用生物医学大数据发展多组学整合、遗传关联、风险预测、高维中介和因果推断等统计方法，从表型组、基因组、表观组、转录组、蛋白组和代谢组等多组学视角了解疾病发生发展过程，为疾病诊断和预后提供科学依据和参考。
+> ## 研究方向
++ （1）基于大型队列人群数据，利用各种流行病学策略（如因果推断、机器学习）和现代科技手段（如空间遥感技术），同时发展统计建模和计算方法，从群体角度了解暴露（如空气污染、生命早期暴露、不良社会行为心理特征）对后期疾病（如神经退化、神经精神、肿瘤、免疫、代谢和心脑血管等疾病）发生发展的影响；
++ （2）聚焦复杂疾病（如神经退化、神经精神、肿瘤、免疫、代谢和心脑血管等疾病），利用生物医学大数据发展多组学整合、遗传关联、风险预测、高维中介和因果推断等统计方法，从表型组、基因组、表观组、转录组、蛋白组和代谢组等多组学视角了解疾病发生发展过程，为疾病诊断和预后提供科学依据和参考。
 
 研究成果
-（1）发表英文论文近50篇、发表中文核心论文近40篇（https://github.com/biostatpzeng/pingzeng/blob/master/publications/English%20publications.md）；
-（2）关于统计遗传学方法与理论成果发表在PLoS Computational Biology、Briefings in Bioinformatics、Nature Communications、Bioinformatics、PLoS Genetics、Human Genetics、Computational and Structural Biotechnology Journal、Human Molecular Genetics、Current Genetics、BMC Genomics、Journal of Applied Statistics、BMC Bioinformatics、BMC Medical Research Methodology和Annals of Human Genetics等统计和遗传期刊；
-（3）关于数据分析和理论方法应用的成果发表在中国卫生统计、International Journal of Epidemiology、Annals of Neurology、BMC Medicine、Human Molecular Genetics、Journal of Clinical Endocrinology & Metabolism、Journal of Bone and Mineral Research、Neurobiology of Aging、Progress in Neuro-psychopharmacology and Biological Psychiatry、Journal of Translational Medicine等遗传期刊。
-（4）徐州市自然科学优秀学术论文二等奖（2018）、教育部高等学校科学研究优秀成果二等奖（2019）、卫健委医学新技术引进一等奖（2020）、江苏省高等学校科学技术研究成果奖三等奖（2021）。
-科研条件
-（1）拥有闵行出生队列、UKB生物银行、CHNS、CHARLS、CLHLS、GERA和WTCCC等数十个大型GWAS个体水平数据（individual-level data）；拥有包括神经退化性疾病、神经精神疾病、免疫、代谢和心脑血管疾病在内的数千个复杂性状汇总水平数据（summary-level data）；能够用于统计遗传和队列人群高维数据建模和实际分析；
-（2）徐州医科大学医学统计分析中心；
-（3）徐州医科大学校重点实验室人类遗传和环境医学重点实验室；
-（4）徐州医科大学高性能计算（HPC）集群中心；
-（5）徐州市生物数据挖掘与医疗健康转化创新工程研究中心；
-（6）江苏省生物数据挖掘与医疗健康转化工程研究中心。
++ （1）发表英文论文近50篇、发表中文核心论文近40篇（https://github.com/biostatpzeng/pingzeng/blob/master/publications/English%20publications.md）；
++ （2）关于统计遗传学方法与理论成果发表在PLoS Computational Biology、Briefings in Bioinformatics、Nature Communications、Bioinformatics、PLoS Genetics、Human Genetics、Computational and Structural Biotechnology Journal、Human Molecular Genetics、Current Genetics、BMC Genomics、Journal of Applied Statistics、BMC Bioinformatics、BMC Medical Research Methodology和Annals of Human Genetics等统计和遗传期刊；
++ （3）关于数据分析和理论方法应用的成果发表在中国卫生统计、International Journal of Epidemiology、Annals of Neurology、BMC Medicine、Human Molecular Genetics、Journal of Clinical Endocrinology & Metabolism、Journal of Bone and Mineral Research、Neurobiology of Aging、Progress in Neuro-psychopharmacology and Biological Psychiatry、Journal of Translational Medicine等遗传期刊。
++ （4）徐州市自然科学优秀学术论文二等奖（2018）、教育部高等学校科学研究优秀成果二等奖（2019）、卫健委医学新技术引进一等奖（2020）、江苏省高等学校科学技术研究成果奖三等奖（2021）。
 
-科研项目
-2018年至今，主持科研课题包括：
-（13）江苏省卫生应急研究所、徐州医科大学医疗卫生应急救援研究中心招标课题（JSWSYJ-20240203）（2025.01~2026.12）
-（12）国家卫生健康委避孕药具警戒与生育力监测重点实验室面上项目（JSHD202412）（2025.01~2026.12）
-（11）煤炭环境致病与防治教育部重点实验室开放课题基金重点项目（MEKLCEPP/SXMU-202415）（2024.09~2026.08）
-（10）江苏省自然科学基金面上项目（BK20241952）（2024.09~2027.08）
-（9）国家自然科学基金面上项目（82173630）（2022.01~2025.12）
-（8）江苏省高校青蓝工程中青年学术带头人项目（2022.07~2025.07）
-（7）徐州医科大学青年科技创新团队项目（TD202008）（2020.09~2024.09）
-（6）中国博士后科学基金特别项目（2019T120465）（2019.08~2024.01）
-（5）江苏省六大人才高峰项目（WSN-087）（2019.08~2024.10）
-（4）中国博士后科学基金一等项目（2018M630607）（2018.08~2024.1）
-（3）江苏省自然科学基金面上项目（BK20181472）（2018.08~2021.08）
-（2）教育部人文社会科学研究青年基金项目（18YJC910002）（2018.08~2021.08）
-（1）江苏省高校青蓝工程优秀青年骨干教师项目（2018.08~2021.08）
+> ## 科研条件
++ （1）拥有闵行出生队列、UKB生物银行、CHNS、CHARLS、CLHLS、GERA和WTCCC等数十个大型GWAS个体水平数据（individual-level data）；拥有包括神经退化性疾病、神经精神疾病、免疫、代谢和心脑血管疾病在内的数千个复杂性状汇总水平数据（summary-level data）；能够用于统计遗传和队列人群高维数据建模和实际分析；
++ （2）徐州医科大学医学统计分析中心；
++ （3）徐州医科大学校重点实验室人类遗传和环境医学重点实验室；
++ （4）徐州医科大学高性能计算（HPC）集群中心；
++ （5）徐州市生物数据挖掘与医疗健康转化创新工程研究中心；
++ （6）江苏省生物数据挖掘与医疗健康转化工程研究中心。
 
-研究生培养
-（1）公共卫生专业2020级研究生张萌完成的《从遗传相关性、中介和因果关系的角度重新审视出生体重与乳腺癌之间的关系》论文被评为2024年江苏省优秀专业学位硕士学位论文；
-（2）公共卫生专业2019级研究生陆皓杰完成的《整合eQTL信息的多位点单核苷酸多态性等级Cox生存关联分析方法》论文被评为2023年江苏省优秀专业学位硕士学位论文；
-（3）流行病与卫生统计学专业2017级研究生余星皓完成的《建立基于模型平均方法的全基因组表型预测模型》论文被评为2021年江苏省优秀学术学位硕士学位论文。
+> ## 科研项目
++ 2018年至今，主持科研课题包括：
++ （13）江苏省卫生应急研究所、徐州医科大学医疗卫生应急救援研究中心招标课题（JSWSYJ-20240203）（2025.01~2026.12）
++ （12）国家卫生健康委避孕药具警戒与生育力监测重点实验室面上项目（JSHD202412）（2025.01~2026.12）
++ （11）煤炭环境致病与防治教育部重点实验室开放课题基金重点项目（MEKLCEPP/SXMU-202415）（2024.09~2026.08）
++ （10）江苏省自然科学基金面上项目（BK20241952）（2024.09~2027.08）
++ （9）国家自然科学基金面上项目（82173630）（2022.01~2025.12）
++ （8）江苏省高校青蓝工程中青年学术带头人项目（2022.07~2025.07）
++ （7）徐州医科大学青年科技创新团队项目（TD202008）（2020.09~2024.09）
++ （6）中国博士后科学基金特别项目（2019T120465）（2019.08~2024.01）
++ （5）江苏省六大人才高峰项目（WSN-087）（2019.08~2024.10）
++ （4）中国博士后科学基金一等项目（2018M630607）（2018.08~2024.1）
++ （3）江苏省自然科学基金面上项目（BK20181472）（2018.08~2021.08）
++ （2）教育部人文社会科学研究青年基金项目（18YJC910002）（2018.08~2021.08）
++ （1）江苏省高校青蓝工程优秀青年骨干教师项目（2018.08~2021.08）
 
-统计咨询
-（1）面向临床一线研究人员及医学生开展针对临床研究的统计方法和大数据分析咨询与服务；
-（2）帮助临床科研人员解决面临的各种统计学问题。
+> ## 研究生培养
++ （1）公共卫生专业2020级研究生张萌完成的《从遗传相关性、中介和因果关系的角度重新审视出生体重与乳腺癌之间的关系》论文被评为2024年江苏省优秀专业学位硕士学位论文；
++ （2）公共卫生专业2019级研究生陆皓杰完成的《整合eQTL信息的多位点单核苷酸多态性等级Cox生存关联分析方法》论文被评为2023年江苏省优秀专业学位硕士学位论文；
++ （3）流行病与卫生统计学专业2017级研究生余星皓完成的《建立基于模型平均方法的全基因组表型预测模型》论文被评为2021年江苏省优秀学术学位硕士学位论文。
+
+> ## 统计咨询
++ （1）面向临床一线研究人员及医学生开展针对临床研究的统计方法和大数据分析咨询与服务；
++ （2）帮助临床科研人员解决面临的各种统计学问题。
 
 
 
