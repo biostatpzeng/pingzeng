@@ -8,18 +8,18 @@
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## 个人情况
-+ （1）曾平，博士，硕士生、博士生导师；徐州医科大学公共卫生学院副院长（分管科研、学科建设、研究生培养等工作），任职卫生统计学教研室，流行病与卫生统计学教授，公共卫生与预防医学一级学科负责人（学术型硕士研究生）、公共卫生专业学科负责人（专业型硕士研究生）、生物统计学二级博士点学科负责人；
++ （1）曾平，博士，硕士生、博士生导师；徐州医科大学公共卫生学院副院长，任职卫生统计学教研室，流行病与卫生统计学教授，公共卫生与预防医学一级学科负责人、公共卫生专业学科负责人、生物统计学二级博士点学科负责人；
 + （2）2012年9月至2015年7月于南京医科大学公共卫生学院学习，获得流行病与卫生统计学博士；博士毕业论文受到南京医科大学优秀博士论文培育项目和江苏省教育厅普通高校研究生科研创新计划项目支持。2015年10月-2017年10月在美国密歇根大学生物统计学系从事博士后研究（NIH项目支持）；
 + （3）中国卫生信息与医疗健康大数据学会统计理论与方法专业委员会常务委员；
 + （4）2018年获徐州医科大学党委“青年教学科技人才”称号、江苏省高校“青蓝工程”优秀青年骨干教师称号、徐州医科大学“最有范导师”；2019年获徐州医科大学第一届“十大杰出青年人才”称号、江苏省“六大人才高峰”高层次人才称号；2022年获江苏省高校“青蓝工程”中青年学术带头人称号；2024年获徐州医科大学第三届“优秀导师”称号；
 + （5）是中国卫生统计、Genome Biology、Nature Human Behavior、Nature Biomedical Engineering、Nature Communications、Cell Genomics、Bioinformatics、BMC Medicine、Briefings in Bioinformatics、Nucleic Acids Research、Journal of Applied Statistics、Computational Statistics and Data Analysis、Statistics in Medicine、Heredity、Linear Algebra and its Applications、Communications biology、Computers in Biology and Medicine、Environmental Advances、BMC Genomic Data、BMC Genomics、iScience、Journal of Translational Medicine、Environmental Research、Annals of Human Genetics、Genetic Epidemiology、International Journal of Oncology、Statistica Neerlandica、Neural Regeneration Research等期刊的审稿人；
-+ （6）徐州市卫健委、国家自然科学基金、多个省自然科学基金、英国医学研究委员会（Medical Research Council,MRC）、英国研究与创新署（UK Research and Innovation,UKRI）的评审专家。
++ （6）徐州市卫健委、国家自然科学基金、多个省自然科学基金、英国医学研究委员会（Medical Research Council, MRC）、英国研究与创新署（UK Research and Innovation, UKRI）的评审专家。
 
 > ## 研究方向
 + （1）基于大型队列人群数据，利用各种流行病学策略（如因果推断、机器学习）和现代科技手段（如空间遥感技术），同时发展统计建模和计算方法，从群体角度了解暴露（如空气污染、生命早期暴露、不良社会行为心理特征）对后期疾病（如神经退化、神经精神、肿瘤、免疫、代谢和心脑血管等疾病）发生发展的影响；
 + （2）聚焦复杂疾病（如神经退化、神经精神、肿瘤、免疫、代谢和心脑血管等疾病），利用生物医学大数据发展多组学整合、遗传关联、风险预测、高维中介和因果推断等统计方法，从表型组、基因组、表观组、转录组、蛋白组和代谢组等多组学视角了解疾病发生发展过程，为疾病诊断和预后提供科学依据和参考。
 
-研究成果
+> ## 研究成果
 + （1）发表英文论文近50篇、发表中文核心论文近40篇（https://github.com/biostatpzeng/pingzeng/blob/master/publications/English%20publications.md）；
 + （2）关于统计遗传学方法与理论成果发表在PLoS Computational Biology、Briefings in Bioinformatics、Nature Communications、Bioinformatics、PLoS Genetics、Human Genetics、Computational and Structural Biotechnology Journal、Human Molecular Genetics、Current Genetics、BMC Genomics、Journal of Applied Statistics、BMC Bioinformatics、BMC Medical Research Methodology和Annals of Human Genetics等统计和遗传期刊；
 + （3）关于数据分析和理论方法应用的成果发表在中国卫生统计、International Journal of Epidemiology、Annals of Neurology、BMC Medicine、Human Molecular Genetics、Journal of Clinical Endocrinology & Metabolism、Journal of Bone and Mineral Research、Neurobiology of Aging、Progress in Neuro-psychopharmacology and Biological Psychiatry、Journal of Translational Medicine等遗传期刊。
