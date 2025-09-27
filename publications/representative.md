@@ -13,7 +13,7 @@
 + （3）中国卫生信息与医疗健康大数据学会统计理论与方法专业委员会常务委员；
 + （4）2018年获徐州医科大学党委“青年教学科技人才”称号、江苏省高校“青蓝工程”优秀青年骨干教师称号、徐州医科大学“最有范导师”；2019年获徐州医科大学第一届“十大杰出青年人才”称号、江苏省“六大人才高峰”高层次人才称号；2022年获江苏省高校“青蓝工程”中青年学术带头人称号；2024年获徐州医科大学第三届“优秀导师”称号；
 + （5）是中国卫生统计、Genome Biology、Nature Human Behavior、Nature Biomedical Engineering、Nature Communications、Cell Genomics、Bioinformatics、BMC Medicine、Briefings in Bioinformatics、Nucleic Acids Research、Journal of Applied Statistics、Computational Statistics and Data Analysis、Statistics in Medicine、Heredity、Linear Algebra and its Applications、Communications biology、Computers in Biology and Medicine、Environmental Advances、BMC Genomic Data、BMC Genomics、iScience、Journal of Translational Medicine、Environmental Research、Annals of Human Genetics、Genetic Epidemiology、International Journal of Oncology、Statistica Neerlandica、Neural Regeneration Research等期刊的审稿人；
-（6）徐州市卫健委、国家自然科学基金、多个省自然科学基金、英国医学研究委员会（Medical Research Council,MRC）、英国研究与创新署（UK Research and Innovation,UKRI）的评审专家。
++ （6）徐州市卫健委、国家自然科学基金、多个省自然科学基金、英国医学研究委员会（Medical Research Council,MRC）、英国研究与创新署（UK Research and Innovation,UKRI）的评审专家。
 
 > ## 研究方向
 + （1）基于大型队列人群数据，利用各种流行病学策略（如因果推断、机器学习）和现代科技手段（如空间遥感技术），同时发展统计建模和计算方法，从群体角度了解暴露（如空气污染、生命早期暴露、不良社会行为心理特征）对后期疾病（如神经退化、神经精神、肿瘤、免疫、代谢和心脑血管等疾病）发生发展的影响；
@@ -58,7 +58,13 @@
 + （1）面向临床一线研究人员及医学生开展针对临床研究的统计方法和大数据分析咨询与服务；
 + （2）帮助临床科研人员解决面临的各种统计学问题。
 
-
++
++
++
++
++
++
++
 
 
 + Yu Yan, Yuchen Jiang, Yuxin Liu, Jike Qi, Hua Lin, Xinyi Wang, Hao Zhang, Zhou Jiang,Ke Wang, Yue Xu<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from prospective cohort study and instrumental variable causal inference.
