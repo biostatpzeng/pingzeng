@@ -7,6 +7,32 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Hao Zhang<sup>$</sup>, Yuxin Liu, Yu Yan, Jike Qi, Hua Lin, Yuchen Jiang, Xinyi Wang, Hongyan Cao, Zhou Jiang, Shuo Zhang, Ting Wang, Yue Xu, Weiyi Song, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Unraveling the role of inflammatory markers in coronary artery disease risk via association, mediation and prediction analyses.
+
++ Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zixin Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Mediation effects of inflammation on the association of physical activity and chronic kidney disease: evidence from questionnaire and device-measured assessments.
+
++ Shuo Zhang<sup>$</sup>, Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Hua Lin, Xinyi Wang, Ting Wang, Hongyan Cao and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity.
+
++ Yuchen Jiang<sup>$</sup>, Jike Qi<sup>$</sup>,Hua Lin, Xinyi Wang, Yuxin Liu, Yu Yan, Ting Wang, Jingjing Sun, Min Sun and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Evaluating the link between metabolic syndrome score and 47 immune diseases from a multidimensional perspective.
+
++ Zhou Jiang<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi<sup>$</sup>, Guojing Yuan, Hao Zhang, Yuxin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Proteomic insights into the association between cigarette smoking and MASLD via proteome-wide Mendelian randomization-based mediation analyses.
+
++ Yu Yan<sup>$</sup>, Yuxin Liu<sup>$</sup>, Jike Qi<sup>$</sup>, Keying Chen, Yue Xu, Shuo Zhang, Ke Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Disentangling the association of depression and anxiety with migraine via a prospective multi-ancestry cohort study and causal inference analysis.
+
++ Yu Yan<sup>$</sup>, Xingjie Hao<sup>$</sup>, Hua Lin, Yuxin Liu, Jike Qi,  Hao Zhang, Xin Zhang, Ying Liu, Zhou Jiang, Yue Xu, Chu Zheng, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Longitudinal insights into dynamics and cumulative burdens of biological age acceleration in relation to T2D, all-cause mortality and glycemic traits.
+
+
++
++
++
++
++
++
++
++
++
++
+
 > ## 个人情况
 + （1）曾平，博士，硕士生、博士生导师；徐州医科大学公共卫生学院副院长，任职卫生统计学教研室，流行病与卫生统计学教授，公共卫生与预防医学一级学科负责人、公共卫生专业学科负责人、生物统计学二级博士点学科负责人；
 + （2）2012年9月至2015年7月于南京医科大学公共卫生学院学习，获得流行病与卫生统计学博士；博士毕业论文受到南京医科大学优秀博士论文培育项目和江苏省教育厅普通高校研究生科研创新计划项目支持。2015年10月-2017年10月在美国密歇根大学生物统计学系从事博士后研究（NIH项目支持）；
@@ -59,32 +85,6 @@
 + （1）面向临床一线研究人员及医学生开展针对临床研究的统计方法和大数据分析咨询与服务；
 + （2）帮助临床科研人员解决面临的各种统计学问题。
 
-
-+ Hao Zhang<sup>$</sup>, Yuxin Liu, Yu Yan, Jike Qi, Hua Lin, Yuchen Jiang, Xinyi Wang, Hongyan Cao, Zhou Jiang, Shuo Zhang, Ting Wang, Yue Xu, Weiyi Song, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Unraveling the role of inflammatory markers in coronary artery disease risk via association, mediation and prediction analyses.
-
-+ Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zixin Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Mediation effects of inflammation on the association of physical activity and chronic kidney disease: evidence from questionnaire and device-measured assessments.
-
-+ Shuo Zhang<sup>$</sup>, Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Hua Lin, Xinyi Wang, Ting Wang, Hongyan Cao and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity.
-
-+ Yuchen Jiang<sup>$</sup>, Jike Qi<sup>$</sup>,Hua Lin, Xinyi Wang, Yuxin Liu, Yu Yan, Ting Wang, Jingjing Sun, Min Sun and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Evaluating the link between metabolic syndrome score and 47 immune diseases from a multidimensional perspective.
-
-+ Zhou Jiang<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi<sup>$</sup>, Guojing Yuan, Hao Zhang, Yuxin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Proteomic insights into the association between cigarette smoking and MASLD via proteome-wide Mendelian randomization-based mediation analyses.
-
-+ Yu Yan<sup>$</sup>, Yuxin Liu<sup>$</sup>, Jike Qi<sup>$</sup>, Keying Chen, Yue Xu, Shuo Zhang, Ke Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Disentangling the association of depression and anxiety with migraine via a prospective multi-ancestry cohort study and causal inference analysis.
-
-+ Yu Yan<sup>$</sup>, Xingjie Hao<sup>$</sup>, Hua Lin, Yuxin Liu, Jike Qi,  Hao Zhang, Xin Zhang, Ying Liu, Zhou Jiang, Yue Xu, Chu Zheng, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Longitudinal insights into dynamics and cumulative burdens of biological age acceleration in relation to T2D, all-cause mortality and glycemic traits.
- 
-
-+
-+
-+
-+
-+
-+
-+
-+
-+
-+
 
 
 + Yu Yan, Yuchen Jiang, Yuxin Liu, Jike Qi, Hua Lin, Xinyi Wang, Hao Zhang, Zhou Jiang,Ke Wang, Yue Xu<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from prospective cohort study and instrumental variable causal inference.
