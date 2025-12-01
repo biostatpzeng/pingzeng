@@ -7,6 +7,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 > ## In preparation
 ----------------------------------------------------------------------------------------------------------------------------------------
++ Jike Qi, Hua Lin, Yuchen Jiang, Yu Yan, Guojing Yuan, Hao Zhang, Chu Zheng, Zhuanzhuan Liu<sup>#</sup>, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Ke Wang<sup>#</sup> (2025). Impact of decline in renal function on Parkinson's disease risk and prognosis in cardiovascular disease patients.
+
++ Jike Qi<sup>$<sup/>, Shuo Zhang<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Shan Feng<sup>$</sup>, Hua Lin, Chu Zheng, Yu Yan, Ke Wang, Hongyan Cao, Weiyi Song, Yue Xu<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Robust evidence for multi-model causal associations linking the metabolic risk score and dilated cardiomyopathy.
+
 + Hao Zhang<sup>$</sup>, Yuxin Liu, Yu Yan, Jike Qi, Hua Lin, Yuchen Jiang, Xinyi Wang, Hongyan Cao, Zhou Jiang, Shuo Zhang, Ting Wang, Yue Xu, Weiyi Song, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Unraveling the role of inflammatory markers in coronary artery disease risk via association, mediation and prediction analyses.
 
 + Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zixin Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Mediation effects of inflammation on the association of physical activity and chronic kidney disease: evidence from questionnaire and device-measured assessments.
