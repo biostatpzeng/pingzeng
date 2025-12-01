@@ -17,11 +17,12 @@
 
 + Zhou Jiang<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi<sup>$</sup>, Guojing Yuan, Hao Zhang, Yuxin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Proteomic insights into the association between cigarette smoking and MASLD via proteome-wide Mendelian randomization-based mediation analyses.
 
-+ Yu Yan<sup>$</sup>, Yuxin Liu<sup>$</sup>, Jike Qi<sup>$</sup>, Keying Chen, Yue Xu, Shuo Zhang, Ke Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Disentangling the association of depression and anxiety with migraine via a prospective multi-ancestry cohort study and causal inference analysis.
-
 + Yu Yan<sup>$</sup>, Xingjie Hao<sup>$</sup>, Hua Lin, Yuxin Liu, Jike Qi,  Hao Zhang, Xin Zhang, Ying Liu, Zhou Jiang, Yue Xu, Chu Zheng, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Longitudinal insights into dynamics and cumulative burdens of biological age acceleration in relation to T2D, all-cause mortality and glycemic traits.
 
++ Yu Yan<sup>$</sup>, Yuxin Liu<sup>$</sup>, Jike Qi<sup>$</sup>, Keying Chen, Yue Xu, Shuo Zhang, Ke Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Disentangling the association of depression and anxiety with migraine via a prospective multi-ancestry cohort study and causal inference analysis.
 
++
++
 +
 +
 +
