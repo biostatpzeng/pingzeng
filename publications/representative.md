@@ -61,18 +61,25 @@
 
 +
 +
-+
-+
-+
-+
-+
+
++ Hao Zhang<sup>$</sup>, Yuxin Liu, Yu Yan, Jike Qi, Hua Lin, Yuchen Jiang, Xinyi Wang, Hongyan Cao, Zhou Jiang, Shuo Zhang, Ting Wang, Yue Xu, Weiyi Song, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Unraveling the role of inflammatory markers in coronary artery disease risk via association, mediation and prediction analyses.
+
++ Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zixin Wang, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Mediation effects of inflammation on the association of physical activity and chronic kidney disease: evidence from questionnaire and device-measured assessments.
+
++ Shuo Zhang<sup>$</sup>, Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Hua Lin, Xinyi Wang, Ting Wang, Hongyan Cao and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity.
+
++ Yuchen Jiang<sup>$</sup>, Jike Qi<sup>$</sup>,Hua Lin, Xinyi Wang, Yuxin Liu, Yu Yan, Ting Wang, Jingjing Sun, Min Sun and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2025). Evaluating the link between metabolic syndrome score and 47 immune diseases from a multidimensional perspective.
+
++ Zhou Jiang<sup>$</sup>, Yu Yan<sup>$</sup>, Jike Qi<sup>$</sup>, Guojing Yuan, Hao Zhang, Yuxin Liu and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Proteomic insights into the association between cigarette smoking and MASLD via proteome-wide Mendelian randomization-based mediation analyses.
+
+
+
+
 
 
 + Yu Yan, Yuchen Jiang, Yuxin Liu, Jike Qi, Hua Lin, Xinyi Wang, Hao Zhang, Zhou Jiang,Ke Wang, Yue Xu<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Ocular extraintestinal manifestations of IBD: phenotypic and genetic evidence from prospective cohort study and instrumental variable causal inference.
 
 + Ying Liu<sup>$</sup>, Guojing Yuan<sup>$</sup>, Zhou Jiang<sup>$</sup>, Yuxin Liu, Yu Yan, Hao Chen, Shuo Zhang, Ting Wang, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup>, and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the influence of overall lung function on incident dementia risk in a prospective national cohort study.
-
-+ Xin Zhang, Yu Yan, Yuxin Liu, Zixin Wang, Yuchen Jiang, Shuo Zhang, Tongda Xu, Ke Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Association of biological aging acceleration transitions and burdens with incident cardiovascular disease: longitudinal insights from a national cohort study.
 
 + Zixin Wang<sup>$</sup>, Hao Zhang<sup>$</sup>, Zhou Jiang, Yuxin Liu, Xin Zhang, Yu Yan, Shuo Zhang, Chu Zheng, Yue Xu<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). Exploring the phenotypic and causal relationships between eight female reproductive factors and delayed biological aging in two national population-based studies.
 
@@ -91,8 +98,6 @@
 + Yuxuan Wu, Yu Yan, Yue Xu, Yuchen Jiang, Ting Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2023). Maternal smoking during pregnancy, genetic factors, and offspring depression: a prospective analysis in the UK Biobank study.
 
 + Tongyu Gao, Yin Liu, Siyi Jin, [**Ping Zeng**](https://github.com/biostatpzeng), Ting Wang and Chunxia Miao<sup>#</sup> (2024). Exploring the maternal origin of children-onset asthma with polygenetic risk score based instrumental variable causal inference method.
-
-+ Xin Zhang<sup>$</sup>, Shuo Zhang<sup>$</sup>, Zhixin Wang, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Chu Zheng<sup>#</sup> (2024). Mediation effects of obesity and inflammation on the association of physical activity with incident chronic kidney disease.
 
 + Tongyu Gao, Zhou Jiang, Keying Chen, Ying Liu, Kexuan Zhu, Hao Zhang, Ting Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2024). A comprehensive analysis of the association between blood cell traits and myocardial infarction through Mendelian randomization and genome-wide genetic pleiotropy. 
 
