@@ -4,6 +4,10 @@
 + *The research is supported in part by NFSC and other fundings from Chinese Government.*
 :blush:  
 
+> ## 2026
++ Shuo Zhang<sup>$</sup>,Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Hua Lin, Xinyi Wang, Ting Wang, Hongyan Cao and [**Ping Zeng**](https://github.com/biostatpzeng)# (2026). An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity. **Briefings in Bioinformatics**, 27(2): bbag103. [https://doi:10.1093/bib/bbag103]
+
+
 > ## 2025
 + Xin Zhang, Yu Yan, Yuxin Liu, Zixin Wang, Yuchen Jiang, Shuo Zhang, Tongda Xu, Ke Wang, Chu Zheng and [**Ping Zeng**](https://github.com/biostatpzeng)# (2025). Association of biological aging acceleration transitions and burdens with incident cardiovascular disease: longitudinal insights from a national cohort study. **BMC Medicine**, 23(1): 347. [https://doi.org/10.1186/s12916-025-04177-w](https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-025-04177-w).
 
