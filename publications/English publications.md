@@ -5,7 +5,7 @@
 :blush:  
 
 > ## 2026
-+ Shuo Zhang<sup>$</sup>,Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Hua Lin, Xinyi Wang, Ting Wang, Hongyan Cao and [**Ping Zeng**](https://github.com/biostatpzeng)# (2026). An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity. **Briefings in Bioinformatics**, 27(2): bbag103. [https://doi:10.1093/bib/bbag103]
++ Shuo Zhang<sup>$</sup>,Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Hua Lin, Xinyi Wang, Ting Wang, Hongyan Cao and [**Ping Zeng**](https://github.com/biostatpzeng)# (2026). An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity. **Briefings in Bioinformatics**, 27(2): bbag103. [https://doi:10.1093/bib/bbag103](https://academic.oup.com/bib/article/27/2/bbag103/8512410).
 
 
 > ## 2025
