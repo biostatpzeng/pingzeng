@@ -5,6 +5,8 @@
 :blush:  
 
 > ## 2026
++ Guojing Yuan<sup>$</sup>, Ying Liu<sup>$</sup>, Jike Qi, Hua Lin, Yuchen Jiang, Xinyi Wang, Yu Yan, Ting Wang, Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)# (2026). Biological Age Acceleration and the Dynamic Progression of Cardiovascular-Kidney-Metabolic Diseases to Multimorbidity, Dementia and Mortality: A Prospective Cohort Study. **Geriatrics & gerontology international**, 26(5): e70557. [https://doi.org/10.1111/ggi.70557](https://onlinelibrary.wiley.com/doi/10.1111/ggi.70557).
+
 + Shuo Zhang<sup>$</sup>, Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Hua Lin, Xinyi Wang, Ting Wang, Hongyan Cao and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2026). An integrative association analysis for complex diseases in underrepresented groups by leveraging the trans-ethnic genetic similarity. **Briefings in Bioinformatics**, 27(2): bbag103. [https://doi:10.1093/bib/bbag103](https://academic.oup.com/bib/article/27/2/bbag103/8512410).
 
 + Hao Zhang, Yuxin Liu, Yu Yan, Jike Qi, Hua Lin, Yuchen Jiang, Xinyi Wang, Hongyan Cao, Zhou Jiang, Shuo Zhang, Ting Wang, Yue Xu, Weiyi Song, Ke Wang<sup>#</sup>, Chu Zheng<sup>#</sup> and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2026). Unravelling the role of inflammatory markers in coronary artery disease risk via association, mediation and prediction analyses. **Journal of Global Health**, 16: 04060. [https://doi.org/10.7189/jogh.16.04060](https://jogh.org/2026/jogh-16-04060).
