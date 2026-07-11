@@ -5,6 +5,8 @@
 :blush:  
 
 > ## 2026
++ Hua Lin<sup>$</sup>, Jike Qi<sup>$</sup>, Yuchen Jiang<sup>$</sup>, Yu Yan, Hao Zhang, Xin Zhang, Jingjing Sun, Min Sun, Wensu Chen, Chen Wang, Tongda Xu, Tianyue Xu,  Xingjie Hao, Chu Zheng, Ke Wang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2026). Cross-cohort insights into the association of handgrip strength transitions and burdens with cardiovascular disease risk. **SSM - Population Health**, 35:101946. [https://doi.org/10.1016/j.ssmph.2026.101946.](https://www.sciencedirect.com/science/article/pii/S2352827326000480).
+
 + Yaqian Xu<sup>$</sup>, Jinming Fu<sup>$</sup>, Chongyu Ding, Hui Zhang, Yulu Gong, Darong Hao, Xiao Sun, [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> and Xiangwei Li<sup>#</sup> (2026). Reproductive life events and biological aging in women over 50: evidence from DNA methylation clocks. **npj Aging**. [https://doi.org/10.1038/s41514-026-00394-6](https://www.nature.com/articles/s41514-026-00394-6).
 
 + Guojing Yuan<sup>$</sup>, Ying Liu<sup>$</sup>, Jike Qi, Hua Lin, Yuchen Jiang, Xinyi Wang, Yu Yan, Ting Wang, Shuo Zhang and [**Ping Zeng**](https://github.com/biostatpzeng)<sup>#</sup> (2026). Biological Age Acceleration and the Dynamic Progression of Cardiovascular-Kidney-Metabolic Diseases to Multimorbidity, Dementia and Mortality: A Prospective Cohort Study. **Geriatrics & gerontology international**, 26(5): e70557. [https://doi.org/10.1111/ggi.70557](https://onlinelibrary.wiley.com/doi/10.1111/ggi.70557).
